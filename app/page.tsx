@@ -12,8 +12,10 @@ import { loadStoredDateRange, saveDateRange, loadStoredTrendFilter, saveTrendFil
 import { ChevronDown, ChevronUp, DollarSign, TrendingUp, Percent } from 'lucide-react';
 import { OverviewCard } from '@/components/OverviewCard';
 import { MonthlyDetailCard } from '@/components/MonthlyDetailCard';
+import PasswordGateway from '@/components/PasswordGateway';
 
 export default function Dashboard() {
+  const [isAuthenticated, setIsAuthenticated] = useState(false);
   const [data, setData] = useState<AggregatedData | null>(null);
   const [loading, setLoading] = useState(true);
   const [error, setError] = useState<string | null>(null);
@@ -23,6 +25,12 @@ export default function Dashboard() {
   const [customerTrendFilter, setCustomerTrendFilter] = useState<CustomerTrendFilterValue>('all');
   const [isDataOverviewMinimized, setIsDataOverviewMinimized] = useState(false);
   const [isCustomerListMinimized, setIsCustomerListMinimized] = useState(false);
+
+  // Kontrola autentizace při mount
+  useEffect(() => {
+    const authenticated = sessionStorage.getItem('authenticated') === 'true';
+    setIsAuthenticated(authenticated);
+  }, []);
 
   // Načtení stavu karet z localStorage při mount
   useEffect(() => {
@@ -130,6 +138,11 @@ export default function Dashboard() {
     saveCardMinimizedState('CUSTOMER_LIST_MINIMIZED', newState);
   }, [isCustomerListMinimized]);
 
+
+  // Zobrazit password gateway, pokud uživatel není autentizován
+  if (!isAuthenticated) {
+    return <PasswordGateway onAuthenticated={() => setIsAuthenticated(true)} />;
+  }
 
   if (loading) {
     return (

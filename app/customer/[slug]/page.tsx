@@ -13,8 +13,10 @@ import { formatCurrencyCZK, formatPct } from '@/lib/format';
 import { loadStoredDateRange, saveDateRange } from '@/lib/localStorage';
 import { ArrowLeft, TrendingUp, TrendingDown, Calendar, DollarSign } from 'lucide-react';
 import { LineChart, Line, XAxis, YAxis, CartesianGrid, Tooltip, ResponsiveContainer, BarChart, Bar } from 'recharts';
+import PasswordGateway from '@/components/PasswordGateway';
 
 export default function CustomerDetail() {
+  const [isAuthenticated, setIsAuthenticated] = useState(false);
   const params = useParams();
   const router = useRouter();
   const slug = params.slug as string;
@@ -26,6 +28,12 @@ export default function CustomerDetail() {
   const [startMonth, setStartMonth] = useState<MonthId | null>(null);
   const [endMonth, setEndMonth] = useState<MonthId | null>(null);
   const [dateRangeLoaded, setDateRangeLoaded] = useState(false);
+
+  // Kontrola autentizace při mount
+  useEffect(() => {
+    const authenticated = sessionStorage.getItem('authenticated') === 'true';
+    setIsAuthenticated(authenticated);
+  }, []);
 
   // Načtení dat
   useEffect(() => {
@@ -145,6 +153,11 @@ export default function CustomerDetail() {
       };
     });
   }, [filteredData]);
+
+  // Zobrazit password gateway, pokud uživatel není autentizován
+  if (!isAuthenticated) {
+    return <PasswordGateway onAuthenticated={() => setIsAuthenticated(true)} />;
+  }
 
   if (loading) {
     return (
