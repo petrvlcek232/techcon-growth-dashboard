@@ -1,6 +1,6 @@
 'use client';
 
-import { Table, TableBody, TableCell, TableHead, TableHeader, TableRow } from '@/components/ui/table';
+import { Table, TableBody, TableCell, TableHead, TableHeader, TableRow } from '@/src/components/ui/table';
 import { CustomerMonthly } from '@/lib/types';
 import { formatCurrencyCZK, formatPct } from '@/lib/format';
 

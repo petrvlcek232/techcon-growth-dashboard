@@ -1,7 +1,7 @@
 'use client';
 
-import { Card, CardContent, CardHeader, CardTitle } from '@/components/ui/card';
-import { Badge } from '@/components/ui/badge';
+import { Card, CardContent, CardHeader, CardTitle } from '@/src/components/ui/card';
+import { Badge } from '@/src/components/ui/badge';
 import { CustomerSummary, MonthId } from '@/lib/types';
 import { formatCurrencyCZK, formatPct } from '@/lib/format';
 import { TrendingUp, TrendingDown, Users, DollarSign, Percent } from 'lucide-react';

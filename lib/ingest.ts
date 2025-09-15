@@ -14,7 +14,7 @@ const RawRowSchema = z.object({
   revenue: z.number().min(0),
   profit: z.number(),
   marginPct: z.number().min(0).max(100),
-  period: z.string().regex(/^\d{4}-\d{2}$/),
+  period: z.string().regex(/^\d{4}-\d{2}$/) as z.ZodType<MonthId>,
 });
 
 // Mapování sloupců na základě normalizovaných hlaviček
@@ -85,12 +85,12 @@ async function parseExcelFile(filePath: string): Promise<RawMonthlyRow[]> {
         const profit = mapping.profit !== undefined ? parseNumberCz(row[mapping.profit] || 0) : 0;
         const marginPct = mapping.marginPct !== undefined ? parseNumberCz(row[mapping.marginPct] || 0) : 0;
         
-        const rawRow = {
+        const rawRow: RawMonthlyRow = {
           customer,
           revenue,
           profit,
           marginPct,
-          period,
+          period: period as MonthId,
         };
         
         // Validace přes Zod
@@ -151,12 +151,12 @@ async function parseCsvFile(filePath: string): Promise<RawMonthlyRow[]> {
               const profit = mapping.profit !== undefined ? parseNumberCz(row[headers[mapping.profit]] || 0) : 0;
               const marginPct = mapping.marginPct !== undefined ? parseNumberCz(row[headers[mapping.marginPct]] || 0) : 0;
               
-              const rawRow = {
+              const rawRow: RawMonthlyRow = {
                 customer,
                 revenue,
                 profit,
                 marginPct,
-                period,
+                period: period as MonthId,
               };
               
               const validatedRow = RawRowSchema.parse(rawRow);

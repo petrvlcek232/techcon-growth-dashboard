@@ -1,6 +1,6 @@
 'use client';
 
-import { Badge } from '@/components/ui/badge';
+import { Badge } from '@/src/components/ui/badge';
 import { TrendingUp, TrendingDown, Minus } from 'lucide-react';
 
 interface TrendBadgeProps {

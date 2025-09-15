@@ -1,7 +1,7 @@
 'use client';
 
 import { useState, useMemo } from 'react';
-import { Input } from '@/components/ui/input';
+import { Input } from '@/src/components/ui/input';
 import { CustomerSummary, MonthId } from '@/lib/types';
 import { CustomerRow } from './CustomerRow';
 import { normalizeForSearch } from '@/lib/format';

@@ -4,7 +4,7 @@ import { CustomerSummary, MonthId } from '@/lib/types';
 import { formatCurrencyCZK, formatPct } from '@/lib/format';
 import { TrendBadge } from './TrendBadge';
 import { Sparkline } from './Sparkline';
-import { Card, CardContent } from '@/components/ui/card';
+import { Card, CardContent } from '@/src/components/ui/card';
 import { useMemo } from 'react';
 
 interface CustomerRowProps {
