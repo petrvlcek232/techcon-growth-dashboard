@@ -13,7 +13,7 @@ const RawRowSchema = z.object({
   customer: z.string().min(1),
   revenue: z.number().min(0),
   profit: z.number(),
-  marginPct: z.number().min(0).max(100),
+  marginPct: z.number(), // Bez omezení pro marže
   period: z.string().regex(/^\d{4}-\d{2}$/) as z.ZodType<MonthId>,
 });
 
@@ -74,16 +74,16 @@ async function parseExcelFile(filePath: string): Promise<RawMonthlyRow[]> {
     const rows: RawMonthlyRow[] = [];
     
     for (let i = 1; i < jsonData.length; i++) {
-      const row = jsonData[i] as any[];
+      const row = jsonData[i] as unknown[];
       if (!row || row.length === 0) continue;
       
       try {
         const customer = String(row[mapping.customer] || '').trim();
         if (!customer) continue;
         
-        const revenue = parseNumberCz(row[mapping.revenue] || 0);
-        const profit = mapping.profit !== undefined ? parseNumberCz(row[mapping.profit] || 0) : 0;
-        const marginPct = mapping.marginPct !== undefined ? parseNumberCz(row[mapping.marginPct] || 0) : 0;
+        const revenue = parseNumberCz(String(row[mapping.revenue] || 0));
+        const profit = mapping.profit !== undefined ? parseNumberCz(String(row[mapping.profit] || 0)) : 0;
+        const marginPct = mapping.marginPct !== undefined ? parseNumberCz(String(row[mapping.marginPct] || 0)) : 0;
         
         const rawRow: RawMonthlyRow = {
           customer,
@@ -142,14 +142,14 @@ async function parseCsvFile(filePath: string): Promise<RawMonthlyRow[]> {
           
           const rows: RawMonthlyRow[] = [];
           
-          (results.data as any[]).forEach((row, index) => {
+          (results.data as Record<string, unknown>[]).forEach((row, index) => {
             try {
               const customer = String(row[headers[mapping.customer]] || '').trim();
               if (!customer) return;
               
-              const revenue = parseNumberCz(row[headers[mapping.revenue]] || 0);
-              const profit = mapping.profit !== undefined ? parseNumberCz(row[headers[mapping.profit]] || 0) : 0;
-              const marginPct = mapping.marginPct !== undefined ? parseNumberCz(row[headers[mapping.marginPct]] || 0) : 0;
+              const revenue = parseNumberCz(String(row[headers[mapping.revenue]] || 0));
+              const profit = mapping.profit !== undefined ? parseNumberCz(String(row[headers[mapping.profit]] || 0)) : 0;
+              const marginPct = mapping.marginPct !== undefined ? parseNumberCz(String(row[headers[mapping.marginPct]] || 0)) : 0;
               
               const rawRow: RawMonthlyRow = {
                 customer,
@@ -222,12 +222,12 @@ export async function ingestDirectory(dir: string = DATA_DIR): Promise<Aggregate
       rows = await parseCsvFile(filePath);
     }
     
+    allRows.push(...rows);
+    processedFiles.push(file);
     if (rows.length > 0) {
-      allRows.push(...rows);
-      processedFiles.push(file);
       console.log(`Úspěšně zpracováno ${rows.length} řádků z ${file}`);
     } else {
-      console.warn(`Žádné platné řádky v souboru ${file}`);
+      console.warn(`Žádné platné řádky v souboru ${file} - všechny řádky měly chyby v datech`);
     }
   }
   

@@ -4,6 +4,7 @@ import { Card, CardContent, CardHeader, CardTitle } from '@/src/components/ui/ca
 import { Badge } from '@/src/components/ui/badge';
 import { CustomerSummary, MonthId } from '@/lib/types';
 import { formatCurrencyCZK, formatPct } from '@/lib/format';
+import { calculateAggregatedMetrics } from '@/lib/filter';
 import { TrendingUp, TrendingDown, Users, DollarSign, Percent } from 'lucide-react';
 
 interface SummaryCardsProps {
@@ -15,29 +16,16 @@ interface SummaryCardsProps {
 
 export function SummaryCards({ 
   customers, 
-  filteredCustomers, 
   startMonth, 
   endMonth 
 }: SummaryCardsProps) {
-  // Celkové metriky (všechny zákazníci, celé období)
-  const totalRevenue = customers.reduce((sum, c) => sum + c.totalRevenue, 0);
-  const totalProfit = customers.reduce((sum, c) => sum + c.totalProfit, 0);
-  const avgMarginPct = customers.length > 0 
-    ? customers.reduce((sum, c) => sum + (c.avgMarginPct || 0), 0) / customers.length 
-    : 0;
-
-  // Filtrované metriky
-  const filteredRevenue = filteredCustomers.reduce((sum, c) => sum + c.totalRevenue, 0);
-  const filteredProfit = filteredCustomers.reduce((sum, c) => sum + c.totalProfit, 0);
-
-  // Trendy
-  const growingCustomers = customers.filter(c => c.revenueTrend === 'UP').length;
-  const decliningCustomers = customers.filter(c => c.revenueTrend === 'DOWN').length;
-  const stableCustomers = customers.filter(c => c.revenueTrend === 'FLAT').length;
-
+  // Vypočítáme metriky pro všechny zákazníky v celém období (pro srovnání)
+  const allMetrics = calculateAggregatedMetrics(customers, null, null);
+  
+  // Vypočítáme metriky pro vybrané období
+  const periodMetrics = calculateAggregatedMetrics(customers, startMonth, endMonth);
+  
   const isFiltered = startMonth || endMonth;
-  const displayRevenue = isFiltered ? filteredRevenue : totalRevenue;
-  const displayProfit = isFiltered ? filteredProfit : totalProfit;
 
   return (
     <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-4 mb-6">
@@ -47,10 +35,10 @@ export function SummaryCards({
           <DollarSign className="h-4 w-4 text-muted-foreground" />
         </CardHeader>
         <CardContent>
-          <div className="text-2xl font-bold">{formatCurrencyCZK(displayRevenue)}</div>
+          <div className="text-2xl font-bold">{formatCurrencyCZK(periodMetrics.totalRevenue)}</div>
           {isFiltered && (
             <p className="text-xs text-muted-foreground">
-              z {formatCurrencyCZK(totalRevenue)} celkem
+              z {formatCurrencyCZK(allMetrics.totalRevenue)} celkem
             </p>
           )}
         </CardContent>
@@ -62,10 +50,10 @@ export function SummaryCards({
           <TrendingUp className="h-4 w-4 text-muted-foreground" />
         </CardHeader>
         <CardContent>
-          <div className="text-2xl font-bold">{formatCurrencyCZK(displayProfit)}</div>
+          <div className="text-2xl font-bold">{formatCurrencyCZK(periodMetrics.totalProfit)}</div>
           {isFiltered && (
             <p className="text-xs text-muted-foreground">
-              z {formatCurrencyCZK(totalProfit)} celkem
+              z {formatCurrencyCZK(allMetrics.totalProfit)} celkem
             </p>
           )}
         </CardContent>
@@ -77,7 +65,7 @@ export function SummaryCards({
           <Percent className="h-4 w-4 text-muted-foreground" />
         </CardHeader>
         <CardContent>
-          <div className="text-2xl font-bold">{formatPct(avgMarginPct)}</div>
+          <div className="text-2xl font-bold">{formatPct(periodMetrics.avgMarginPct)}</div>
           <p className="text-xs text-muted-foreground">
             vážený průměr
           </p>
@@ -90,18 +78,18 @@ export function SummaryCards({
           <Users className="h-4 w-4 text-muted-foreground" />
         </CardHeader>
         <CardContent>
-          <div className="text-2xl font-bold">{customers.length}</div>
-          <div className="flex items-center gap-1 mt-1">
-            <Badge variant="default" className="bg-green-100 text-green-800 text-xs">
+          <div className="text-2xl font-bold">{periodMetrics.activeCustomers}</div>
+          <div className="flex items-center gap-1 mt-1 flex-wrap">
+            <Badge variant="default" className="bg-green-100 text-green-800 text-xs whitespace-nowrap">
               <TrendingUp className="h-3 w-3 mr-1" />
-              {growingCustomers}
+              {periodMetrics.growingCustomers} rostoucí
             </Badge>
-            <Badge variant="destructive" className="bg-red-100 text-red-800 text-xs">
+            <Badge variant="destructive" className="bg-red-100 text-red-800 text-xs whitespace-nowrap">
               <TrendingDown className="h-3 w-3 mr-1" />
-              {decliningCustomers}
+              {periodMetrics.decliningCustomers} klesající
             </Badge>
-            <Badge variant="secondary" className="text-xs">
-              {stableCustomers}
+            <Badge variant="secondary" className="text-xs whitespace-nowrap">
+              {periodMetrics.stableCustomers} stabilní
             </Badge>
           </div>
         </CardContent>

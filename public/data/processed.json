@@ -1667,6 +1667,280 @@
       "profitTrend": "DOWN"
     },
     {
+      "slug": "m-store-bez",
+      "name": "m-store bez",
+      "firstMonth": "2024-01",
+      "lastMonth": "2025-08",
+      "months": [
+        {
+          "period": "2024-01",
+          "revenue": 20332.71,
+          "profit": 1934.967,
+          "marginPct": 10.517415
+        },
+        {
+          "period": "2024-02",
+          "revenue": 41574.47,
+          "profit": 4052.890002,
+          "marginPct": 10.801491
+        },
+        {
+          "period": "2024-03",
+          "revenue": 34566.64,
+          "profit": 4080.185,
+          "marginPct": 13.383599
+        },
+        {
+          "period": "2024-04",
+          "revenue": 33366.1,
+          "profit": 3119.94,
+          "marginPct": 10.315161
+        },
+        {
+          "period": "2024-05",
+          "revenue": 49602.23,
+          "profit": 3996.97,
+          "marginPct": 8.764274
+        },
+        {
+          "period": "2024-06",
+          "revenue": 40818.66,
+          "profit": 3288.68,
+          "marginPct": 8.762808
+        },
+        {
+          "period": "2024-07",
+          "revenue": 48850.9,
+          "profit": -985.965,
+          "marginPct": -1.978385
+        },
+        {
+          "period": "2024-08",
+          "revenue": 52414.86,
+          "profit": 9038.563,
+          "marginPct": 20.837563
+        },
+        {
+          "period": "2024-09",
+          "revenue": 29779.51,
+          "profit": 4623.397,
+          "marginPct": 18.378821
+        },
+        {
+          "period": "2024-10",
+          "revenue": 17689.38,
+          "profit": 3040.735,
+          "marginPct": 20.75779
+        },
+        {
+          "period": "2024-11",
+          "revenue": 27095.38,
+          "profit": 4260.907,
+          "marginPct": 18.659975
+        },
+        {
+          "period": "2024-12",
+          "revenue": 3055.01,
+          "profit": 365.29,
+          "marginPct": 13.580968
+        },
+        {
+          "period": "2025-01",
+          "revenue": 0,
+          "profit": 0,
+          "marginPct": null
+        },
+        {
+          "period": "2025-02",
+          "revenue": 637.56,
+          "profit": 104.73,
+          "marginPct": 19.655425
+        },
+        {
+          "period": "2025-03",
+          "revenue": 2573.98,
+          "profit": 211.823,
+          "marginPct": 8.967355
+        },
+        {
+          "period": "2025-04",
+          "revenue": 6730.16,
+          "profit": 560.65,
+          "marginPct": 9.087432
+        },
+        {
+          "period": "2025-05",
+          "revenue": 0,
+          "profit": 0,
+          "marginPct": null
+        },
+        {
+          "period": "2025-06",
+          "revenue": 7283.89,
+          "profit": 865.383,
+          "marginPct": 13.482621
+        },
+        {
+          "period": "2025-07",
+          "revenue": 3876.14,
+          "profit": 344.15,
+          "marginPct": 9.743799
+        },
+        {
+          "period": "2025-08",
+          "revenue": 144.04,
+          "profit": 21.700004,
+          "marginPct": 17.737457
+        }
+      ],
+      "totalRevenue": 420391.62,
+      "totalProfit": 42924.995006000005,
+      "avgMarginPct": 11.785625964767803,
+      "revenueDeltaAbs": -20188.67,
+      "revenueDeltaPct": -99.29158484038773,
+      "profitDeltaAbs": -1913.266996,
+      "profitDeltaPct": -98.87853363907499,
+      "revenueTrend": "DOWN",
+      "profitTrend": "DOWN"
+    },
+    {
+      "slug": "arnost-tomas",
+      "name": "Arnošt Tomáš",
+      "firstMonth": "2024-01",
+      "lastMonth": "2025-08",
+      "months": [
+        {
+          "period": "2024-01",
+          "revenue": 61163.6,
+          "profit": 9395.188,
+          "marginPct": 18.148496
+        },
+        {
+          "period": "2024-02",
+          "revenue": 33737.29,
+          "profit": 5908.368,
+          "marginPct": 21.231034
+        },
+        {
+          "period": "2024-03",
+          "revenue": 21110.41,
+          "profit": 3936.04,
+          "marginPct": 22.918104
+        },
+        {
+          "period": "2024-04",
+          "revenue": 14622.52,
+          "profit": -824.9,
+          "marginPct": -5.34005
+        },
+        {
+          "period": "2024-05",
+          "revenue": 16911.57,
+          "profit": 2325.15,
+          "marginPct": 15.940512
+        },
+        {
+          "period": "2024-06",
+          "revenue": 20198.59,
+          "profit": 3410.619,
+          "marginPct": 20.31585
+        },
+        {
+          "period": "2024-07",
+          "revenue": 18101.92,
+          "profit": 2984.75,
+          "marginPct": 19.744106
+        },
+        {
+          "period": "2024-08",
+          "revenue": 23682.15,
+          "profit": 3992.79,
+          "marginPct": 20.278922
+        },
+        {
+          "period": "2024-09",
+          "revenue": 12941.68,
+          "profit": 2346.040002,
+          "marginPct": 22.14156
+        },
+        {
+          "period": "2024-10",
+          "revenue": 34018.39,
+          "profit": 6298.605,
+          "marginPct": 22.722416
+        },
+        {
+          "period": "2024-11",
+          "revenue": 14192.28,
+          "profit": 2153.13,
+          "marginPct": 17.884402
+        },
+        {
+          "period": "2024-12",
+          "revenue": 27297.17,
+          "profit": 4691.04,
+          "marginPct": 20.751186
+        },
+        {
+          "period": "2025-01",
+          "revenue": 4814.5,
+          "profit": 1295.734,
+          "marginPct": 36.823534
+        },
+        {
+          "period": "2025-02",
+          "revenue": 50165.24,
+          "profit": 9822.86,
+          "marginPct": 24.348737
+        },
+        {
+          "period": "2025-03",
+          "revenue": 16014.8,
+          "profit": 2431.678,
+          "marginPct": 17.902202
+        },
+        {
+          "period": "2025-04",
+          "revenue": 15632.73,
+          "profit": 3262.35,
+          "marginPct": 26.37227
+        },
+        {
+          "period": "2025-05",
+          "revenue": 9442.59,
+          "profit": 2100.857,
+          "marginPct": 28.615274
+        },
+        {
+          "period": "2025-06",
+          "revenue": 10612.86,
+          "profit": 2079.97,
+          "marginPct": 24.375915
+        },
+        {
+          "period": "2025-07",
+          "revenue": 9667.52,
+          "profit": 1926.59,
+          "marginPct": 24.888353
+        },
+        {
+          "period": "2025-08",
+          "revenue": 3668.72,
+          "profit": 857.079,
+          "marginPct": 30.48323
+        }
+      ],
+      "totalRevenue": 417996.52999999997,
+      "totalProfit": 70393.93800199998,
+      "avgMarginPct": 20.594609578052676,
+      "revenueDeltaAbs": -57494.88,
+      "revenueDeltaPct": -94.00179191545298,
+      "profitDeltaAbs": -8538.109,
+      "profitDeltaPct": -90.8774683380471,
+      "revenueTrend": "DOWN",
+      "profitTrend": "DOWN"
+    },
+    {
       "slug": "cz-plachetka-mechanici",
       "name": "CZ Plachetka mechanici",
       "firstMonth": "2024-01",
@@ -1800,143 +2074,6 @@
       "revenueDeltaPct": -39.303421602362135,
       "profitDeltaAbs": -996.9169999999999,
       "profitDeltaPct": -36.116033049827244,
-      "revenueTrend": "DOWN",
-      "profitTrend": "DOWN"
-    },
-    {
-      "slug": "arnost-tomas",
-      "name": "Arnošt Tomáš",
-      "firstMonth": "2024-01",
-      "lastMonth": "2025-08",
-      "months": [
-        {
-          "period": "2024-01",
-          "revenue": 61163.6,
-          "profit": 9395.188,
-          "marginPct": 18.148496
-        },
-        {
-          "period": "2024-02",
-          "revenue": 33737.29,
-          "profit": 5908.368,
-          "marginPct": 21.231034
-        },
-        {
-          "period": "2024-03",
-          "revenue": 21110.41,
-          "profit": 3936.04,
-          "marginPct": 22.918104
-        },
-        {
-          "period": "2024-04",
-          "revenue": 0,
-          "profit": 0,
-          "marginPct": null
-        },
-        {
-          "period": "2024-05",
-          "revenue": 16911.57,
-          "profit": 2325.15,
-          "marginPct": 15.940512
-        },
-        {
-          "period": "2024-06",
-          "revenue": 20198.59,
-          "profit": 3410.619,
-          "marginPct": 20.31585
-        },
-        {
-          "period": "2024-07",
-          "revenue": 18101.92,
-          "profit": 2984.75,
-          "marginPct": 19.744106
-        },
-        {
-          "period": "2024-08",
-          "revenue": 23682.15,
-          "profit": 3992.79,
-          "marginPct": 20.278922
-        },
-        {
-          "period": "2024-09",
-          "revenue": 12941.68,
-          "profit": 2346.040002,
-          "marginPct": 22.14156
-        },
-        {
-          "period": "2024-10",
-          "revenue": 34018.39,
-          "profit": 6298.605,
-          "marginPct": 22.722416
-        },
-        {
-          "period": "2024-11",
-          "revenue": 14192.28,
-          "profit": 2153.13,
-          "marginPct": 17.884402
-        },
-        {
-          "period": "2024-12",
-          "revenue": 27297.17,
-          "profit": 4691.04,
-          "marginPct": 20.751186
-        },
-        {
-          "period": "2025-01",
-          "revenue": 4814.5,
-          "profit": 1295.734,
-          "marginPct": 36.823534
-        },
-        {
-          "period": "2025-02",
-          "revenue": 50165.24,
-          "profit": 9822.86,
-          "marginPct": 24.348737
-        },
-        {
-          "period": "2025-03",
-          "revenue": 16014.8,
-          "profit": 2431.678,
-          "marginPct": 17.902202
-        },
-        {
-          "period": "2025-04",
-          "revenue": 15632.73,
-          "profit": 3262.35,
-          "marginPct": 26.37227
-        },
-        {
-          "period": "2025-05",
-          "revenue": 9442.59,
-          "profit": 2100.857,
-          "marginPct": 28.615274
-        },
-        {
-          "period": "2025-06",
-          "revenue": 10612.86,
-          "profit": 2079.97,
-          "marginPct": 24.375915
-        },
-        {
-          "period": "2025-07",
-          "revenue": 9667.52,
-          "profit": 1926.59,
-          "marginPct": 24.888353
-        },
-        {
-          "period": "2025-08",
-          "revenue": 3668.72,
-          "profit": 857.079,
-          "marginPct": 30.48323
-        }
-      ],
-      "totalRevenue": 403374.00999999995,
-      "totalProfit": 71218.83800199999,
-      "avgMarginPct": 21.534754626994395,
-      "revenueDeltaAbs": -57494.88,
-      "revenueDeltaPct": -94.00179191545298,
-      "profitDeltaAbs": -8538.109,
-      "profitDeltaPct": -90.8774683380471,
       "revenueTrend": "DOWN",
       "profitTrend": "DOWN"
     },
@@ -2348,143 +2485,6 @@
       "revenueDeltaPct": -60.95064306584976,
       "profitDeltaAbs": -4262.31,
       "profitDeltaPct": -70.08833579441374,
-      "revenueTrend": "DOWN",
-      "profitTrend": "DOWN"
-    },
-    {
-      "slug": "m-store-bez",
-      "name": "m-store bez",
-      "firstMonth": "2024-01",
-      "lastMonth": "2025-08",
-      "months": [
-        {
-          "period": "2024-01",
-          "revenue": 20332.71,
-          "profit": 1934.967,
-          "marginPct": 10.517415
-        },
-        {
-          "period": "2024-02",
-          "revenue": 41574.47,
-          "profit": 4052.890002,
-          "marginPct": 10.801491
-        },
-        {
-          "period": "2024-03",
-          "revenue": 34566.64,
-          "profit": 4080.185,
-          "marginPct": 13.383599
-        },
-        {
-          "period": "2024-04",
-          "revenue": 33366.1,
-          "profit": 3119.94,
-          "marginPct": 10.315161
-        },
-        {
-          "period": "2024-05",
-          "revenue": 49602.23,
-          "profit": 3996.97,
-          "marginPct": 8.764274
-        },
-        {
-          "period": "2024-06",
-          "revenue": 40818.66,
-          "profit": 3288.68,
-          "marginPct": 8.762808
-        },
-        {
-          "period": "2024-07",
-          "revenue": 0,
-          "profit": 0,
-          "marginPct": null
-        },
-        {
-          "period": "2024-08",
-          "revenue": 52414.86,
-          "profit": 9038.563,
-          "marginPct": 20.837563
-        },
-        {
-          "period": "2024-09",
-          "revenue": 29779.51,
-          "profit": 4623.397,
-          "marginPct": 18.378821
-        },
-        {
-          "period": "2024-10",
-          "revenue": 17689.38,
-          "profit": 3040.735,
-          "marginPct": 20.75779
-        },
-        {
-          "period": "2024-11",
-          "revenue": 27095.38,
-          "profit": 4260.907,
-          "marginPct": 18.659975
-        },
-        {
-          "period": "2024-12",
-          "revenue": 3055.01,
-          "profit": 365.29,
-          "marginPct": 13.580968
-        },
-        {
-          "period": "2025-01",
-          "revenue": 0,
-          "profit": 0,
-          "marginPct": null
-        },
-        {
-          "period": "2025-02",
-          "revenue": 637.56,
-          "profit": 104.73,
-          "marginPct": 19.655425
-        },
-        {
-          "period": "2025-03",
-          "revenue": 2573.98,
-          "profit": 211.823,
-          "marginPct": 8.967355
-        },
-        {
-          "period": "2025-04",
-          "revenue": 6730.16,
-          "profit": 560.65,
-          "marginPct": 9.087432
-        },
-        {
-          "period": "2025-05",
-          "revenue": 0,
-          "profit": 0,
-          "marginPct": null
-        },
-        {
-          "period": "2025-06",
-          "revenue": 7283.89,
-          "profit": 865.383,
-          "marginPct": 13.482621
-        },
-        {
-          "period": "2025-07",
-          "revenue": 3876.14,
-          "profit": 344.15,
-          "marginPct": 9.743799
-        },
-        {
-          "period": "2025-08",
-          "revenue": 144.04,
-          "profit": 21.700004,
-          "marginPct": 17.737457
-        }
-      ],
-      "totalRevenue": 371540.72000000003,
-      "totalProfit": 43910.960006,
-      "avgMarginPct": 13.595345026621308,
-      "revenueDeltaAbs": -20188.67,
-      "revenueDeltaPct": -99.29158484038773,
-      "profitDeltaAbs": -1913.266996,
-      "profitDeltaPct": -98.87853363907499,
       "revenueTrend": "DOWN",
       "profitTrend": "DOWN"
     },
@@ -2955,9 +2955,9 @@
         },
         {
           "period": "2024-09",
-          "revenue": 0,
-          "profit": 0,
-          "marginPct": null
+          "revenue": 884.31,
+          "profit": -35.6,
+          "marginPct": -3.869944
         },
         {
           "period": "2024-10",
@@ -3026,9 +3026,9 @@
           "marginPct": 10.977543
         }
       ],
-      "totalRevenue": 331503.63999999996,
-      "totalProfit": 27222.095999999998,
-      "avgMarginPct": 8.974816712091398,
+      "totalRevenue": 332387.94999999995,
+      "totalProfit": 27186.496,
+      "avgMarginPct": 8.940643540815756,
       "revenueDeltaAbs": -27492.01,
       "revenueDeltaPct": -98.19953300588261,
       "profitDeltaAbs": -1949.8600000000001,
@@ -4927,9 +4927,9 @@
         },
         {
           "period": "2025-06",
-          "revenue": 0,
-          "profit": 0,
-          "marginPct": null
+          "revenue": 895.08,
+          "profit": -248.268,
+          "marginPct": -21.714124
         },
         {
           "period": "2025-07",
@@ -4944,9 +4944,9 @@
           "marginPct": 12.234341
         }
       ],
-      "totalRevenue": 259362.86000000002,
-      "totalProfit": 34609.331000000006,
-      "avgMarginPct": 15.475507753776002,
+      "totalRevenue": 260257.94,
+      "totalProfit": 34361.06300000001,
+      "avgMarginPct": 15.34760504467837,
       "revenueDeltaAbs": -22419.379999999997,
       "revenueDeltaPct": -96.47096690076512,
       "profitDeltaAbs": -3757.008,
@@ -7010,6 +7010,143 @@
       "profitTrend": "DOWN"
     },
     {
+      "slug": "drbohlav-leos",
+      "name": "Drbohlav Leoš",
+      "firstMonth": "2024-01",
+      "lastMonth": "2025-08",
+      "months": [
+        {
+          "period": "2024-01",
+          "revenue": 16132.76,
+          "profit": 3302.588,
+          "marginPct": 25.740793
+        },
+        {
+          "period": "2024-02",
+          "revenue": 10357.25,
+          "profit": 2147.72,
+          "marginPct": 26.161303
+        },
+        {
+          "period": "2024-03",
+          "revenue": 18049.9,
+          "profit": 3342.8,
+          "marginPct": 22.729158
+        },
+        {
+          "period": "2024-04",
+          "revenue": 26688.51,
+          "profit": 4248.847,
+          "marginPct": 18.93454
+        },
+        {
+          "period": "2024-05",
+          "revenue": 18299.31,
+          "profit": 3497.000002,
+          "marginPct": 23.624691
+        },
+        {
+          "period": "2024-06",
+          "revenue": 5853.29,
+          "profit": 1307.648,
+          "marginPct": 28.76707
+        },
+        {
+          "period": "2024-07",
+          "revenue": 11237.51,
+          "profit": 1644.442,
+          "marginPct": 17.141982
+        },
+        {
+          "period": "2024-08",
+          "revenue": 9989.3,
+          "profit": 1114.54,
+          "marginPct": 12.558537
+        },
+        {
+          "period": "2024-09",
+          "revenue": 7386.32,
+          "profit": 1671.422,
+          "marginPct": 29.246751
+        },
+        {
+          "period": "2024-10",
+          "revenue": 10372.89,
+          "profit": 2228.188,
+          "marginPct": 27.357514
+        },
+        {
+          "period": "2024-11",
+          "revenue": 7186.64,
+          "profit": 1381.234,
+          "marginPct": 23.792203
+        },
+        {
+          "period": "2024-12",
+          "revenue": 11229.35,
+          "profit": 1727.43,
+          "marginPct": 18.179799
+        },
+        {
+          "period": "2025-01",
+          "revenue": 21416.52,
+          "profit": -1330.32,
+          "marginPct": -5.848373
+        },
+        {
+          "period": "2025-02",
+          "revenue": 4807.57,
+          "profit": 1194.040002,
+          "marginPct": 33.043589
+        },
+        {
+          "period": "2025-03",
+          "revenue": 3112.46,
+          "profit": 834.527,
+          "marginPct": 36.635274
+        },
+        {
+          "period": "2025-04",
+          "revenue": 8262.13,
+          "profit": 1566.73,
+          "marginPct": 23.400096
+        },
+        {
+          "period": "2025-05",
+          "revenue": 471.24,
+          "profit": 163.15,
+          "marginPct": 52.955305
+        },
+        {
+          "period": "2025-06",
+          "revenue": 4036.27,
+          "profit": 1033.753,
+          "marginPct": 34.429547
+        },
+        {
+          "period": "2025-07",
+          "revenue": 2195.49,
+          "profit": 699.46,
+          "marginPct": 46.75441
+        },
+        {
+          "period": "2025-08",
+          "revenue": 3749.66,
+          "profit": 718.44,
+          "marginPct": 23.701348
+        }
+      ],
+      "totalRevenue": 200834.36999999997,
+      "totalProfit": 32493.639004,
+      "avgMarginPct": 20.37475336568921,
+      "revenueDeltaAbs": -12383.1,
+      "revenueDeltaPct": -76.75747981126602,
+      "profitDeltaAbs": -2584.148,
+      "profitDeltaPct": -78.24615120021025,
+      "revenueTrend": "DOWN",
+      "profitTrend": "DOWN"
+    },
+    {
       "slug": "kuhnel-karel",
       "name": "Kühnel Karel",
       "firstMonth": "2024-01",
@@ -7282,6 +7419,143 @@
       "profitDeltaPct": 154.6723303727597,
       "revenueTrend": "UP",
       "profitTrend": "UP"
+    },
+    {
+      "slug": "m8",
+      "name": "M8",
+      "firstMonth": "2024-01",
+      "lastMonth": "2025-08",
+      "months": [
+        {
+          "period": "2024-01",
+          "revenue": 13905.85,
+          "profit": 5321.149,
+          "marginPct": 61.984092
+        },
+        {
+          "period": "2024-02",
+          "revenue": 18370.86,
+          "profit": 5515.053,
+          "marginPct": 42.899314
+        },
+        {
+          "period": "2024-03",
+          "revenue": 0,
+          "profit": 0,
+          "marginPct": null
+        },
+        {
+          "period": "2024-04",
+          "revenue": 5987.56,
+          "profit": 3434.82,
+          "marginPct": 134.554244
+        },
+        {
+          "period": "2024-05",
+          "revenue": 5152.82,
+          "profit": 2286.646,
+          "marginPct": 79.780432
+        },
+        {
+          "period": "2024-06",
+          "revenue": 4895.62,
+          "profit": 2460.81,
+          "marginPct": 101.067845
+        },
+        {
+          "period": "2024-07",
+          "revenue": 8709.1,
+          "profit": 4569.3,
+          "marginPct": 110.374897
+        },
+        {
+          "period": "2024-08",
+          "revenue": 5395.59,
+          "profit": 1481.712,
+          "marginPct": 37.8579
+        },
+        {
+          "period": "2024-09",
+          "revenue": 11895.87,
+          "profit": 5087.461,
+          "marginPct": 74.723199
+        },
+        {
+          "period": "2024-10",
+          "revenue": 11889.84,
+          "profit": 4292.897,
+          "marginPct": 56.508217
+        },
+        {
+          "period": "2024-11",
+          "revenue": 14809.58,
+          "profit": 6731.004,
+          "marginPct": 83.319189
+        },
+        {
+          "period": "2024-12",
+          "revenue": 10646.62,
+          "profit": 3432.747,
+          "marginPct": 47.585354
+        },
+        {
+          "period": "2025-01",
+          "revenue": 4854.06,
+          "profit": 1816.55,
+          "marginPct": 59.803918
+        },
+        {
+          "period": "2025-02",
+          "revenue": 20506.27,
+          "profit": 6212.734,
+          "marginPct": 43.46534
+        },
+        {
+          "period": "2025-03",
+          "revenue": 911.4,
+          "profit": -28.757,
+          "marginPct": -3.058744
+        },
+        {
+          "period": "2025-04",
+          "revenue": 10714.69,
+          "profit": 3279.351,
+          "marginPct": 44.104929
+        },
+        {
+          "period": "2025-05",
+          "revenue": 9940.04,
+          "profit": 2509.008,
+          "marginPct": 33.763924
+        },
+        {
+          "period": "2025-06",
+          "revenue": 12681.28,
+          "profit": 4102.756,
+          "marginPct": 47.825896
+        },
+        {
+          "period": "2025-07",
+          "revenue": 6790.16,
+          "profit": 2086.881,
+          "marginPct": 44.370768
+        },
+        {
+          "period": "2025-08",
+          "revenue": 11572.06,
+          "profit": 4078.571,
+          "marginPct": 54.428198
+        }
+      ],
+      "totalRevenue": 189629.27,
+      "totalProfit": 68670.69300000001,
+      "avgMarginPct": 59.869705774852804,
+      "revenueDeltaAbs": -2333.790000000001,
+      "revenueDeltaPct": -16.78279285336748,
+      "profitDeltaAbs": -1242.5780000000004,
+      "profitDeltaPct": -23.351685885886685,
+      "revenueTrend": "DOWN",
+      "profitTrend": "DOWN"
     },
     {
       "slug": "pospisil-michal",
@@ -7558,143 +7832,6 @@
       "profitTrend": "UP"
     },
     {
-      "slug": "drbohlav-leos",
-      "name": "Drbohlav Leoš",
-      "firstMonth": "2024-01",
-      "lastMonth": "2025-08",
-      "months": [
-        {
-          "period": "2024-01",
-          "revenue": 16132.76,
-          "profit": 3302.588,
-          "marginPct": 25.740793
-        },
-        {
-          "period": "2024-02",
-          "revenue": 10357.25,
-          "profit": 2147.72,
-          "marginPct": 26.161303
-        },
-        {
-          "period": "2024-03",
-          "revenue": 18049.9,
-          "profit": 3342.8,
-          "marginPct": 22.729158
-        },
-        {
-          "period": "2024-04",
-          "revenue": 26688.51,
-          "profit": 4248.847,
-          "marginPct": 18.93454
-        },
-        {
-          "period": "2024-05",
-          "revenue": 18299.31,
-          "profit": 3497.000002,
-          "marginPct": 23.624691
-        },
-        {
-          "period": "2024-06",
-          "revenue": 5853.29,
-          "profit": 1307.648,
-          "marginPct": 28.76707
-        },
-        {
-          "period": "2024-07",
-          "revenue": 11237.51,
-          "profit": 1644.442,
-          "marginPct": 17.141982
-        },
-        {
-          "period": "2024-08",
-          "revenue": 9989.3,
-          "profit": 1114.54,
-          "marginPct": 12.558537
-        },
-        {
-          "period": "2024-09",
-          "revenue": 7386.32,
-          "profit": 1671.422,
-          "marginPct": 29.246751
-        },
-        {
-          "period": "2024-10",
-          "revenue": 10372.89,
-          "profit": 2228.188,
-          "marginPct": 27.357514
-        },
-        {
-          "period": "2024-11",
-          "revenue": 7186.64,
-          "profit": 1381.234,
-          "marginPct": 23.792203
-        },
-        {
-          "period": "2024-12",
-          "revenue": 11229.35,
-          "profit": 1727.43,
-          "marginPct": 18.179799
-        },
-        {
-          "period": "2025-01",
-          "revenue": 0,
-          "profit": 0,
-          "marginPct": null
-        },
-        {
-          "period": "2025-02",
-          "revenue": 4807.57,
-          "profit": 1194.040002,
-          "marginPct": 33.043589
-        },
-        {
-          "period": "2025-03",
-          "revenue": 3112.46,
-          "profit": 834.527,
-          "marginPct": 36.635274
-        },
-        {
-          "period": "2025-04",
-          "revenue": 8262.13,
-          "profit": 1566.73,
-          "marginPct": 23.400096
-        },
-        {
-          "period": "2025-05",
-          "revenue": 471.24,
-          "profit": 163.15,
-          "marginPct": 52.955305
-        },
-        {
-          "period": "2025-06",
-          "revenue": 4036.27,
-          "profit": 1033.753,
-          "marginPct": 34.429547
-        },
-        {
-          "period": "2025-07",
-          "revenue": 2195.49,
-          "profit": 699.46,
-          "marginPct": 46.75441
-        },
-        {
-          "period": "2025-08",
-          "revenue": 3749.66,
-          "profit": 718.44,
-          "marginPct": 23.701348
-        }
-      ],
-      "totalRevenue": 179417.84999999998,
-      "totalProfit": 33823.959004000004,
-      "avgMarginPct": 23.504921909528687,
-      "revenueDeltaAbs": -12383.1,
-      "revenueDeltaPct": -76.75747981126602,
-      "profitDeltaAbs": -2584.148,
-      "profitDeltaPct": -78.24615120021025,
-      "revenueTrend": "DOWN",
-      "profitTrend": "DOWN"
-    },
-    {
       "slug": "as-cars-sro",
       "name": "AS Cars s.r.o.",
       "firstMonth": "2024-01",
@@ -7967,143 +8104,6 @@
       "profitDeltaPct": 891.8221354560494,
       "revenueTrend": "UP",
       "profitTrend": "UP"
-    },
-    {
-      "slug": "m8",
-      "name": "M8",
-      "firstMonth": "2024-01",
-      "lastMonth": "2025-08",
-      "months": [
-        {
-          "period": "2024-01",
-          "revenue": 13905.85,
-          "profit": 5321.149,
-          "marginPct": 61.984092
-        },
-        {
-          "period": "2024-02",
-          "revenue": 18370.86,
-          "profit": 5515.053,
-          "marginPct": 42.899314
-        },
-        {
-          "period": "2024-03",
-          "revenue": 0,
-          "profit": 0,
-          "marginPct": null
-        },
-        {
-          "period": "2024-04",
-          "revenue": 0,
-          "profit": 0,
-          "marginPct": null
-        },
-        {
-          "period": "2024-05",
-          "revenue": 5152.82,
-          "profit": 2286.646,
-          "marginPct": 79.780432
-        },
-        {
-          "period": "2024-06",
-          "revenue": 0,
-          "profit": 0,
-          "marginPct": null
-        },
-        {
-          "period": "2024-07",
-          "revenue": 0,
-          "profit": 0,
-          "marginPct": null
-        },
-        {
-          "period": "2024-08",
-          "revenue": 5395.59,
-          "profit": 1481.712,
-          "marginPct": 37.8579
-        },
-        {
-          "period": "2024-09",
-          "revenue": 11895.87,
-          "profit": 5087.461,
-          "marginPct": 74.723199
-        },
-        {
-          "period": "2024-10",
-          "revenue": 11889.84,
-          "profit": 4292.897,
-          "marginPct": 56.508217
-        },
-        {
-          "period": "2024-11",
-          "revenue": 14809.58,
-          "profit": 6731.004,
-          "marginPct": 83.319189
-        },
-        {
-          "period": "2024-12",
-          "revenue": 10646.62,
-          "profit": 3432.747,
-          "marginPct": 47.585354
-        },
-        {
-          "period": "2025-01",
-          "revenue": 4854.06,
-          "profit": 1816.55,
-          "marginPct": 59.803918
-        },
-        {
-          "period": "2025-02",
-          "revenue": 20506.27,
-          "profit": 6212.734,
-          "marginPct": 43.46534
-        },
-        {
-          "period": "2025-03",
-          "revenue": 0,
-          "profit": 0,
-          "marginPct": null
-        },
-        {
-          "period": "2025-04",
-          "revenue": 10714.69,
-          "profit": 3279.351,
-          "marginPct": 44.104929
-        },
-        {
-          "period": "2025-05",
-          "revenue": 9940.04,
-          "profit": 2509.008,
-          "marginPct": 33.763924
-        },
-        {
-          "period": "2025-06",
-          "revenue": 12681.28,
-          "profit": 4102.756,
-          "marginPct": 47.825896
-        },
-        {
-          "period": "2025-07",
-          "revenue": 6790.16,
-          "profit": 2086.881,
-          "marginPct": 44.370768
-        },
-        {
-          "period": "2025-08",
-          "revenue": 11572.06,
-          "profit": 4078.571,
-          "marginPct": 54.428198
-        }
-      ],
-      "totalRevenue": 169125.59,
-      "totalProfit": 58234.52000000002,
-      "avgMarginPct": 53.77145441133704,
-      "revenueDeltaAbs": -2333.790000000001,
-      "revenueDeltaPct": -16.78279285336748,
-      "profitDeltaAbs": -1242.5780000000004,
-      "profitDeltaPct": -23.351685885886685,
-      "revenueTrend": "DOWN",
-      "profitTrend": "DOWN"
     },
     {
       "slug": "ceske-mobilni-toalety-sro",
@@ -8405,9 +8405,9 @@
         },
         {
           "period": "2024-04",
-          "revenue": 0,
-          "profit": 0,
-          "marginPct": null
+          "revenue": 636.98,
+          "profit": -56.68,
+          "marginPct": -8.17115
         },
         {
           "period": "2024-05",
@@ -8506,9 +8506,9 @@
           "marginPct": 18.211609
         }
       ],
-      "totalRevenue": 152363.73999999996,
-      "totalProfit": 25290.696000000004,
-      "avgMarginPct": 20.256482656753374,
+      "totalRevenue": 153000.71999999997,
+      "totalProfit": 25234.016000000003,
+      "avgMarginPct": 20.138131361088238,
       "revenueDeltaAbs": -14086.53,
       "revenueDeltaPct": -75.59032935237097,
       "profitDeltaAbs": -2588.628,
@@ -10728,9 +10728,9 @@
         },
         {
           "period": "2024-03",
-          "revenue": 0,
-          "profit": 0,
-          "marginPct": null
+          "revenue": 20.44,
+          "profit": -36.23,
+          "marginPct": -63.931533
         },
         {
           "period": "2024-04",
@@ -10835,9 +10835,9 @@
           "marginPct": 36.397798
         }
       ],
-      "totalRevenue": 101658.62,
-      "totalProfit": 25145.137000000002,
-      "avgMarginPct": 33.35816764208692,
+      "totalRevenue": 101679.06,
+      "totalProfit": 25108.907,
+      "avgMarginPct": 33.3386100116257,
       "revenueDeltaAbs": 1468.3999999999996,
       "revenueDeltaPct": 33.12011115221176,
       "profitDeltaAbs": 380.98,
@@ -11896,9 +11896,9 @@
         },
         {
           "period": "2025-03",
-          "revenue": 0,
-          "profit": 0,
-          "marginPct": null
+          "revenue": 603.34,
+          "profit": 365.4,
+          "marginPct": 153.568126
         },
         {
           "period": "2025-04",
@@ -11931,9 +11931,9 @@
           "marginPct": 24.042369
         }
       ],
-      "totalRevenue": 93097.45000000001,
-      "totalProfit": 18053.485999999997,
-      "avgMarginPct": 24.26275529042654,
+      "totalRevenue": 93700.79000000001,
+      "totalProfit": 18418.886,
+      "avgMarginPct": 25.09535341861643,
       "revenueDeltaAbs": -3283.629999999999,
       "revenueDeltaPct": -34.535843389016904,
       "profitDeltaAbs": -577.04,
@@ -13808,9 +13808,9 @@
         },
         {
           "period": "2025-02",
-          "revenue": 0,
-          "profit": 0,
-          "marginPct": null
+          "revenue": 8.71,
+          "profit": -6.25,
+          "marginPct": -41.778075
         },
         {
           "period": "2025-03",
@@ -13849,9 +13849,9 @@
           "marginPct": 16.366346
         }
       ],
-      "totalRevenue": 73976.85999999999,
-      "totalProfit": 18476.025,
-      "avgMarginPct": 34.094800003035274,
+      "totalRevenue": 73985.56999999998,
+      "totalProfit": 18469.775,
+      "avgMarginPct": 34.08586781880967,
       "revenueDeltaAbs": 395.86,
       "revenueDeltaPct": 185.74512012012013,
       "profitDeltaAbs": 7.530000000000001,
@@ -14779,9 +14779,9 @@
         },
         {
           "period": "2025-04",
-          "revenue": 0,
-          "profit": 0,
-          "marginPct": null
+          "revenue": 23.44,
+          "profit": -9.06,
+          "marginPct": -27.876923
         },
         {
           "period": "2025-05",
@@ -14808,13 +14808,150 @@
           "marginPct": 26.850968
         }
       ],
-      "totalRevenue": 69415.75,
-      "totalProfit": 18361.150000000005,
-      "avgMarginPct": 36.33480011748544,
+      "totalRevenue": 69439.19,
+      "totalProfit": 18352.090000000004,
+      "avgMarginPct": 36.31312470926317,
       "revenueDeltaAbs": -6965.369999999999,
       "revenueDeltaPct": -64.54071964870958,
       "profitDeltaAbs": -2224.9,
       "profitDeltaPct": -73.30952176978786,
+      "revenueTrend": "DOWN",
+      "profitTrend": "DOWN"
+    },
+    {
+      "slug": "ledr-martin",
+      "name": "Lédr Martin",
+      "firstMonth": "2024-01",
+      "lastMonth": "2025-08",
+      "months": [
+        {
+          "period": "2024-01",
+          "revenue": 13218.63,
+          "profit": 1320.43,
+          "marginPct": 11.097729
+        },
+        {
+          "period": "2024-02",
+          "revenue": 0,
+          "profit": 0,
+          "marginPct": null
+        },
+        {
+          "period": "2024-03",
+          "revenue": 787.77,
+          "profit": 86.47,
+          "marginPct": 12.329959
+        },
+        {
+          "period": "2024-04",
+          "revenue": 8274.53,
+          "profit": 1296.707,
+          "marginPct": 18.58326
+        },
+        {
+          "period": "2024-05",
+          "revenue": 3631.02,
+          "profit": 626.38,
+          "marginPct": 20.84709
+        },
+        {
+          "period": "2024-06",
+          "revenue": 2274.54,
+          "profit": 328.3,
+          "marginPct": 16.868423
+        },
+        {
+          "period": "2024-07",
+          "revenue": 968.84,
+          "profit": 156.68,
+          "marginPct": 19.291765
+        },
+        {
+          "period": "2024-08",
+          "revenue": 1442.18,
+          "profit": 541.65,
+          "marginPct": 60.147913
+        },
+        {
+          "period": "2024-09",
+          "revenue": 2392.65,
+          "profit": 169.77,
+          "marginPct": 7.637389
+        },
+        {
+          "period": "2024-10",
+          "revenue": 1839.03,
+          "profit": 254.86,
+          "marginPct": 16.08792
+        },
+        {
+          "period": "2024-11",
+          "revenue": 3536.61,
+          "profit": 536.072,
+          "marginPct": 17.865863
+        },
+        {
+          "period": "2024-12",
+          "revenue": 1229.21,
+          "profit": 187.047,
+          "marginPct": 17.94796
+        },
+        {
+          "period": "2025-01",
+          "revenue": 1535.84,
+          "profit": 191.34,
+          "marginPct": 14.231313
+        },
+        {
+          "period": "2025-02",
+          "revenue": 0,
+          "profit": 0,
+          "marginPct": null
+        },
+        {
+          "period": "2025-03",
+          "revenue": 2399.99,
+          "profit": 216.38,
+          "marginPct": 9.909279
+        },
+        {
+          "period": "2025-04",
+          "revenue": 21602.35,
+          "profit": 2051.04,
+          "marginPct": 10.49055
+        },
+        {
+          "period": "2025-05",
+          "revenue": 742.45,
+          "profit": 82.263,
+          "marginPct": 12.46056
+        },
+        {
+          "period": "2025-06",
+          "revenue": 189.66,
+          "profit": 10.74,
+          "marginPct": 6.002683
+        },
+        {
+          "period": "2025-07",
+          "revenue": 1655.02,
+          "profit": -52.344,
+          "marginPct": -3.065779
+        },
+        {
+          "period": "2025-08",
+          "revenue": 1345.8,
+          "profit": 194.08,
+          "marginPct": 16.851318
+        }
+      ],
+      "totalRevenue": 69066.12000000001,
+      "totalProfit": 8197.865,
+      "avgMarginPct": 13.943693707875434,
+      "revenueDeltaAbs": -11872.83,
+      "revenueDeltaPct": -89.81891466816153,
+      "profitDeltaAbs": -1126.3500000000001,
+      "profitDeltaPct": -85.30175776072946,
       "revenueTrend": "DOWN",
       "profitTrend": "DOWN"
     },
@@ -14952,143 +15089,6 @@
       "revenueDeltaPct": -97.8834326324219,
       "profitDeltaAbs": -854.992,
       "profitDeltaPct": -96.2956789303083,
-      "revenueTrend": "DOWN",
-      "profitTrend": "DOWN"
-    },
-    {
-      "slug": "ledr-martin",
-      "name": "Lédr Martin",
-      "firstMonth": "2024-01",
-      "lastMonth": "2025-08",
-      "months": [
-        {
-          "period": "2024-01",
-          "revenue": 13218.63,
-          "profit": 1320.43,
-          "marginPct": 11.097729
-        },
-        {
-          "period": "2024-02",
-          "revenue": 0,
-          "profit": 0,
-          "marginPct": null
-        },
-        {
-          "period": "2024-03",
-          "revenue": 787.77,
-          "profit": 86.47,
-          "marginPct": 12.329959
-        },
-        {
-          "period": "2024-04",
-          "revenue": 8274.53,
-          "profit": 1296.707,
-          "marginPct": 18.58326
-        },
-        {
-          "period": "2024-05",
-          "revenue": 3631.02,
-          "profit": 626.38,
-          "marginPct": 20.84709
-        },
-        {
-          "period": "2024-06",
-          "revenue": 2274.54,
-          "profit": 328.3,
-          "marginPct": 16.868423
-        },
-        {
-          "period": "2024-07",
-          "revenue": 968.84,
-          "profit": 156.68,
-          "marginPct": 19.291765
-        },
-        {
-          "period": "2024-08",
-          "revenue": 1442.18,
-          "profit": 541.65,
-          "marginPct": 60.147913
-        },
-        {
-          "period": "2024-09",
-          "revenue": 2392.65,
-          "profit": 169.77,
-          "marginPct": 7.637389
-        },
-        {
-          "period": "2024-10",
-          "revenue": 1839.03,
-          "profit": 254.86,
-          "marginPct": 16.08792
-        },
-        {
-          "period": "2024-11",
-          "revenue": 3536.61,
-          "profit": 536.072,
-          "marginPct": 17.865863
-        },
-        {
-          "period": "2024-12",
-          "revenue": 1229.21,
-          "profit": 187.047,
-          "marginPct": 17.94796
-        },
-        {
-          "period": "2025-01",
-          "revenue": 1535.84,
-          "profit": 191.34,
-          "marginPct": 14.231313
-        },
-        {
-          "period": "2025-02",
-          "revenue": 0,
-          "profit": 0,
-          "marginPct": null
-        },
-        {
-          "period": "2025-03",
-          "revenue": 2399.99,
-          "profit": 216.38,
-          "marginPct": 9.909279
-        },
-        {
-          "period": "2025-04",
-          "revenue": 21602.35,
-          "profit": 2051.04,
-          "marginPct": 10.49055
-        },
-        {
-          "period": "2025-05",
-          "revenue": 742.45,
-          "profit": 82.263,
-          "marginPct": 12.46056
-        },
-        {
-          "period": "2025-06",
-          "revenue": 189.66,
-          "profit": 10.74,
-          "marginPct": 6.002683
-        },
-        {
-          "period": "2025-07",
-          "revenue": 0,
-          "profit": 0,
-          "marginPct": null
-        },
-        {
-          "period": "2025-08",
-          "revenue": 1345.8,
-          "profit": 194.08,
-          "marginPct": 16.851318
-        }
-      ],
-      "totalRevenue": 67411.1,
-      "totalProfit": 8250.209,
-      "avgMarginPct": 14.361295816741602,
-      "revenueDeltaAbs": -11872.83,
-      "revenueDeltaPct": -89.81891466816153,
-      "profitDeltaAbs": -1126.3500000000001,
-      "profitDeltaPct": -85.30175776072946,
       "revenueTrend": "DOWN",
       "profitTrend": "DOWN"
     },
@@ -15504,6 +15504,143 @@
       "profitTrend": "DOWN"
     },
     {
+      "slug": "holubova-pusova-marcela",
+      "name": "Holubová Pušová Marcela",
+      "firstMonth": "2024-01",
+      "lastMonth": "2025-08",
+      "months": [
+        {
+          "period": "2024-01",
+          "revenue": 1466.92,
+          "profit": 323.63,
+          "marginPct": 28.306904
+        },
+        {
+          "period": "2024-02",
+          "revenue": 1325.39,
+          "profit": 105.39,
+          "marginPct": 8.638525
+        },
+        {
+          "period": "2024-03",
+          "revenue": 1899.76,
+          "profit": 509.24,
+          "marginPct": 36.622271
+        },
+        {
+          "period": "2024-04",
+          "revenue": 6696.32,
+          "profit": 601.675,
+          "marginPct": 9.872191
+        },
+        {
+          "period": "2024-05",
+          "revenue": 3471.41,
+          "profit": 667.65,
+          "marginPct": 23.812666
+        },
+        {
+          "period": "2024-06",
+          "revenue": 385.05,
+          "profit": 80.68,
+          "marginPct": 26.507212
+        },
+        {
+          "period": "2024-07",
+          "revenue": 950.09,
+          "profit": 122.59,
+          "marginPct": 14.814502
+        },
+        {
+          "period": "2024-08",
+          "revenue": 10621.63,
+          "profit": 1439.88,
+          "marginPct": 15.681978
+        },
+        {
+          "period": "2024-09",
+          "revenue": 5928.72,
+          "profit": 1191.63,
+          "marginPct": 25.155317
+        },
+        {
+          "period": "2024-10",
+          "revenue": 4153.78,
+          "profit": 691.61,
+          "marginPct": 19.9762
+        },
+        {
+          "period": "2024-11",
+          "revenue": 919.42,
+          "profit": 230.68,
+          "marginPct": 33.493045
+        },
+        {
+          "period": "2024-12",
+          "revenue": 9060.4,
+          "profit": 1533.72,
+          "marginPct": 20.377112
+        },
+        {
+          "period": "2025-01",
+          "revenue": 585.29,
+          "profit": -54.15,
+          "marginPct": -8.468347
+        },
+        {
+          "period": "2025-02",
+          "revenue": 2865.63,
+          "profit": 551.06,
+          "marginPct": 23.80831
+        },
+        {
+          "period": "2025-03",
+          "revenue": 2338.48,
+          "profit": 364.54,
+          "marginPct": 18.467633
+        },
+        {
+          "period": "2025-04",
+          "revenue": 2797.26,
+          "profit": 274.87,
+          "marginPct": 10.897205
+        },
+        {
+          "period": "2025-05",
+          "revenue": 1894.37,
+          "profit": 342.065,
+          "marginPct": 22.03594
+        },
+        {
+          "period": "2025-06",
+          "revenue": 2715.28,
+          "profit": 480.118,
+          "marginPct": 21.480233
+        },
+        {
+          "period": "2025-07",
+          "revenue": 1651.5,
+          "profit": 444.41,
+          "marginPct": 36.816642
+        },
+        {
+          "period": "2025-08",
+          "revenue": 200.9,
+          "profit": 63.915,
+          "marginPct": 46.658393
+        }
+      ],
+      "totalRevenue": 61927.600000000006,
+      "totalProfit": 9965.203000000003,
+      "avgMarginPct": 19.650131665460634,
+      "revenueDeltaAbs": -1266.02,
+      "revenueDeltaPct": -86.30463828974995,
+      "profitDeltaAbs": -259.715,
+      "profitDeltaPct": -80.25059481506659,
+      "revenueTrend": "DOWN",
+      "profitTrend": "DOWN"
+    },
+    {
       "slug": "milan-bubenik",
       "name": "Milan Bubeník",
       "firstMonth": "2024-01",
@@ -15637,143 +15774,6 @@
       "revenueDeltaPct": -78.48613164851906,
       "profitDeltaAbs": -248.31999999999996,
       "profitDeltaPct": -84.79715885807948,
-      "revenueTrend": "DOWN",
-      "profitTrend": "DOWN"
-    },
-    {
-      "slug": "holubova-pusova-marcela",
-      "name": "Holubová Pušová Marcela",
-      "firstMonth": "2024-01",
-      "lastMonth": "2025-08",
-      "months": [
-        {
-          "period": "2024-01",
-          "revenue": 1466.92,
-          "profit": 323.63,
-          "marginPct": 28.306904
-        },
-        {
-          "period": "2024-02",
-          "revenue": 1325.39,
-          "profit": 105.39,
-          "marginPct": 8.638525
-        },
-        {
-          "period": "2024-03",
-          "revenue": 1899.76,
-          "profit": 509.24,
-          "marginPct": 36.622271
-        },
-        {
-          "period": "2024-04",
-          "revenue": 6696.32,
-          "profit": 601.675,
-          "marginPct": 9.872191
-        },
-        {
-          "period": "2024-05",
-          "revenue": 3471.41,
-          "profit": 667.65,
-          "marginPct": 23.812666
-        },
-        {
-          "period": "2024-06",
-          "revenue": 385.05,
-          "profit": 80.68,
-          "marginPct": 26.507212
-        },
-        {
-          "period": "2024-07",
-          "revenue": 950.09,
-          "profit": 122.59,
-          "marginPct": 14.814502
-        },
-        {
-          "period": "2024-08",
-          "revenue": 10621.63,
-          "profit": 1439.88,
-          "marginPct": 15.681978
-        },
-        {
-          "period": "2024-09",
-          "revenue": 5928.72,
-          "profit": 1191.63,
-          "marginPct": 25.155317
-        },
-        {
-          "period": "2024-10",
-          "revenue": 4153.78,
-          "profit": 691.61,
-          "marginPct": 19.9762
-        },
-        {
-          "period": "2024-11",
-          "revenue": 919.42,
-          "profit": 230.68,
-          "marginPct": 33.493045
-        },
-        {
-          "period": "2024-12",
-          "revenue": 9060.4,
-          "profit": 1533.72,
-          "marginPct": 20.377112
-        },
-        {
-          "period": "2025-01",
-          "revenue": 0,
-          "profit": 0,
-          "marginPct": null
-        },
-        {
-          "period": "2025-02",
-          "revenue": 2865.63,
-          "profit": 551.06,
-          "marginPct": 23.80831
-        },
-        {
-          "period": "2025-03",
-          "revenue": 2338.48,
-          "profit": 364.54,
-          "marginPct": 18.467633
-        },
-        {
-          "period": "2025-04",
-          "revenue": 2797.26,
-          "profit": 274.87,
-          "marginPct": 10.897205
-        },
-        {
-          "period": "2025-05",
-          "revenue": 1894.37,
-          "profit": 342.065,
-          "marginPct": 22.03594
-        },
-        {
-          "period": "2025-06",
-          "revenue": 2715.28,
-          "profit": 480.118,
-          "marginPct": 21.480233
-        },
-        {
-          "period": "2025-07",
-          "revenue": 1651.5,
-          "profit": 444.41,
-          "marginPct": 36.816642
-        },
-        {
-          "period": "2025-08",
-          "revenue": 200.9,
-          "profit": 63.915,
-          "marginPct": 46.658393
-        }
-      ],
-      "totalRevenue": 61342.310000000005,
-      "totalProfit": 10019.353000000003,
-      "avgMarginPct": 19.918420622594912,
-      "revenueDeltaAbs": -1266.02,
-      "revenueDeltaPct": -86.30463828974995,
-      "profitDeltaAbs": -259.715,
-      "profitDeltaPct": -80.25059481506659,
       "revenueTrend": "DOWN",
       "profitTrend": "DOWN"
     },
@@ -18055,9 +18055,9 @@
         },
         {
           "period": "2025-02",
-          "revenue": 0,
-          "profit": 0,
-          "marginPct": null
+          "revenue": 50.66,
+          "profit": -37.85,
+          "marginPct": -42.76353
         },
         {
           "period": "2025-03",
@@ -18096,9 +18096,9 @@
           "marginPct": null
         }
       ],
-      "totalRevenue": 45583.049999999996,
-      "totalProfit": 8165.0729999999985,
-      "avgMarginPct": 22.04011202752339,
+      "totalRevenue": 45633.71,
+      "totalProfit": 8127.222999999998,
+      "avgMarginPct": 21.968170638030525,
       "revenueDeltaAbs": -5617.47,
       "revenueDeltaPct": -69.28373738270727,
       "profitDeltaAbs": -1064.45,
@@ -21283,9 +21283,9 @@
         },
         {
           "period": "2024-04",
-          "revenue": 0,
-          "profit": 0,
-          "marginPct": null
+          "revenue": 135.9,
+          "profit": -3.42,
+          "marginPct": -2.45478
         },
         {
           "period": "2024-05",
@@ -21384,9 +21384,9 @@
           "marginPct": null
         }
       ],
-      "totalRevenue": 28103.149999999998,
-      "totalProfit": 2017.8749999999998,
-      "avgMarginPct": 7.882937091375522,
+      "totalRevenue": 28239.05,
+      "totalProfit": 2014.4550000000002,
+      "avgMarginPct": 7.833186984600757,
       "revenueDeltaAbs": -2357.08,
       "revenueDeltaPct": -75.47655567047612,
       "profitDeltaAbs": -167.74999999999997,
@@ -22217,6 +22217,143 @@
       "profitTrend": "UP"
     },
     {
+      "slug": "marek-michal",
+      "name": "Marek Michal",
+      "firstMonth": "2024-01",
+      "lastMonth": "2025-08",
+      "months": [
+        {
+          "period": "2024-01",
+          "revenue": 558.54,
+          "profit": 26.2,
+          "marginPct": 4.921667
+        },
+        {
+          "period": "2024-02",
+          "revenue": 2262.42,
+          "profit": 110.53,
+          "marginPct": 5.136415
+        },
+        {
+          "period": "2024-03",
+          "revenue": 492.94,
+          "profit": 89.41,
+          "marginPct": 22.156965
+        },
+        {
+          "period": "2024-04",
+          "revenue": 3829.4,
+          "profit": -80.26,
+          "marginPct": -2.052864
+        },
+        {
+          "period": "2024-05",
+          "revenue": 112.92,
+          "profit": 4.58,
+          "marginPct": 4.227432
+        },
+        {
+          "period": "2024-06",
+          "revenue": 554.58,
+          "profit": 12.48,
+          "marginPct": 2.302158
+        },
+        {
+          "period": "2024-07",
+          "revenue": 897.67,
+          "profit": -1.12,
+          "marginPct": -0.124612
+        },
+        {
+          "period": "2024-08",
+          "revenue": 415.79,
+          "profit": 24.89,
+          "marginPct": 6.367357
+        },
+        {
+          "period": "2024-09",
+          "revenue": 1503.47,
+          "profit": 47.15,
+          "marginPct": 3.237613
+        },
+        {
+          "period": "2024-10",
+          "revenue": 0,
+          "profit": 0,
+          "marginPct": null
+        },
+        {
+          "period": "2024-11",
+          "revenue": 2382.12,
+          "profit": 303.62,
+          "marginPct": 14.60765
+        },
+        {
+          "period": "2024-12",
+          "revenue": 0,
+          "profit": 0,
+          "marginPct": null
+        },
+        {
+          "period": "2025-01",
+          "revenue": 1438.84,
+          "profit": 30.26,
+          "marginPct": 2.148263
+        },
+        {
+          "period": "2025-02",
+          "revenue": 1433.88,
+          "profit": 29.31,
+          "marginPct": 2.08676
+        },
+        {
+          "period": "2025-03",
+          "revenue": 0,
+          "profit": 0,
+          "marginPct": null
+        },
+        {
+          "period": "2025-04",
+          "revenue": 0,
+          "profit": 0,
+          "marginPct": null
+        },
+        {
+          "period": "2025-05",
+          "revenue": 7699.17,
+          "profit": 936.64,
+          "marginPct": 13.850438
+        },
+        {
+          "period": "2025-06",
+          "revenue": 341.99,
+          "profit": 17.950004,
+          "marginPct": 5.539441
+        },
+        {
+          "period": "2025-07",
+          "revenue": 1603.31,
+          "profit": 43.11,
+          "marginPct": 2.763107
+        },
+        {
+          "period": "2025-08",
+          "revenue": 647.93,
+          "profit": 15.01,
+          "marginPct": 2.371548
+        }
+      ],
+      "totalRevenue": 26174.97,
+      "totalProfit": 1609.760004,
+      "avgMarginPct": 6.951917495864943,
+      "revenueDeltaAbs": 89.38999999999999,
+      "revenueDeltaPct": 16.004225301679377,
+      "profitDeltaAbs": -11.19,
+      "profitDeltaPct": -42.709923664122144,
+      "revenueTrend": "UP",
+      "profitTrend": "DOWN"
+    },
+    {
       "slug": "martin-lhotak",
       "name": "Martin Lhoták",
       "firstMonth": "2024-02",
@@ -22902,6 +23039,143 @@
       "profitTrend": "UP"
     },
     {
+      "slug": "kult-ant",
+      "name": "Kult Ant",
+      "firstMonth": "2024-05",
+      "lastMonth": "2025-08",
+      "months": [
+        {
+          "period": "2024-01",
+          "revenue": 0,
+          "profit": 0,
+          "marginPct": null
+        },
+        {
+          "period": "2024-02",
+          "revenue": 0,
+          "profit": 0,
+          "marginPct": null
+        },
+        {
+          "period": "2024-03",
+          "revenue": 0,
+          "profit": 0,
+          "marginPct": null
+        },
+        {
+          "period": "2024-04",
+          "revenue": 0,
+          "profit": 0,
+          "marginPct": null
+        },
+        {
+          "period": "2024-05",
+          "revenue": 3303.53,
+          "profit": 458.568,
+          "marginPct": 16.118598
+        },
+        {
+          "period": "2024-06",
+          "revenue": 3809.3,
+          "profit": 529.68,
+          "marginPct": 16.150652
+        },
+        {
+          "period": "2024-07",
+          "revenue": 4116.43,
+          "profit": 760.248,
+          "marginPct": 22.652168
+        },
+        {
+          "period": "2024-08",
+          "revenue": 4381.88,
+          "profit": 577.998,
+          "marginPct": 15.194951
+        },
+        {
+          "period": "2024-09",
+          "revenue": 1237.81,
+          "profit": 301.369,
+          "marginPct": 32.18238
+        },
+        {
+          "period": "2024-10",
+          "revenue": 2141.87,
+          "profit": 415.986,
+          "marginPct": 24.102779
+        },
+        {
+          "period": "2024-11",
+          "revenue": 735.39,
+          "profit": 128.14,
+          "marginPct": 21.101688
+        },
+        {
+          "period": "2024-12",
+          "revenue": 0,
+          "profit": 0,
+          "marginPct": null
+        },
+        {
+          "period": "2025-01",
+          "revenue": 1470.55,
+          "profit": 229.66,
+          "marginPct": 18.507684
+        },
+        {
+          "period": "2025-02",
+          "revenue": 262.8,
+          "profit": 45.72,
+          "marginPct": 21.06136
+        },
+        {
+          "period": "2025-03",
+          "revenue": 492.8,
+          "profit": 80.98,
+          "marginPct": 19.663931
+        },
+        {
+          "period": "2025-04",
+          "revenue": 641.4,
+          "profit": -8.1,
+          "marginPct": -1.247113
+        },
+        {
+          "period": "2025-05",
+          "revenue": 0,
+          "profit": 0,
+          "marginPct": null
+        },
+        {
+          "period": "2025-06",
+          "revenue": 0,
+          "profit": 0,
+          "marginPct": null
+        },
+        {
+          "period": "2025-07",
+          "revenue": 0,
+          "profit": 0,
+          "marginPct": null
+        },
+        {
+          "period": "2025-08",
+          "revenue": 169.6,
+          "profit": 28.56,
+          "marginPct": 20.249575
+        }
+      ],
+      "totalRevenue": 22763.359999999997,
+      "totalProfit": 3548.8089999999997,
+      "avgMarginPct": 18.743030152767872,
+      "revenueDeltaAbs": -3133.9300000000003,
+      "revenueDeltaPct": -94.86609778025324,
+      "profitDeltaAbs": -430.008,
+      "profitDeltaPct": -93.7719160517088,
+      "revenueTrend": "DOWN",
+      "profitTrend": "DOWN"
+    },
+    {
       "slug": "petr-lorenz",
       "name": "Petr Lorenz",
       "firstMonth": "2025-03",
@@ -23584,280 +23858,6 @@
       "profitDeltaAbs": -259.21,
       "profitDeltaPct": -70.80499330765659,
       "revenueTrend": "DOWN",
-      "profitTrend": "DOWN"
-    },
-    {
-      "slug": "kult-ant",
-      "name": "Kult Ant",
-      "firstMonth": "2024-05",
-      "lastMonth": "2025-08",
-      "months": [
-        {
-          "period": "2024-01",
-          "revenue": 0,
-          "profit": 0,
-          "marginPct": null
-        },
-        {
-          "period": "2024-02",
-          "revenue": 0,
-          "profit": 0,
-          "marginPct": null
-        },
-        {
-          "period": "2024-03",
-          "revenue": 0,
-          "profit": 0,
-          "marginPct": null
-        },
-        {
-          "period": "2024-04",
-          "revenue": 0,
-          "profit": 0,
-          "marginPct": null
-        },
-        {
-          "period": "2024-05",
-          "revenue": 3303.53,
-          "profit": 458.568,
-          "marginPct": 16.118598
-        },
-        {
-          "period": "2024-06",
-          "revenue": 3809.3,
-          "profit": 529.68,
-          "marginPct": 16.150652
-        },
-        {
-          "period": "2024-07",
-          "revenue": 4116.43,
-          "profit": 760.248,
-          "marginPct": 22.652168
-        },
-        {
-          "period": "2024-08",
-          "revenue": 4381.88,
-          "profit": 577.998,
-          "marginPct": 15.194951
-        },
-        {
-          "period": "2024-09",
-          "revenue": 1237.81,
-          "profit": 301.369,
-          "marginPct": 32.18238
-        },
-        {
-          "period": "2024-10",
-          "revenue": 2141.87,
-          "profit": 415.986,
-          "marginPct": 24.102779
-        },
-        {
-          "period": "2024-11",
-          "revenue": 735.39,
-          "profit": 128.14,
-          "marginPct": 21.101688
-        },
-        {
-          "period": "2024-12",
-          "revenue": 0,
-          "profit": 0,
-          "marginPct": null
-        },
-        {
-          "period": "2025-01",
-          "revenue": 1470.55,
-          "profit": 229.66,
-          "marginPct": 18.507684
-        },
-        {
-          "period": "2025-02",
-          "revenue": 262.8,
-          "profit": 45.72,
-          "marginPct": 21.06136
-        },
-        {
-          "period": "2025-03",
-          "revenue": 492.8,
-          "profit": 80.98,
-          "marginPct": 19.663931
-        },
-        {
-          "period": "2025-04",
-          "revenue": 0,
-          "profit": 0,
-          "marginPct": null
-        },
-        {
-          "period": "2025-05",
-          "revenue": 0,
-          "profit": 0,
-          "marginPct": null
-        },
-        {
-          "period": "2025-06",
-          "revenue": 0,
-          "profit": 0,
-          "marginPct": null
-        },
-        {
-          "period": "2025-07",
-          "revenue": 0,
-          "profit": 0,
-          "marginPct": null
-        },
-        {
-          "period": "2025-08",
-          "revenue": 169.6,
-          "profit": 28.56,
-          "marginPct": 20.249575
-        }
-      ],
-      "totalRevenue": 22121.959999999995,
-      "totalProfit": 3556.9089999999997,
-      "avgMarginPct": 19.322620650996118,
-      "revenueDeltaAbs": -3133.9300000000003,
-      "revenueDeltaPct": -94.86609778025324,
-      "profitDeltaAbs": -430.008,
-      "profitDeltaPct": -93.7719160517088,
-      "revenueTrend": "DOWN",
-      "profitTrend": "DOWN"
-    },
-    {
-      "slug": "marek-michal",
-      "name": "Marek Michal",
-      "firstMonth": "2024-01",
-      "lastMonth": "2025-08",
-      "months": [
-        {
-          "period": "2024-01",
-          "revenue": 558.54,
-          "profit": 26.2,
-          "marginPct": 4.921667
-        },
-        {
-          "period": "2024-02",
-          "revenue": 2262.42,
-          "profit": 110.53,
-          "marginPct": 5.136415
-        },
-        {
-          "period": "2024-03",
-          "revenue": 492.94,
-          "profit": 89.41,
-          "marginPct": 22.156965
-        },
-        {
-          "period": "2024-04",
-          "revenue": 0,
-          "profit": 0,
-          "marginPct": null
-        },
-        {
-          "period": "2024-05",
-          "revenue": 112.92,
-          "profit": 4.58,
-          "marginPct": 4.227432
-        },
-        {
-          "period": "2024-06",
-          "revenue": 554.58,
-          "profit": 12.48,
-          "marginPct": 2.302158
-        },
-        {
-          "period": "2024-07",
-          "revenue": 0,
-          "profit": 0,
-          "marginPct": null
-        },
-        {
-          "period": "2024-08",
-          "revenue": 415.79,
-          "profit": 24.89,
-          "marginPct": 6.367357
-        },
-        {
-          "period": "2024-09",
-          "revenue": 1503.47,
-          "profit": 47.15,
-          "marginPct": 3.237613
-        },
-        {
-          "period": "2024-10",
-          "revenue": 0,
-          "profit": 0,
-          "marginPct": null
-        },
-        {
-          "period": "2024-11",
-          "revenue": 2382.12,
-          "profit": 303.62,
-          "marginPct": 14.60765
-        },
-        {
-          "period": "2024-12",
-          "revenue": 0,
-          "profit": 0,
-          "marginPct": null
-        },
-        {
-          "period": "2025-01",
-          "revenue": 1438.84,
-          "profit": 30.26,
-          "marginPct": 2.148263
-        },
-        {
-          "period": "2025-02",
-          "revenue": 1433.88,
-          "profit": 29.31,
-          "marginPct": 2.08676
-        },
-        {
-          "period": "2025-03",
-          "revenue": 0,
-          "profit": 0,
-          "marginPct": null
-        },
-        {
-          "period": "2025-04",
-          "revenue": 0,
-          "profit": 0,
-          "marginPct": null
-        },
-        {
-          "period": "2025-05",
-          "revenue": 7699.17,
-          "profit": 936.64,
-          "marginPct": 13.850438
-        },
-        {
-          "period": "2025-06",
-          "revenue": 341.99,
-          "profit": 17.950004,
-          "marginPct": 5.539441
-        },
-        {
-          "period": "2025-07",
-          "revenue": 1603.31,
-          "profit": 43.11,
-          "marginPct": 2.763107
-        },
-        {
-          "period": "2025-08",
-          "revenue": 647.93,
-          "profit": 15.01,
-          "marginPct": 2.371548
-        }
-      ],
-      "totalRevenue": 21447.9,
-      "totalProfit": 1691.1400039999996,
-      "avgMarginPct": 8.855847414076901,
-      "revenueDeltaAbs": 89.38999999999999,
-      "revenueDeltaPct": 16.004225301679377,
-      "profitDeltaAbs": -11.19,
-      "profitDeltaPct": -42.709923664122144,
-      "revenueTrend": "UP",
       "profitTrend": "DOWN"
     },
     {
@@ -26464,6 +26464,143 @@
       "profitTrend": "DOWN"
     },
     {
+      "slug": "sezet-spol-s-ro",
+      "name": "SEZET spol. s r.o.",
+      "firstMonth": "2024-03",
+      "lastMonth": "2024-11",
+      "months": [
+        {
+          "period": "2024-01",
+          "revenue": 0,
+          "profit": 0,
+          "marginPct": null
+        },
+        {
+          "period": "2024-02",
+          "revenue": 0,
+          "profit": 0,
+          "marginPct": null
+        },
+        {
+          "period": "2024-03",
+          "revenue": 6220.57,
+          "profit": 3190.89,
+          "marginPct": 105.321024
+        },
+        {
+          "period": "2024-04",
+          "revenue": 0,
+          "profit": 0,
+          "marginPct": null
+        },
+        {
+          "period": "2024-05",
+          "revenue": 0,
+          "profit": 0,
+          "marginPct": null
+        },
+        {
+          "period": "2024-06",
+          "revenue": 5610.53,
+          "profit": 1644.58,
+          "marginPct": 41.467492
+        },
+        {
+          "period": "2024-07",
+          "revenue": 0,
+          "profit": 0,
+          "marginPct": null
+        },
+        {
+          "period": "2024-08",
+          "revenue": 0,
+          "profit": 0,
+          "marginPct": null
+        },
+        {
+          "period": "2024-09",
+          "revenue": 0,
+          "profit": 0,
+          "marginPct": null
+        },
+        {
+          "period": "2024-10",
+          "revenue": 0,
+          "profit": 0,
+          "marginPct": null
+        },
+        {
+          "period": "2024-11",
+          "revenue": 2932.7,
+          "profit": 467.4,
+          "marginPct": 18.959153
+        },
+        {
+          "period": "2024-12",
+          "revenue": 0,
+          "profit": 0,
+          "marginPct": null
+        },
+        {
+          "period": "2025-01",
+          "revenue": 0,
+          "profit": 0,
+          "marginPct": null
+        },
+        {
+          "period": "2025-02",
+          "revenue": 0,
+          "profit": 0,
+          "marginPct": null
+        },
+        {
+          "period": "2025-03",
+          "revenue": 0,
+          "profit": 0,
+          "marginPct": null
+        },
+        {
+          "period": "2025-04",
+          "revenue": 0,
+          "profit": 0,
+          "marginPct": null
+        },
+        {
+          "period": "2025-05",
+          "revenue": 0,
+          "profit": 0,
+          "marginPct": null
+        },
+        {
+          "period": "2025-06",
+          "revenue": 0,
+          "profit": 0,
+          "marginPct": null
+        },
+        {
+          "period": "2025-07",
+          "revenue": 0,
+          "profit": 0,
+          "marginPct": null
+        },
+        {
+          "period": "2025-08",
+          "revenue": 0,
+          "profit": 0,
+          "marginPct": null
+        }
+      ],
+      "totalRevenue": 14763.8,
+      "totalProfit": 5302.869999999999,
+      "avgMarginPct": 63.90041304796462,
+      "revenueDeltaAbs": -3287.87,
+      "revenueDeltaPct": -52.85480269492988,
+      "profitDeltaAbs": -2723.49,
+      "profitDeltaPct": -85.35204911482377,
+      "revenueTrend": "DOWN",
+      "profitTrend": "DOWN"
+    },
+    {
       "slug": "dominik-vanek",
       "name": "Dominik Vaněk",
       "firstMonth": "2024-01",
@@ -28793,6 +28930,143 @@
       "profitTrend": "UP"
     },
     {
+      "slug": "lukas-tulach",
+      "name": "Lukas Tulach",
+      "firstMonth": "2024-07",
+      "lastMonth": "2025-06",
+      "months": [
+        {
+          "period": "2024-01",
+          "revenue": 0,
+          "profit": 0,
+          "marginPct": null
+        },
+        {
+          "period": "2024-02",
+          "revenue": 0,
+          "profit": 0,
+          "marginPct": null
+        },
+        {
+          "period": "2024-03",
+          "revenue": 0,
+          "profit": 0,
+          "marginPct": null
+        },
+        {
+          "period": "2024-04",
+          "revenue": 0,
+          "profit": 0,
+          "marginPct": null
+        },
+        {
+          "period": "2024-05",
+          "revenue": 0,
+          "profit": 0,
+          "marginPct": null
+        },
+        {
+          "period": "2024-06",
+          "revenue": 0,
+          "profit": 0,
+          "marginPct": null
+        },
+        {
+          "period": "2024-07",
+          "revenue": 279.08,
+          "profit": 143.96,
+          "marginPct": 106.542333
+        },
+        {
+          "period": "2024-08",
+          "revenue": 234.4,
+          "profit": 102.36,
+          "marginPct": 77.521963
+        },
+        {
+          "period": "2024-09",
+          "revenue": 0,
+          "profit": 0,
+          "marginPct": null
+        },
+        {
+          "period": "2024-10",
+          "revenue": 562.96,
+          "profit": 309.32,
+          "marginPct": 121.952373
+        },
+        {
+          "period": "2024-11",
+          "revenue": 0,
+          "profit": 0,
+          "marginPct": null
+        },
+        {
+          "period": "2024-12",
+          "revenue": 0,
+          "profit": 0,
+          "marginPct": null
+        },
+        {
+          "period": "2025-01",
+          "revenue": 0,
+          "profit": 0,
+          "marginPct": null
+        },
+        {
+          "period": "2025-02",
+          "revenue": 1196.83,
+          "profit": 671.53,
+          "marginPct": 127.837426
+        },
+        {
+          "period": "2025-03",
+          "revenue": 1277.3,
+          "profit": 574.86,
+          "marginPct": 81.837595
+        },
+        {
+          "period": "2025-04",
+          "revenue": 2724.37,
+          "profit": 1289.65,
+          "marginPct": 89.888619
+        },
+        {
+          "period": "2025-05",
+          "revenue": 2427.62,
+          "profit": 1353.49,
+          "marginPct": 126.008025
+        },
+        {
+          "period": "2025-06",
+          "revenue": 564.41,
+          "profit": 308.11,
+          "marginPct": 120.214592
+        },
+        {
+          "period": "2025-07",
+          "revenue": 0,
+          "profit": 0,
+          "marginPct": null
+        },
+        {
+          "period": "2025-08",
+          "revenue": 0,
+          "profit": 0,
+          "marginPct": null
+        }
+      ],
+      "totalRevenue": 9266.97,
+      "totalProfit": 4753.28,
+      "avgMarginPct": 107.12561856186541,
+      "revenueDeltaAbs": 285.33,
+      "revenueDeltaPct": 102.23950121828867,
+      "profitDeltaAbs": 164.15,
+      "profitDeltaPct": 114.0247290914143,
+      "revenueTrend": "UP",
+      "profitTrend": "UP"
+    },
+    {
       "slug": "libor-masek-desped",
       "name": "Libor Mašek - Desped",
       "firstMonth": "2025-07",
@@ -29204,143 +29478,6 @@
       "profitTrend": "DOWN"
     },
     {
-      "slug": "sezet-spol-s-ro",
-      "name": "SEZET spol. s r.o.",
-      "firstMonth": "2024-06",
-      "lastMonth": "2024-11",
-      "months": [
-        {
-          "period": "2024-01",
-          "revenue": 0,
-          "profit": 0,
-          "marginPct": null
-        },
-        {
-          "period": "2024-02",
-          "revenue": 0,
-          "profit": 0,
-          "marginPct": null
-        },
-        {
-          "period": "2024-03",
-          "revenue": 0,
-          "profit": 0,
-          "marginPct": null
-        },
-        {
-          "period": "2024-04",
-          "revenue": 0,
-          "profit": 0,
-          "marginPct": null
-        },
-        {
-          "period": "2024-05",
-          "revenue": 0,
-          "profit": 0,
-          "marginPct": null
-        },
-        {
-          "period": "2024-06",
-          "revenue": 5610.53,
-          "profit": 1644.58,
-          "marginPct": 41.467492
-        },
-        {
-          "period": "2024-07",
-          "revenue": 0,
-          "profit": 0,
-          "marginPct": null
-        },
-        {
-          "period": "2024-08",
-          "revenue": 0,
-          "profit": 0,
-          "marginPct": null
-        },
-        {
-          "period": "2024-09",
-          "revenue": 0,
-          "profit": 0,
-          "marginPct": null
-        },
-        {
-          "period": "2024-10",
-          "revenue": 0,
-          "profit": 0,
-          "marginPct": null
-        },
-        {
-          "period": "2024-11",
-          "revenue": 2932.7,
-          "profit": 467.4,
-          "marginPct": 18.959153
-        },
-        {
-          "period": "2024-12",
-          "revenue": 0,
-          "profit": 0,
-          "marginPct": null
-        },
-        {
-          "period": "2025-01",
-          "revenue": 0,
-          "profit": 0,
-          "marginPct": null
-        },
-        {
-          "period": "2025-02",
-          "revenue": 0,
-          "profit": 0,
-          "marginPct": null
-        },
-        {
-          "period": "2025-03",
-          "revenue": 0,
-          "profit": 0,
-          "marginPct": null
-        },
-        {
-          "period": "2025-04",
-          "revenue": 0,
-          "profit": 0,
-          "marginPct": null
-        },
-        {
-          "period": "2025-05",
-          "revenue": 0,
-          "profit": 0,
-          "marginPct": null
-        },
-        {
-          "period": "2025-06",
-          "revenue": 0,
-          "profit": 0,
-          "marginPct": null
-        },
-        {
-          "period": "2025-07",
-          "revenue": 0,
-          "profit": 0,
-          "marginPct": null
-        },
-        {
-          "period": "2025-08",
-          "revenue": 0,
-          "profit": 0,
-          "marginPct": null
-        }
-      ],
-      "totalRevenue": 8543.23,
-      "totalProfit": 2111.98,
-      "avgMarginPct": 33.74088206613424,
-      "revenueDeltaAbs": -2677.83,
-      "revenueDeltaPct": -47.728645956799085,
-      "profitDeltaAbs": -1177.1799999999998,
-      "profitDeltaPct": -71.57936980870497,
-      "revenueTrend": "DOWN",
-      "profitTrend": "DOWN"
-    },
-    {
       "slug": "matej-vysohlid",
       "name": "Matěj Vyšohlíd",
       "firstMonth": "2024-01",
@@ -29384,9 +29521,9 @@
         },
         {
           "period": "2024-07",
-          "revenue": 0,
-          "profit": 0,
-          "marginPct": null
+          "revenue": 130.19,
+          "profit": 133.15,
+          "marginPct": -4498.310811
         },
         {
           "period": "2024-08",
@@ -29467,9 +29604,9 @@
           "marginPct": 37.039838
         }
       ],
-      "totalRevenue": 8422.289999999999,
-      "totalProfit": 1816.2669999999998,
-      "avgMarginPct": 28.0338378821152,
+      "totalRevenue": 8552.48,
+      "totalProfit": 1949.417,
+      "avgMarginPct": -40.86837642741405,
       "revenueDeltaAbs": 618.5799999999999,
       "revenueDeltaPct": 127.10722064685815,
       "profitDeltaAbs": 244.21300000000002,
@@ -30300,7 +30437,144 @@
       "profitTrend": "FLAT"
     },
     {
-      "slug": "martin-flegl",
+      "slug": "hlousek-miroslav",
+      "name": "Hloušek Miroslav",
+      "firstMonth": "2024-01",
+      "lastMonth": "2025-08",
+      "months": [
+        {
+          "period": "2024-01",
+          "revenue": 1275.26,
+          "profit": 387.01,
+          "marginPct": 43.569941
+        },
+        {
+          "period": "2024-02",
+          "revenue": 0,
+          "profit": 0,
+          "marginPct": null
+        },
+        {
+          "period": "2024-03",
+          "revenue": 0,
+          "profit": 0,
+          "marginPct": null
+        },
+        {
+          "period": "2024-04",
+          "revenue": 0,
+          "profit": 0,
+          "marginPct": null
+        },
+        {
+          "period": "2024-05",
+          "revenue": 0,
+          "profit": 0,
+          "marginPct": null
+        },
+        {
+          "period": "2024-06",
+          "revenue": 1487.34,
+          "profit": 386.28,
+          "marginPct": 35.082557
+        },
+        {
+          "period": "2024-07",
+          "revenue": 0,
+          "profit": 0,
+          "marginPct": null
+        },
+        {
+          "period": "2024-08",
+          "revenue": 0,
+          "profit": 0,
+          "marginPct": null
+        },
+        {
+          "period": "2024-09",
+          "revenue": 416.07,
+          "profit": 145.7,
+          "marginPct": 53.889115
+        },
+        {
+          "period": "2024-10",
+          "revenue": 605.81,
+          "profit": 45.66,
+          "marginPct": 8.151388
+        },
+        {
+          "period": "2024-11",
+          "revenue": 0,
+          "profit": 0,
+          "marginPct": null
+        },
+        {
+          "period": "2024-12",
+          "revenue": 0,
+          "profit": 0,
+          "marginPct": null
+        },
+        {
+          "period": "2025-01",
+          "revenue": 1746.03,
+          "profit": 451.44,
+          "marginPct": 34.871272
+        },
+        {
+          "period": "2025-02",
+          "revenue": 0,
+          "profit": 0,
+          "marginPct": null
+        },
+        {
+          "period": "2025-03",
+          "revenue": 0,
+          "profit": 0,
+          "marginPct": null
+        },
+        {
+          "period": "2025-04",
+          "revenue": 153.77,
+          "profit": 37.88,
+          "marginPct": 32.686168
+        },
+        {
+          "period": "2025-05",
+          "revenue": 0,
+          "profit": 0,
+          "marginPct": null
+        },
+        {
+          "period": "2025-06",
+          "revenue": 1008.26,
+          "profit": 258.75,
+          "marginPct": 34.522555
+        },
+        {
+          "period": "2025-07",
+          "revenue": 371.9,
+          "profit": 186.99,
+          "marginPct": 101.124872
+        },
+        {
+          "period": "2025-08",
+          "revenue": 133.09,
+          "profit": -57.16,
+          "marginPct": -30.044678
+        }
+      ],
+      "totalRevenue": 7197.530000000001,
+      "totalProfit": 1842.55,
+      "avgMarginPct": 37.43400497670312,
+      "revenueDeltaAbs": -1142.17,
+      "revenueDeltaPct": -89.56369681476718,
+      "profitDeltaAbs": -444.16999999999996,
+      "profitDeltaPct": -114.76964419524043,
+      "revenueTrend": "DOWN",
+      "profitTrend": "DOWN"
+    },
+    {
+      "slug": "martin-flegl-1",
       "name": "Martin Flégl",
       "firstMonth": "2024-05",
       "lastMonth": "2025-08",
@@ -30574,6 +30848,143 @@
       "profitTrend": "UP"
     },
     {
+      "slug": "pecovatelska-sluzba-mesta-dvur-kralove-nad-labem",
+      "name": "Pečovatelská služba Města Dvůr Králové nad Labem",
+      "firstMonth": "2024-06",
+      "lastMonth": "2025-07",
+      "months": [
+        {
+          "period": "2024-01",
+          "revenue": 0,
+          "profit": 0,
+          "marginPct": null
+        },
+        {
+          "period": "2024-02",
+          "revenue": 0,
+          "profit": 0,
+          "marginPct": null
+        },
+        {
+          "period": "2024-03",
+          "revenue": 0,
+          "profit": 0,
+          "marginPct": null
+        },
+        {
+          "period": "2024-04",
+          "revenue": 0,
+          "profit": 0,
+          "marginPct": null
+        },
+        {
+          "period": "2024-05",
+          "revenue": 0,
+          "profit": 0,
+          "marginPct": null
+        },
+        {
+          "period": "2024-06",
+          "revenue": 218.03,
+          "profit": 36.34,
+          "marginPct": 20.001101
+        },
+        {
+          "period": "2024-07",
+          "revenue": 2386.86,
+          "profit": 586.44,
+          "marginPct": 32.5724
+        },
+        {
+          "period": "2024-08",
+          "revenue": 228.06,
+          "profit": -139.464,
+          "marginPct": -37.94691
+        },
+        {
+          "period": "2024-09",
+          "revenue": 0,
+          "profit": 0,
+          "marginPct": null
+        },
+        {
+          "period": "2024-10",
+          "revenue": 1140.7,
+          "profit": 168.58,
+          "marginPct": 17.34148
+        },
+        {
+          "period": "2024-11",
+          "revenue": 0,
+          "profit": 0,
+          "marginPct": null
+        },
+        {
+          "period": "2024-12",
+          "revenue": 0,
+          "profit": 0,
+          "marginPct": null
+        },
+        {
+          "period": "2025-01",
+          "revenue": 845.28,
+          "profit": 229.19,
+          "marginPct": 37.200734
+        },
+        {
+          "period": "2025-02",
+          "revenue": 259.01,
+          "profit": 95.41,
+          "marginPct": 58.319071
+        },
+        {
+          "period": "2025-03",
+          "revenue": 208.76,
+          "profit": 31.68,
+          "marginPct": 17.890219
+        },
+        {
+          "period": "2025-04",
+          "revenue": 0,
+          "profit": 0,
+          "marginPct": null
+        },
+        {
+          "period": "2025-05",
+          "revenue": 1224.46,
+          "profit": 242.29,
+          "marginPct": 24.668846
+        },
+        {
+          "period": "2025-06",
+          "revenue": 0,
+          "profit": 0,
+          "marginPct": null
+        },
+        {
+          "period": "2025-07",
+          "revenue": 401.76,
+          "profit": 47.16,
+          "marginPct": 13.299492
+        },
+        {
+          "period": "2025-08",
+          "revenue": 0,
+          "profit": 0,
+          "marginPct": null
+        }
+      ],
+      "totalRevenue": 6912.920000000001,
+      "totalProfit": 1297.626,
+      "avgMarginPct": 25.903394349881093,
+      "revenueDeltaAbs": 183.73,
+      "revenueDeltaPct": 84.26821996972893,
+      "profitDeltaAbs": 10.819999999999993,
+      "profitDeltaPct": 29.77435332966425,
+      "revenueTrend": "UP",
+      "profitTrend": "UP"
+    },
+    {
       "slug": "lukas-vonka",
       "name": "Lukáš Voňka",
       "firstMonth": "2025-08",
@@ -30709,280 +31120,6 @@
       "profitDeltaPct": null,
       "revenueTrend": "FLAT",
       "profitTrend": "FLAT"
-    },
-    {
-      "slug": "hlousek-miroslav",
-      "name": "Hloušek Miroslav",
-      "firstMonth": "2024-01",
-      "lastMonth": "2025-06",
-      "months": [
-        {
-          "period": "2024-01",
-          "revenue": 1275.26,
-          "profit": 387.01,
-          "marginPct": 43.569941
-        },
-        {
-          "period": "2024-02",
-          "revenue": 0,
-          "profit": 0,
-          "marginPct": null
-        },
-        {
-          "period": "2024-03",
-          "revenue": 0,
-          "profit": 0,
-          "marginPct": null
-        },
-        {
-          "period": "2024-04",
-          "revenue": 0,
-          "profit": 0,
-          "marginPct": null
-        },
-        {
-          "period": "2024-05",
-          "revenue": 0,
-          "profit": 0,
-          "marginPct": null
-        },
-        {
-          "period": "2024-06",
-          "revenue": 1487.34,
-          "profit": 386.28,
-          "marginPct": 35.082557
-        },
-        {
-          "period": "2024-07",
-          "revenue": 0,
-          "profit": 0,
-          "marginPct": null
-        },
-        {
-          "period": "2024-08",
-          "revenue": 0,
-          "profit": 0,
-          "marginPct": null
-        },
-        {
-          "period": "2024-09",
-          "revenue": 416.07,
-          "profit": 145.7,
-          "marginPct": 53.889115
-        },
-        {
-          "period": "2024-10",
-          "revenue": 605.81,
-          "profit": 45.66,
-          "marginPct": 8.151388
-        },
-        {
-          "period": "2024-11",
-          "revenue": 0,
-          "profit": 0,
-          "marginPct": null
-        },
-        {
-          "period": "2024-12",
-          "revenue": 0,
-          "profit": 0,
-          "marginPct": null
-        },
-        {
-          "period": "2025-01",
-          "revenue": 1746.03,
-          "profit": 451.44,
-          "marginPct": 34.871272
-        },
-        {
-          "period": "2025-02",
-          "revenue": 0,
-          "profit": 0,
-          "marginPct": null
-        },
-        {
-          "period": "2025-03",
-          "revenue": 0,
-          "profit": 0,
-          "marginPct": null
-        },
-        {
-          "period": "2025-04",
-          "revenue": 153.77,
-          "profit": 37.88,
-          "marginPct": 32.686168
-        },
-        {
-          "period": "2025-05",
-          "revenue": 0,
-          "profit": 0,
-          "marginPct": null
-        },
-        {
-          "period": "2025-06",
-          "revenue": 1008.26,
-          "profit": 258.75,
-          "marginPct": 34.522555
-        },
-        {
-          "period": "2025-07",
-          "revenue": 0,
-          "profit": 0,
-          "marginPct": null
-        },
-        {
-          "period": "2025-08",
-          "revenue": 0,
-          "profit": 0,
-          "marginPct": null
-        }
-      ],
-      "totalRevenue": 6692.540000000001,
-      "totalProfit": 1712.72,
-      "avgMarginPct": 35.236648587560175,
-      "revenueDeltaAbs": -267,
-      "revenueDeltaPct": -20.93690698367392,
-      "profitDeltaAbs": -128.26,
-      "profitDeltaPct": -33.141262499677005,
-      "revenueTrend": "DOWN",
-      "profitTrend": "DOWN"
-    },
-    {
-      "slug": "pecovatelska-sluzba-mesta-dvur-kralove-nad-labem",
-      "name": "Pečovatelská služba Města Dvůr Králové nad Labem",
-      "firstMonth": "2024-06",
-      "lastMonth": "2025-07",
-      "months": [
-        {
-          "period": "2024-01",
-          "revenue": 0,
-          "profit": 0,
-          "marginPct": null
-        },
-        {
-          "period": "2024-02",
-          "revenue": 0,
-          "profit": 0,
-          "marginPct": null
-        },
-        {
-          "period": "2024-03",
-          "revenue": 0,
-          "profit": 0,
-          "marginPct": null
-        },
-        {
-          "period": "2024-04",
-          "revenue": 0,
-          "profit": 0,
-          "marginPct": null
-        },
-        {
-          "period": "2024-05",
-          "revenue": 0,
-          "profit": 0,
-          "marginPct": null
-        },
-        {
-          "period": "2024-06",
-          "revenue": 218.03,
-          "profit": 36.34,
-          "marginPct": 20.001101
-        },
-        {
-          "period": "2024-07",
-          "revenue": 2386.86,
-          "profit": 586.44,
-          "marginPct": 32.5724
-        },
-        {
-          "period": "2024-08",
-          "revenue": 0,
-          "profit": 0,
-          "marginPct": null
-        },
-        {
-          "period": "2024-09",
-          "revenue": 0,
-          "profit": 0,
-          "marginPct": null
-        },
-        {
-          "period": "2024-10",
-          "revenue": 1140.7,
-          "profit": 168.58,
-          "marginPct": 17.34148
-        },
-        {
-          "period": "2024-11",
-          "revenue": 0,
-          "profit": 0,
-          "marginPct": null
-        },
-        {
-          "period": "2024-12",
-          "revenue": 0,
-          "profit": 0,
-          "marginPct": null
-        },
-        {
-          "period": "2025-01",
-          "revenue": 845.28,
-          "profit": 229.19,
-          "marginPct": 37.200734
-        },
-        {
-          "period": "2025-02",
-          "revenue": 259.01,
-          "profit": 95.41,
-          "marginPct": 58.319071
-        },
-        {
-          "period": "2025-03",
-          "revenue": 208.76,
-          "profit": 31.68,
-          "marginPct": 17.890219
-        },
-        {
-          "period": "2025-04",
-          "revenue": 0,
-          "profit": 0,
-          "marginPct": null
-        },
-        {
-          "period": "2025-05",
-          "revenue": 1224.46,
-          "profit": 242.29,
-          "marginPct": 24.668846
-        },
-        {
-          "period": "2025-06",
-          "revenue": 0,
-          "profit": 0,
-          "marginPct": null
-        },
-        {
-          "period": "2025-07",
-          "revenue": 401.76,
-          "profit": 47.16,
-          "marginPct": 13.299492
-        },
-        {
-          "period": "2025-08",
-          "revenue": 0,
-          "profit": 0,
-          "marginPct": null
-        }
-      ],
-      "totalRevenue": 6684.860000000001,
-      "totalProfit": 1437.0900000000004,
-      "avgMarginPct": 28.0817048021619,
-      "revenueDeltaAbs": 183.73,
-      "revenueDeltaPct": 84.26821996972893,
-      "profitDeltaAbs": 10.819999999999993,
-      "profitDeltaPct": 29.77435332966425,
-      "revenueTrend": "UP",
-      "profitTrend": "UP"
     },
     {
       "slug": "daniel-valek",
@@ -31531,6 +31668,143 @@
       "profitDeltaPct": 260.598867993427,
       "revenueTrend": "DOWN",
       "profitTrend": "UP"
+    },
+    {
+      "slug": "josef-janacek",
+      "name": "Josef Janáček",
+      "firstMonth": "2024-07",
+      "lastMonth": "2025-07",
+      "months": [
+        {
+          "period": "2024-01",
+          "revenue": 0,
+          "profit": 0,
+          "marginPct": null
+        },
+        {
+          "period": "2024-02",
+          "revenue": 0,
+          "profit": 0,
+          "marginPct": null
+        },
+        {
+          "period": "2024-03",
+          "revenue": 0,
+          "profit": 0,
+          "marginPct": null
+        },
+        {
+          "period": "2024-04",
+          "revenue": 0,
+          "profit": 0,
+          "marginPct": null
+        },
+        {
+          "period": "2024-05",
+          "revenue": 0,
+          "profit": 0,
+          "marginPct": null
+        },
+        {
+          "period": "2024-06",
+          "revenue": 0,
+          "profit": 0,
+          "marginPct": null
+        },
+        {
+          "period": "2024-07",
+          "revenue": 1943.13,
+          "profit": 1202.65,
+          "marginPct": 162.41492
+        },
+        {
+          "period": "2024-08",
+          "revenue": 1038.35,
+          "profit": 173.35,
+          "marginPct": 20.040462
+        },
+        {
+          "period": "2024-09",
+          "revenue": 0,
+          "profit": 0,
+          "marginPct": null
+        },
+        {
+          "period": "2024-10",
+          "revenue": 0,
+          "profit": 0,
+          "marginPct": null
+        },
+        {
+          "period": "2024-11",
+          "revenue": 0,
+          "profit": 0,
+          "marginPct": null
+        },
+        {
+          "period": "2024-12",
+          "revenue": 0,
+          "profit": 0,
+          "marginPct": null
+        },
+        {
+          "period": "2025-01",
+          "revenue": 0,
+          "profit": 0,
+          "marginPct": null
+        },
+        {
+          "period": "2025-02",
+          "revenue": 1731.07,
+          "profit": 525.79,
+          "marginPct": 43.623888
+        },
+        {
+          "period": "2025-03",
+          "revenue": 0,
+          "profit": 0,
+          "marginPct": null
+        },
+        {
+          "period": "2025-04",
+          "revenue": 0,
+          "profit": 0,
+          "marginPct": null
+        },
+        {
+          "period": "2025-05",
+          "revenue": 0,
+          "profit": 0,
+          "marginPct": null
+        },
+        {
+          "period": "2025-06",
+          "revenue": 0,
+          "profit": 0,
+          "marginPct": null
+        },
+        {
+          "period": "2025-07",
+          "revenue": 1385.78,
+          "profit": 427.72,
+          "marginPct": 44.644386
+        },
+        {
+          "period": "2025-08",
+          "revenue": 0,
+          "profit": 0,
+          "marginPct": null
+        }
+      ],
+      "totalRevenue": 6098.33,
+      "totalProfit": 2329.51,
+      "avgMarginPct": 77.69104299841761,
+      "revenueDeltaAbs": -557.3500000000001,
+      "revenueDeltaPct": -28.68310406406159,
+      "profitDeltaAbs": -774.9300000000001,
+      "profitDeltaPct": -64.43520558766058,
+      "revenueTrend": "DOWN",
+      "profitTrend": "DOWN"
     },
     {
       "slug": "safari-gastro-sro",
@@ -33588,6 +33862,143 @@
       "profitTrend": "DOWN"
     },
     {
+      "slug": "marcel-jenik",
+      "name": "Marcel Jeník",
+      "firstMonth": "2024-01",
+      "lastMonth": "2025-05",
+      "months": [
+        {
+          "period": "2024-01",
+          "revenue": 1805.25,
+          "profit": 243.44,
+          "marginPct": 15.587043
+        },
+        {
+          "period": "2024-02",
+          "revenue": 0,
+          "profit": 0,
+          "marginPct": null
+        },
+        {
+          "period": "2024-03",
+          "revenue": 696.3,
+          "profit": 172.65,
+          "marginPct": 32.970496
+        },
+        {
+          "period": "2024-04",
+          "revenue": 0,
+          "profit": 0,
+          "marginPct": null
+        },
+        {
+          "period": "2024-05",
+          "revenue": 0,
+          "profit": 0,
+          "marginPct": null
+        },
+        {
+          "period": "2024-06",
+          "revenue": 0,
+          "profit": 0,
+          "marginPct": null
+        },
+        {
+          "period": "2024-07",
+          "revenue": 0,
+          "profit": 0,
+          "marginPct": null
+        },
+        {
+          "period": "2024-08",
+          "revenue": 0,
+          "profit": 0,
+          "marginPct": null
+        },
+        {
+          "period": "2024-09",
+          "revenue": 0,
+          "profit": 0,
+          "marginPct": null
+        },
+        {
+          "period": "2024-10",
+          "revenue": 1693.25,
+          "profit": 945.23,
+          "marginPct": 126.364268
+        },
+        {
+          "period": "2024-11",
+          "revenue": 0,
+          "profit": 0,
+          "marginPct": null
+        },
+        {
+          "period": "2024-12",
+          "revenue": 0,
+          "profit": 0,
+          "marginPct": null
+        },
+        {
+          "period": "2025-01",
+          "revenue": 0,
+          "profit": 0,
+          "marginPct": null
+        },
+        {
+          "period": "2025-02",
+          "revenue": 0,
+          "profit": 0,
+          "marginPct": null
+        },
+        {
+          "period": "2025-03",
+          "revenue": 0,
+          "profit": 0,
+          "marginPct": null
+        },
+        {
+          "period": "2025-04",
+          "revenue": 0,
+          "profit": 0,
+          "marginPct": null
+        },
+        {
+          "period": "2025-05",
+          "revenue": 420.86,
+          "profit": 83.15,
+          "marginPct": 24.621717
+        },
+        {
+          "period": "2025-06",
+          "revenue": 0,
+          "profit": 0,
+          "marginPct": null
+        },
+        {
+          "period": "2025-07",
+          "revenue": 0,
+          "profit": 0,
+          "marginPct": null
+        },
+        {
+          "period": "2025-08",
+          "revenue": 0,
+          "profit": 0,
+          "marginPct": null
+        }
+      ],
+      "totalRevenue": 4615.66,
+      "totalProfit": 1444.4700000000003,
+      "avgMarginPct": 59.6717388950161,
+      "revenueDeltaAbs": -1384.3899999999999,
+      "revenueDeltaPct": -76.68688547292619,
+      "profitDeltaAbs": -160.29,
+      "profitDeltaPct": -65.84373973052908,
+      "revenueTrend": "DOWN",
+      "profitTrend": "DOWN"
+    },
+    {
       "slug": "michal-subrt",
       "name": "Michal Šubrt",
       "firstMonth": "2024-02",
@@ -33995,280 +34406,6 @@
       "revenueDeltaPct": 524.7502811404379,
       "profitDeltaAbs": 258.69,
       "profitDeltaPct": 484.6197077557137,
-      "revenueTrend": "UP",
-      "profitTrend": "UP"
-    },
-    {
-      "slug": "lukas-tulach",
-      "name": "Lukas Tulach",
-      "firstMonth": "2024-08",
-      "lastMonth": "2025-04",
-      "months": [
-        {
-          "period": "2024-01",
-          "revenue": 0,
-          "profit": 0,
-          "marginPct": null
-        },
-        {
-          "period": "2024-02",
-          "revenue": 0,
-          "profit": 0,
-          "marginPct": null
-        },
-        {
-          "period": "2024-03",
-          "revenue": 0,
-          "profit": 0,
-          "marginPct": null
-        },
-        {
-          "period": "2024-04",
-          "revenue": 0,
-          "profit": 0,
-          "marginPct": null
-        },
-        {
-          "period": "2024-05",
-          "revenue": 0,
-          "profit": 0,
-          "marginPct": null
-        },
-        {
-          "period": "2024-06",
-          "revenue": 0,
-          "profit": 0,
-          "marginPct": null
-        },
-        {
-          "period": "2024-07",
-          "revenue": 0,
-          "profit": 0,
-          "marginPct": null
-        },
-        {
-          "period": "2024-08",
-          "revenue": 234.4,
-          "profit": 102.36,
-          "marginPct": 77.521963
-        },
-        {
-          "period": "2024-09",
-          "revenue": 0,
-          "profit": 0,
-          "marginPct": null
-        },
-        {
-          "period": "2024-10",
-          "revenue": 0,
-          "profit": 0,
-          "marginPct": null
-        },
-        {
-          "period": "2024-11",
-          "revenue": 0,
-          "profit": 0,
-          "marginPct": null
-        },
-        {
-          "period": "2024-12",
-          "revenue": 0,
-          "profit": 0,
-          "marginPct": null
-        },
-        {
-          "period": "2025-01",
-          "revenue": 0,
-          "profit": 0,
-          "marginPct": null
-        },
-        {
-          "period": "2025-02",
-          "revenue": 0,
-          "profit": 0,
-          "marginPct": null
-        },
-        {
-          "period": "2025-03",
-          "revenue": 1277.3,
-          "profit": 574.86,
-          "marginPct": 81.837595
-        },
-        {
-          "period": "2025-04",
-          "revenue": 2724.37,
-          "profit": 1289.65,
-          "marginPct": 89.888619
-        },
-        {
-          "period": "2025-05",
-          "revenue": 0,
-          "profit": 0,
-          "marginPct": null
-        },
-        {
-          "period": "2025-06",
-          "revenue": 0,
-          "profit": 0,
-          "marginPct": null
-        },
-        {
-          "period": "2025-07",
-          "revenue": 0,
-          "profit": 0,
-          "marginPct": null
-        },
-        {
-          "period": "2025-08",
-          "revenue": 0,
-          "profit": 0,
-          "marginPct": null
-        }
-      ],
-      "totalRevenue": 4236.07,
-      "totalProfit": 1966.8700000000001,
-      "avgMarginPct": 86.77669754412227,
-      "revenueDeltaAbs": 2489.97,
-      "revenueDeltaPct": 1062.273890784983,
-      "profitDeltaAbs": 1187.2900000000002,
-      "profitDeltaPct": 1159.9159828057836,
-      "revenueTrend": "UP",
-      "profitTrend": "UP"
-    },
-    {
-      "slug": "josef-janacek",
-      "name": "Josef Janáček",
-      "firstMonth": "2024-08",
-      "lastMonth": "2025-07",
-      "months": [
-        {
-          "period": "2024-01",
-          "revenue": 0,
-          "profit": 0,
-          "marginPct": null
-        },
-        {
-          "period": "2024-02",
-          "revenue": 0,
-          "profit": 0,
-          "marginPct": null
-        },
-        {
-          "period": "2024-03",
-          "revenue": 0,
-          "profit": 0,
-          "marginPct": null
-        },
-        {
-          "period": "2024-04",
-          "revenue": 0,
-          "profit": 0,
-          "marginPct": null
-        },
-        {
-          "period": "2024-05",
-          "revenue": 0,
-          "profit": 0,
-          "marginPct": null
-        },
-        {
-          "period": "2024-06",
-          "revenue": 0,
-          "profit": 0,
-          "marginPct": null
-        },
-        {
-          "period": "2024-07",
-          "revenue": 0,
-          "profit": 0,
-          "marginPct": null
-        },
-        {
-          "period": "2024-08",
-          "revenue": 1038.35,
-          "profit": 173.35,
-          "marginPct": 20.040462
-        },
-        {
-          "period": "2024-09",
-          "revenue": 0,
-          "profit": 0,
-          "marginPct": null
-        },
-        {
-          "period": "2024-10",
-          "revenue": 0,
-          "profit": 0,
-          "marginPct": null
-        },
-        {
-          "period": "2024-11",
-          "revenue": 0,
-          "profit": 0,
-          "marginPct": null
-        },
-        {
-          "period": "2024-12",
-          "revenue": 0,
-          "profit": 0,
-          "marginPct": null
-        },
-        {
-          "period": "2025-01",
-          "revenue": 0,
-          "profit": 0,
-          "marginPct": null
-        },
-        {
-          "period": "2025-02",
-          "revenue": 1731.07,
-          "profit": 525.79,
-          "marginPct": 43.623888
-        },
-        {
-          "period": "2025-03",
-          "revenue": 0,
-          "profit": 0,
-          "marginPct": null
-        },
-        {
-          "period": "2025-04",
-          "revenue": 0,
-          "profit": 0,
-          "marginPct": null
-        },
-        {
-          "period": "2025-05",
-          "revenue": 0,
-          "profit": 0,
-          "marginPct": null
-        },
-        {
-          "period": "2025-06",
-          "revenue": 0,
-          "profit": 0,
-          "marginPct": null
-        },
-        {
-          "period": "2025-07",
-          "revenue": 1385.78,
-          "profit": 427.72,
-          "marginPct": 44.644386
-        },
-        {
-          "period": "2025-08",
-          "revenue": 0,
-          "profit": 0,
-          "marginPct": null
-        }
-      ],
-      "totalRevenue": 4155.2,
-      "totalProfit": 1126.8600000000001,
-      "avgMarginPct": 38.070926730106855,
-      "revenueDeltaAbs": 347.43000000000006,
-      "revenueDeltaPct": 33.45981605431696,
-      "profitDeltaAbs": 254.37000000000003,
-      "profitDeltaPct": 146.73781367176235,
       "revenueTrend": "UP",
       "profitTrend": "UP"
     },
@@ -34682,6 +34819,143 @@
       "profitDeltaPct": null,
       "revenueTrend": "FLAT",
       "profitTrend": "FLAT"
+    },
+    {
+      "slug": "hlousek-petr",
+      "name": "Hloušek Petr",
+      "firstMonth": "2024-01",
+      "lastMonth": "2025-08",
+      "months": [
+        {
+          "period": "2024-01",
+          "revenue": 648,
+          "profit": 358.4,
+          "marginPct": 123.756906
+        },
+        {
+          "period": "2024-02",
+          "revenue": 0,
+          "profit": 0,
+          "marginPct": null
+        },
+        {
+          "period": "2024-03",
+          "revenue": 1265.38,
+          "profit": 300.7,
+          "marginPct": 31.170958
+        },
+        {
+          "period": "2024-04",
+          "revenue": 365.26,
+          "profit": 65.28,
+          "marginPct": 21.761451
+        },
+        {
+          "period": "2024-05",
+          "revenue": 0,
+          "profit": 0,
+          "marginPct": null
+        },
+        {
+          "period": "2024-06",
+          "revenue": 0,
+          "profit": 0,
+          "marginPct": null
+        },
+        {
+          "period": "2024-07",
+          "revenue": 126.65,
+          "profit": 32.07,
+          "marginPct": 33.907803
+        },
+        {
+          "period": "2024-08",
+          "revenue": 0,
+          "profit": 0,
+          "marginPct": null
+        },
+        {
+          "period": "2024-09",
+          "revenue": 0,
+          "profit": 0,
+          "marginPct": null
+        },
+        {
+          "period": "2024-10",
+          "revenue": 330.23,
+          "profit": 79.68,
+          "marginPct": 31.802036
+        },
+        {
+          "period": "2024-11",
+          "revenue": 0,
+          "profit": 0,
+          "marginPct": null
+        },
+        {
+          "period": "2024-12",
+          "revenue": 0,
+          "profit": 0,
+          "marginPct": null
+        },
+        {
+          "period": "2025-01",
+          "revenue": 0,
+          "profit": 0,
+          "marginPct": null
+        },
+        {
+          "period": "2025-02",
+          "revenue": 0,
+          "profit": 0,
+          "marginPct": null
+        },
+        {
+          "period": "2025-03",
+          "revenue": 0,
+          "profit": 0,
+          "marginPct": null
+        },
+        {
+          "period": "2025-04",
+          "revenue": 0,
+          "profit": 0,
+          "marginPct": null
+        },
+        {
+          "period": "2025-05",
+          "revenue": 0,
+          "profit": 0,
+          "marginPct": null
+        },
+        {
+          "period": "2025-06",
+          "revenue": 0,
+          "profit": 0,
+          "marginPct": null
+        },
+        {
+          "period": "2025-07",
+          "revenue": 0,
+          "profit": 0,
+          "marginPct": null
+        },
+        {
+          "period": "2025-08",
+          "revenue": 789.32,
+          "profit": 271.91,
+          "marginPct": 52.552135
+        }
+      ],
+      "totalRevenue": 3524.8400000000006,
+      "totalProfit": 1108.04,
+      "avgMarginPct": 52.16209255192575,
+      "revenueDeltaAbs": 141.32000000000005,
+      "revenueDeltaPct": 21.808641975308653,
+      "profitDeltaAbs": -86.48999999999995,
+      "profitDeltaPct": -24.132254464285708,
+      "revenueTrend": "UP",
+      "profitTrend": "DOWN"
     },
     {
       "slug": "hrncir-jaroslav",
@@ -35643,16 +35917,16 @@
       "profitTrend": "UP"
     },
     {
-      "slug": "marcel-jenik",
-      "name": "Marcel Jeník",
-      "firstMonth": "2024-01",
-      "lastMonth": "2025-05",
+      "slug": "jakub-musil",
+      "name": "Jakub Musil",
+      "firstMonth": "2024-09",
+      "lastMonth": "2024-10",
       "months": [
         {
           "period": "2024-01",
-          "revenue": 1805.25,
-          "profit": 243.44,
-          "marginPct": 15.587043
+          "revenue": 0,
+          "profit": 0,
+          "marginPct": null
         },
         {
           "period": "2024-02",
@@ -35662,9 +35936,9 @@
         },
         {
           "period": "2024-03",
-          "revenue": 696.3,
-          "profit": 172.65,
-          "marginPct": 32.970496
+          "revenue": 0,
+          "profit": 0,
+          "marginPct": null
         },
         {
           "period": "2024-04",
@@ -35698,152 +35972,15 @@
         },
         {
           "period": "2024-09",
-          "revenue": 0,
-          "profit": 0,
-          "marginPct": null
+          "revenue": 129.72,
+          "profit": 83.8,
+          "marginPct": 182.491289
         },
         {
           "period": "2024-10",
-          "revenue": 0,
-          "profit": 0,
-          "marginPct": null
-        },
-        {
-          "period": "2024-11",
-          "revenue": 0,
-          "profit": 0,
-          "marginPct": null
-        },
-        {
-          "period": "2024-12",
-          "revenue": 0,
-          "profit": 0,
-          "marginPct": null
-        },
-        {
-          "period": "2025-01",
-          "revenue": 0,
-          "profit": 0,
-          "marginPct": null
-        },
-        {
-          "period": "2025-02",
-          "revenue": 0,
-          "profit": 0,
-          "marginPct": null
-        },
-        {
-          "period": "2025-03",
-          "revenue": 0,
-          "profit": 0,
-          "marginPct": null
-        },
-        {
-          "period": "2025-04",
-          "revenue": 0,
-          "profit": 0,
-          "marginPct": null
-        },
-        {
-          "period": "2025-05",
-          "revenue": 420.86,
-          "profit": 83.15,
-          "marginPct": 24.621717
-        },
-        {
-          "period": "2025-06",
-          "revenue": 0,
-          "profit": 0,
-          "marginPct": null
-        },
-        {
-          "period": "2025-07",
-          "revenue": 0,
-          "profit": 0,
-          "marginPct": null
-        },
-        {
-          "period": "2025-08",
-          "revenue": 0,
-          "profit": 0,
-          "marginPct": null
-        }
-      ],
-      "totalRevenue": 2922.4100000000003,
-      "totalProfit": 499.24,
-      "avgMarginPct": 21.02995868381575,
-      "revenueDeltaAbs": -1384.3899999999999,
-      "revenueDeltaPct": -76.68688547292619,
-      "profitDeltaAbs": -160.29,
-      "profitDeltaPct": -65.84373973052908,
-      "revenueTrend": "DOWN",
-      "profitTrend": "DOWN"
-    },
-    {
-      "slug": "hlousek-petr",
-      "name": "Hloušek Petr",
-      "firstMonth": "2024-03",
-      "lastMonth": "2025-08",
-      "months": [
-        {
-          "period": "2024-01",
-          "revenue": 0,
-          "profit": 0,
-          "marginPct": null
-        },
-        {
-          "period": "2024-02",
-          "revenue": 0,
-          "profit": 0,
-          "marginPct": null
-        },
-        {
-          "period": "2024-03",
-          "revenue": 1265.38,
-          "profit": 300.7,
-          "marginPct": 31.170958
-        },
-        {
-          "period": "2024-04",
-          "revenue": 365.26,
-          "profit": 65.28,
-          "marginPct": 21.761451
-        },
-        {
-          "period": "2024-05",
-          "revenue": 0,
-          "profit": 0,
-          "marginPct": null
-        },
-        {
-          "period": "2024-06",
-          "revenue": 0,
-          "profit": 0,
-          "marginPct": null
-        },
-        {
-          "period": "2024-07",
-          "revenue": 126.65,
-          "profit": 32.07,
-          "marginPct": 33.907803
-        },
-        {
-          "period": "2024-08",
-          "revenue": 0,
-          "profit": 0,
-          "marginPct": null
-        },
-        {
-          "period": "2024-09",
-          "revenue": 0,
-          "profit": 0,
-          "marginPct": null
-        },
-        {
-          "period": "2024-10",
-          "revenue": 330.23,
-          "profit": 79.68,
-          "marginPct": 31.802036
+          "revenue": 2798.79,
+          "profit": 676.89,
+          "marginPct": 31.900184
         },
         {
           "period": "2024-11",
@@ -35901,20 +36038,20 @@
         },
         {
           "period": "2025-08",
-          "revenue": 789.32,
-          "profit": 271.91,
-          "marginPct": 52.552135
+          "revenue": 0,
+          "profit": 0,
+          "marginPct": null
         }
       ],
-      "totalRevenue": 2876.8400000000006,
-      "totalProfit": 749.6400000000001,
-      "avgMarginPct": 36.03556514186746,
-      "revenueDeltaAbs": -476.06000000000006,
-      "revenueDeltaPct": -37.621900140669204,
-      "profitDeltaAbs": -28.789999999999964,
-      "profitDeltaPct": -9.574326571333547,
-      "revenueTrend": "DOWN",
-      "profitTrend": "DOWN"
+      "totalRevenue": 2928.5099999999998,
+      "totalProfit": 760.6899999999999,
+      "avgMarginPct": 38.57070181984695,
+      "revenueDeltaAbs": 2669.07,
+      "revenueDeltaPct": 2057.562442183164,
+      "profitDeltaAbs": 593.09,
+      "profitDeltaPct": 707.7446300715991,
+      "revenueTrend": "UP",
+      "profitTrend": "UP"
     },
     {
       "slug": "jaromir-kudrna",
@@ -36052,143 +36189,6 @@
       "profitDeltaPct": -42.95017793594306,
       "revenueTrend": "DOWN",
       "profitTrend": "DOWN"
-    },
-    {
-      "slug": "jakub-musil",
-      "name": "Jakub Musil",
-      "firstMonth": "2024-10",
-      "lastMonth": "2024-10",
-      "months": [
-        {
-          "period": "2024-01",
-          "revenue": 0,
-          "profit": 0,
-          "marginPct": null
-        },
-        {
-          "period": "2024-02",
-          "revenue": 0,
-          "profit": 0,
-          "marginPct": null
-        },
-        {
-          "period": "2024-03",
-          "revenue": 0,
-          "profit": 0,
-          "marginPct": null
-        },
-        {
-          "period": "2024-04",
-          "revenue": 0,
-          "profit": 0,
-          "marginPct": null
-        },
-        {
-          "period": "2024-05",
-          "revenue": 0,
-          "profit": 0,
-          "marginPct": null
-        },
-        {
-          "period": "2024-06",
-          "revenue": 0,
-          "profit": 0,
-          "marginPct": null
-        },
-        {
-          "period": "2024-07",
-          "revenue": 0,
-          "profit": 0,
-          "marginPct": null
-        },
-        {
-          "period": "2024-08",
-          "revenue": 0,
-          "profit": 0,
-          "marginPct": null
-        },
-        {
-          "period": "2024-09",
-          "revenue": 0,
-          "profit": 0,
-          "marginPct": null
-        },
-        {
-          "period": "2024-10",
-          "revenue": 2798.79,
-          "profit": 676.89,
-          "marginPct": 31.900184
-        },
-        {
-          "period": "2024-11",
-          "revenue": 0,
-          "profit": 0,
-          "marginPct": null
-        },
-        {
-          "period": "2024-12",
-          "revenue": 0,
-          "profit": 0,
-          "marginPct": null
-        },
-        {
-          "period": "2025-01",
-          "revenue": 0,
-          "profit": 0,
-          "marginPct": null
-        },
-        {
-          "period": "2025-02",
-          "revenue": 0,
-          "profit": 0,
-          "marginPct": null
-        },
-        {
-          "period": "2025-03",
-          "revenue": 0,
-          "profit": 0,
-          "marginPct": null
-        },
-        {
-          "period": "2025-04",
-          "revenue": 0,
-          "profit": 0,
-          "marginPct": null
-        },
-        {
-          "period": "2025-05",
-          "revenue": 0,
-          "profit": 0,
-          "marginPct": null
-        },
-        {
-          "period": "2025-06",
-          "revenue": 0,
-          "profit": 0,
-          "marginPct": null
-        },
-        {
-          "period": "2025-07",
-          "revenue": 0,
-          "profit": 0,
-          "marginPct": null
-        },
-        {
-          "period": "2025-08",
-          "revenue": 0,
-          "profit": 0,
-          "marginPct": null
-        }
-      ],
-      "totalRevenue": 2798.79,
-      "totalProfit": 676.89,
-      "avgMarginPct": 31.900184,
-      "revenueDeltaAbs": 0,
-      "revenueDeltaPct": null,
-      "profitDeltaAbs": 0,
-      "profitDeltaPct": null,
-      "revenueTrend": "FLAT",
-      "profitTrend": "FLAT"
     },
     {
       "slug": "pavel-biskupic",
@@ -37561,6 +37561,143 @@
       "profitTrend": "DOWN"
     },
     {
+      "slug": "ales-stransky",
+      "name": "Aleš Stránský",
+      "firstMonth": "2024-06",
+      "lastMonth": "2024-06",
+      "months": [
+        {
+          "period": "2024-01",
+          "revenue": 0,
+          "profit": 0,
+          "marginPct": null
+        },
+        {
+          "period": "2024-02",
+          "revenue": 0,
+          "profit": 0,
+          "marginPct": null
+        },
+        {
+          "period": "2024-03",
+          "revenue": 0,
+          "profit": 0,
+          "marginPct": null
+        },
+        {
+          "period": "2024-04",
+          "revenue": 0,
+          "profit": 0,
+          "marginPct": null
+        },
+        {
+          "period": "2024-05",
+          "revenue": 0,
+          "profit": 0,
+          "marginPct": null
+        },
+        {
+          "period": "2024-06",
+          "revenue": 1539,
+          "profit": 946.68,
+          "marginPct": 159.82577
+        },
+        {
+          "period": "2024-07",
+          "revenue": 0,
+          "profit": 0,
+          "marginPct": null
+        },
+        {
+          "period": "2024-08",
+          "revenue": 0,
+          "profit": 0,
+          "marginPct": null
+        },
+        {
+          "period": "2024-09",
+          "revenue": 0,
+          "profit": 0,
+          "marginPct": null
+        },
+        {
+          "period": "2024-10",
+          "revenue": 0,
+          "profit": 0,
+          "marginPct": null
+        },
+        {
+          "period": "2024-11",
+          "revenue": 0,
+          "profit": 0,
+          "marginPct": null
+        },
+        {
+          "period": "2024-12",
+          "revenue": 0,
+          "profit": 0,
+          "marginPct": null
+        },
+        {
+          "period": "2025-01",
+          "revenue": 0,
+          "profit": 0,
+          "marginPct": null
+        },
+        {
+          "period": "2025-02",
+          "revenue": 0,
+          "profit": 0,
+          "marginPct": null
+        },
+        {
+          "period": "2025-03",
+          "revenue": 0,
+          "profit": 0,
+          "marginPct": null
+        },
+        {
+          "period": "2025-04",
+          "revenue": 0,
+          "profit": 0,
+          "marginPct": null
+        },
+        {
+          "period": "2025-05",
+          "revenue": 0,
+          "profit": 0,
+          "marginPct": null
+        },
+        {
+          "period": "2025-06",
+          "revenue": 0,
+          "profit": 0,
+          "marginPct": null
+        },
+        {
+          "period": "2025-07",
+          "revenue": 0,
+          "profit": 0,
+          "marginPct": null
+        },
+        {
+          "period": "2025-08",
+          "revenue": 0,
+          "profit": 0,
+          "marginPct": null
+        }
+      ],
+      "totalRevenue": 1539,
+      "totalProfit": 946.68,
+      "avgMarginPct": 159.82577,
+      "revenueDeltaAbs": 0,
+      "revenueDeltaPct": null,
+      "profitDeltaAbs": 0,
+      "profitDeltaPct": null,
+      "revenueTrend": "FLAT",
+      "profitTrend": "FLAT"
+    },
+    {
       "slug": "m11",
       "name": "M11",
       "firstMonth": "2024-09",
@@ -38246,6 +38383,143 @@
       "profitTrend": "FLAT"
     },
     {
+      "slug": "milan-zilvar",
+      "name": "Milan Zilvar",
+      "firstMonth": "2025-07",
+      "lastMonth": "2025-08",
+      "months": [
+        {
+          "period": "2024-01",
+          "revenue": 0,
+          "profit": 0,
+          "marginPct": null
+        },
+        {
+          "period": "2024-02",
+          "revenue": 0,
+          "profit": 0,
+          "marginPct": null
+        },
+        {
+          "period": "2024-03",
+          "revenue": 0,
+          "profit": 0,
+          "marginPct": null
+        },
+        {
+          "period": "2024-04",
+          "revenue": 0,
+          "profit": 0,
+          "marginPct": null
+        },
+        {
+          "period": "2024-05",
+          "revenue": 0,
+          "profit": 0,
+          "marginPct": null
+        },
+        {
+          "period": "2024-06",
+          "revenue": 0,
+          "profit": 0,
+          "marginPct": null
+        },
+        {
+          "period": "2024-07",
+          "revenue": 0,
+          "profit": 0,
+          "marginPct": null
+        },
+        {
+          "period": "2024-08",
+          "revenue": 0,
+          "profit": 0,
+          "marginPct": null
+        },
+        {
+          "period": "2024-09",
+          "revenue": 0,
+          "profit": 0,
+          "marginPct": null
+        },
+        {
+          "period": "2024-10",
+          "revenue": 0,
+          "profit": 0,
+          "marginPct": null
+        },
+        {
+          "period": "2024-11",
+          "revenue": 0,
+          "profit": 0,
+          "marginPct": null
+        },
+        {
+          "period": "2024-12",
+          "revenue": 0,
+          "profit": 0,
+          "marginPct": null
+        },
+        {
+          "period": "2025-01",
+          "revenue": 0,
+          "profit": 0,
+          "marginPct": null
+        },
+        {
+          "period": "2025-02",
+          "revenue": 0,
+          "profit": 0,
+          "marginPct": null
+        },
+        {
+          "period": "2025-03",
+          "revenue": 0,
+          "profit": 0,
+          "marginPct": null
+        },
+        {
+          "period": "2025-04",
+          "revenue": 0,
+          "profit": 0,
+          "marginPct": null
+        },
+        {
+          "period": "2025-05",
+          "revenue": 0,
+          "profit": 0,
+          "marginPct": null
+        },
+        {
+          "period": "2025-06",
+          "revenue": 0,
+          "profit": 0,
+          "marginPct": null
+        },
+        {
+          "period": "2025-07",
+          "revenue": 803.37,
+          "profit": 440.464,
+          "marginPct": 121.371374
+        },
+        {
+          "period": "2025-08",
+          "revenue": 57.24,
+          "profit": -45.27,
+          "marginPct": -44.161545
+        }
+      ],
+      "totalRevenue": 860.61,
+      "totalProfit": 395.194,
+      "avgMarginPct": 110.36162012361,
+      "revenueDeltaAbs": -746.13,
+      "revenueDeltaPct": -92.87501400351022,
+      "profitDeltaAbs": -485.734,
+      "profitDeltaPct": -110.27779795851646,
+      "revenueTrend": "DOWN",
+      "profitTrend": "DOWN"
+    },
+    {
       "slug": "fabio-practical-sro",
       "name": "FABIO practical s.r.o.",
       "firstMonth": "2024-06",
@@ -38655,6 +38929,143 @@
       "profitDeltaPct": -42.017127049059724,
       "revenueTrend": "DOWN",
       "profitTrend": "DOWN"
+    },
+    {
+      "slug": "jan-schejbal",
+      "name": "Jan Schejbal",
+      "firstMonth": "2024-07",
+      "lastMonth": "2024-07",
+      "months": [
+        {
+          "period": "2024-01",
+          "revenue": 0,
+          "profit": 0,
+          "marginPct": null
+        },
+        {
+          "period": "2024-02",
+          "revenue": 0,
+          "profit": 0,
+          "marginPct": null
+        },
+        {
+          "period": "2024-03",
+          "revenue": 0,
+          "profit": 0,
+          "marginPct": null
+        },
+        {
+          "period": "2024-04",
+          "revenue": 0,
+          "profit": 0,
+          "marginPct": null
+        },
+        {
+          "period": "2024-05",
+          "revenue": 0,
+          "profit": 0,
+          "marginPct": null
+        },
+        {
+          "period": "2024-06",
+          "revenue": 0,
+          "profit": 0,
+          "marginPct": null
+        },
+        {
+          "period": "2024-07",
+          "revenue": 832.38,
+          "profit": 446.22,
+          "marginPct": 115.553139
+        },
+        {
+          "period": "2024-08",
+          "revenue": 0,
+          "profit": 0,
+          "marginPct": null
+        },
+        {
+          "period": "2024-09",
+          "revenue": 0,
+          "profit": 0,
+          "marginPct": null
+        },
+        {
+          "period": "2024-10",
+          "revenue": 0,
+          "profit": 0,
+          "marginPct": null
+        },
+        {
+          "period": "2024-11",
+          "revenue": 0,
+          "profit": 0,
+          "marginPct": null
+        },
+        {
+          "period": "2024-12",
+          "revenue": 0,
+          "profit": 0,
+          "marginPct": null
+        },
+        {
+          "period": "2025-01",
+          "revenue": 0,
+          "profit": 0,
+          "marginPct": null
+        },
+        {
+          "period": "2025-02",
+          "revenue": 0,
+          "profit": 0,
+          "marginPct": null
+        },
+        {
+          "period": "2025-03",
+          "revenue": 0,
+          "profit": 0,
+          "marginPct": null
+        },
+        {
+          "period": "2025-04",
+          "revenue": 0,
+          "profit": 0,
+          "marginPct": null
+        },
+        {
+          "period": "2025-05",
+          "revenue": 0,
+          "profit": 0,
+          "marginPct": null
+        },
+        {
+          "period": "2025-06",
+          "revenue": 0,
+          "profit": 0,
+          "marginPct": null
+        },
+        {
+          "period": "2025-07",
+          "revenue": 0,
+          "profit": 0,
+          "marginPct": null
+        },
+        {
+          "period": "2025-08",
+          "revenue": 0,
+          "profit": 0,
+          "marginPct": null
+        }
+      ],
+      "totalRevenue": 832.38,
+      "totalProfit": 446.22,
+      "avgMarginPct": 115.55313900000002,
+      "revenueDeltaAbs": 0,
+      "revenueDeltaPct": null,
+      "profitDeltaAbs": 0,
+      "profitDeltaPct": null,
+      "revenueTrend": "FLAT",
+      "profitTrend": "FLAT"
     },
     {
       "slug": "radek-spacil",
@@ -40712,5 +41123,5 @@
       "profitTrend": "FLAT"
     }
   ],
-  "generatedAt": "2025-09-15T07:14:01.122Z"
+  "generatedAt": "2025-09-15T10:14:06.076Z"
 }

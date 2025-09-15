@@ -1,5 +1,4 @@
 import { readFile, writeFile, mkdir } from 'fs/promises';
-import { join } from 'path';
 import { AggregatedData } from './types';
 import { PROCESSED_DATA_PATH } from './config';
 

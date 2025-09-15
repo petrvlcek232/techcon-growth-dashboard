@@ -80,9 +80,9 @@ export function MonthRangePicker({
     <div className={`flex items-center gap-2 ${className || ''}`}>
       <div className="flex items-center gap-2">
         <label className="text-sm font-medium text-gray-700">Od:</label>
-        <Select value={startMonth || 'all'} onValueChange={handleStartChange}>
+        <Select value={startMonth || 'all'} onValueChange={handleStartChange} defaultValue="all">
           <SelectTrigger className="w-32">
-            <SelectValue placeholder="Začátek" />
+            <SelectValue placeholder="Vše" />
           </SelectTrigger>
           <SelectContent>
             <SelectItem value="all">Vše</SelectItem>
@@ -97,9 +97,9 @@ export function MonthRangePicker({
 
       <div className="flex items-center gap-2">
         <label className="text-sm font-medium text-gray-700">Do:</label>
-        <Select value={endMonth || 'all'} onValueChange={handleEndChange}>
+        <Select value={endMonth || 'all'} onValueChange={handleEndChange} defaultValue="all">
           <SelectTrigger className="w-32">
-            <SelectValue placeholder="Konec" />
+            <SelectValue placeholder="Vše" />
           </SelectTrigger>
           <SelectContent>
             <SelectItem value="all">Vše</SelectItem>

@@ -1,4 +1,4 @@
-import { sortBy, groupBy, sum, mean } from 'lodash';
+import { sortBy, groupBy, sum } from 'lodash';
 import { RawMonthlyRow, CustomerSummary, CustomerMonthly, AggregatedData, MonthId } from './types';
 import { TREND_THRESHOLDS } from './config';
 import { slugify } from './format';
@@ -141,6 +141,22 @@ export function aggregateData(rawRows: RawMonthlyRow[]): AggregatedData {
     }));
     
     return calculateCustomerMetrics(customerName, months, allMonths);
+  });
+  
+  // Vytvoř unikátní slugy
+  const usedSlugs = new Set<string>();
+  customers.forEach(customer => {
+    const baseSlug = customer.slug;
+    let finalSlug = baseSlug;
+    let counter = 1;
+    
+    while (usedSlugs.has(finalSlug)) {
+      finalSlug = `${baseSlug}-${counter}`;
+      counter++;
+    }
+    
+    usedSlugs.add(finalSlug);
+    customer.slug = finalSlug;
   });
   
   // Seřaď zákazníky podle celkového revenue (sestupně)

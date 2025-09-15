@@ -28,7 +28,7 @@ export function Header({ onRefresh }: HeaderProps) {
         <div className="flex items-center justify-between">
           <div>
             <h1 className="text-2xl font-bold text-gray-900">
-              TechCon Growth Dashboard
+              ABC Díly - přehledy
             </h1>
             <p className="text-sm text-gray-600">
               Analýza růstu a poklesu zákazníků

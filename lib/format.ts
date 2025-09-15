@@ -19,6 +19,11 @@ export function parseNumberCz(value: string | number): number {
   const str = String(value).trim();
   if (str === '' || str === '-') return 0;
   
+  // Pokud je to už číslo, vrať ho
+  if (!isNaN(Number(str))) {
+    return Number(str);
+  }
+  
   // Odstraní oddělovače tisíců (mezery, tečky na začátku)
   let cleaned = str.replace(/\s/g, '').replace(/\.(?=\d{3})/g, '');
   

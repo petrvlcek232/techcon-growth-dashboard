@@ -1,11 +1,11 @@
 import type { Metadata } from 'next';
 import { Inter } from 'next/font/google';
-import './globals.css';
+import '../src/app/globals.css';
 
 const inter = Inter({ subsets: ['latin'] });
 
 export const metadata: Metadata = {
-  title: 'TechCon Growth Dashboard',
+  title: 'ABC Díly - přehledy',
   description: 'Analýza růstu a poklesu zákazníků',
 };
 

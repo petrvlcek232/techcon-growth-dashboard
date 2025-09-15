@@ -10,6 +10,7 @@ import { Card, CardContent, CardHeader, CardTitle } from '@/src/components/ui/ca
 import { Button } from '@/src/components/ui/button';
 import { AggregatedData, CustomerSummary, MonthId } from '@/lib/types';
 import { formatCurrencyCZK, formatPct } from '@/lib/format';
+import { loadStoredDateRange, saveDateRange } from '@/lib/localStorage';
 import { ArrowLeft, TrendingUp, TrendingDown, Calendar, DollarSign } from 'lucide-react';
 import { LineChart, Line, XAxis, YAxis, CartesianGrid, Tooltip, ResponsiveContainer, BarChart, Bar } from 'recharts';
 
@@ -24,6 +25,7 @@ export default function CustomerDetail() {
   const [error, setError] = useState<string | null>(null);
   const [startMonth, setStartMonth] = useState<MonthId | null>(null);
   const [endMonth, setEndMonth] = useState<MonthId | null>(null);
+  const [dateRangeLoaded, setDateRangeLoaded] = useState(false);
 
   // Načtení dat
   useEffect(() => {
@@ -43,6 +45,15 @@ export default function CustomerDetail() {
           throw new Error('Zákazník nenalezen');
         }
         setCustomer(foundCustomer);
+        
+        // Načtení uloženého období z localStorage
+        if (!dateRangeLoaded) {
+          const stored = loadStoredDateRange();
+          setStartMonth(stored.startMonth);
+          setEndMonth(stored.endMonth);
+          setDateRangeLoaded(true);
+        }
+        
         setError(null);
       } catch (err) {
         setError(err instanceof Error ? err.message : 'Neznámá chyba');
@@ -65,15 +76,74 @@ export default function CustomerDetail() {
     });
   }, [customer, startMonth, endMonth]);
 
+  // Výpočet metrik pro vybrané období
+  const periodMetrics = useMemo(() => {
+    if (!customer) return { 
+      totalRevenue: 0, 
+      totalProfit: 0, 
+      avgMarginPct: null, 
+      revenueDeltaPct: null, 
+      profitDeltaPct: null 
+    };
+    
+    // Součty pro vybrané období
+    const totalRevenue = filteredData.reduce((sum, m) => sum + m.revenue, 0);
+    const totalProfit = filteredData.reduce((sum, m) => sum + m.profit, 0);
+    
+    // Výpočet váženého průměru marže pro vybrané období
+    const monthsWithMargin = filteredData.filter(m => m.marginPct !== null && m.revenue > 0);
+    let avgMarginPct: number | null = null;
+    
+    if (monthsWithMargin.length > 0) {
+      const totalRevenueWithMargin = monthsWithMargin.reduce((sum, m) => sum + m.revenue, 0);
+      if (totalRevenueWithMargin > 0) {
+        const weightedSum = monthsWithMargin.reduce((sum, m) => sum + (m.marginPct! * m.revenue), 0);
+        avgMarginPct = weightedSum / totalRevenueWithMargin;
+      }
+    }
+    
+    // Výpočet procent pro vybrané období
+    const activeMonths = filteredData.filter(m => m.revenue > 0);
+    let revenueDeltaPct: number | null = null;
+    let profitDeltaPct: number | null = null;
+    
+    if (activeMonths.length >= 2) {
+      const firstMonth = activeMonths[0];
+      const lastMonth = activeMonths[activeMonths.length - 1];
+      
+      if (firstMonth.revenue > 0) {
+        revenueDeltaPct = (lastMonth.revenue / firstMonth.revenue - 1) * 100;
+      }
+      
+      if (firstMonth.profit > 0) {
+        profitDeltaPct = (lastMonth.profit / firstMonth.profit - 1) * 100;
+      }
+    }
+    
+    return { 
+      totalRevenue, 
+      totalProfit, 
+      avgMarginPct, 
+      revenueDeltaPct, 
+      profitDeltaPct 
+    };
+  }, [customer, filteredData]);
+
   // Příprava dat pro grafy
   const chartData = useMemo(() => {
-    return filteredData.map(month => ({
-      period: month.period,
-      month: new Date(month.period + '-01').toLocaleDateString('cs-CZ', { month: 'short' }),
-      revenue: month.revenue,
-      profit: month.profit,
-      marginPct: month.marginPct || 0,
-    }));
+    return filteredData.map(month => {
+      const [year, monthNum] = month.period.split('-');
+      const shortYear = year.slice(-2); // Vezme poslední 2 číslice roku
+      const shortMonth = `${parseInt(monthNum)}/${shortYear}`;
+      
+      return {
+        period: month.period,
+        month: shortMonth,
+        revenue: month.revenue,
+        profit: month.profit,
+        marginPct: month.marginPct || 0,
+      };
+    });
   }, [filteredData]);
 
   if (loading) {
@@ -139,10 +209,10 @@ export default function CustomerDetail() {
                 </CardTitle>
               </CardHeader>
               <CardContent>
-                <div className="text-2xl font-bold">{formatCurrencyCZK(customer.totalRevenue)}</div>
-                {customer.revenueDeltaPct !== null && (
-                  <p className="text-xs text-muted-foreground">
-                    {customer.revenueDeltaPct > 0 ? '+' : ''}{customer.revenueDeltaPct.toFixed(1)}% změna
+                <div className="text-2xl font-bold">{formatCurrencyCZK(periodMetrics.totalRevenue)}</div>
+                {periodMetrics.revenueDeltaPct !== null && (
+                  <p className={`text-xs ${periodMetrics.revenueDeltaPct >= 0 ? 'text-green-600' : 'text-red-600'}`}>
+                    {periodMetrics.revenueDeltaPct > 0 ? '+' : ''}{periodMetrics.revenueDeltaPct.toFixed(1)}% změna
                   </p>
                 )}
               </CardContent>
@@ -156,10 +226,10 @@ export default function CustomerDetail() {
                 </CardTitle>
               </CardHeader>
               <CardContent>
-                <div className="text-2xl font-bold">{formatCurrencyCZK(customer.totalProfit)}</div>
-                {customer.profitDeltaPct !== null && (
-                  <p className="text-xs text-muted-foreground">
-                    {customer.profitDeltaPct > 0 ? '+' : ''}{customer.profitDeltaPct.toFixed(1)}% změna
+                <div className="text-2xl font-bold">{formatCurrencyCZK(periodMetrics.totalProfit)}</div>
+                {periodMetrics.profitDeltaPct !== null && (
+                  <p className={`text-xs ${periodMetrics.profitDeltaPct >= 0 ? 'text-green-600' : 'text-red-600'}`}>
+                    {periodMetrics.profitDeltaPct > 0 ? '+' : ''}{periodMetrics.profitDeltaPct.toFixed(1)}% změna
                   </p>
                 )}
               </CardContent>
@@ -170,7 +240,7 @@ export default function CustomerDetail() {
                 <CardTitle className="text-sm font-medium">Průměrná marže</CardTitle>
               </CardHeader>
               <CardContent>
-                <div className="text-2xl font-bold">{formatPct(customer.avgMarginPct)}</div>
+                <div className="text-2xl font-bold">{formatPct(periodMetrics.avgMarginPct)}</div>
                 <p className="text-xs text-muted-foreground">vážený průměr</p>
               </CardContent>
             </Card>
@@ -209,6 +279,7 @@ export default function CustomerDetail() {
             onRangeChange={(start, end) => {
               setStartMonth(start);
               setEndMonth(end);
+              saveDateRange(start, end);
             }}
           />
         </div>
@@ -231,6 +302,7 @@ export default function CustomerDetail() {
                       formatCurrencyCZK(value), 
                       name === 'revenue' ? 'Tržby' : 'Zisk'
                     ]}
+                    labelFormatter={(label) => `Měsíc: ${label}`}
                   />
                   <Line 
                     type="monotone" 
@@ -264,6 +336,7 @@ export default function CustomerDetail() {
                   <YAxis />
                   <Tooltip 
                     formatter={(value: number) => [formatPct(value), 'Marže']}
+                    labelFormatter={(label) => `Měsíc: ${label}`}
                   />
                   <Bar dataKey="marginPct" fill="#f59e0b" />
                 </BarChart>
