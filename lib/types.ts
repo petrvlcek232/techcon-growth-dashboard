@@ -39,3 +39,43 @@ export type AggregatedData = {
   customers: CustomerSummary[];
   generatedAt: string;        // ISO
 };
+
+// Typy pro dodavatele
+export type RawSupplierRow = {
+  supplier: string;        // Dodavatel
+  turnover: number;        // Obrat
+  items: number;           // Počet položek
+  period: MonthId;         // YYYY-MM
+};
+
+export type SupplierMonthly = {
+  period: MonthId;
+  turnover: number;
+  items: number;
+};
+
+export type SupplierSummary = {
+  slug: string;
+  name: string;
+  abbreviation: string;
+  firstMonth: MonthId | null;
+  lastMonth: MonthId | null;
+  months: SupplierMonthly[];
+  totalTurnover: number;
+  totalItems: number;
+  avgItemsPerMonth: number;
+  // Trendy:
+  turnoverDeltaAbs: number;       // lastNonZero - firstNonZero
+  turnoverDeltaPct: number | null;// % změny mezi prvním a posledním (pokud >0)
+  itemsDeltaAbs: number;
+  itemsDeltaPct: number | null;
+  // Jednoduchý rating
+  turnoverTrend: "UP" | "DOWN" | "FLAT";
+  itemsTrend: "UP" | "DOWN" | "FLAT";
+};
+
+export type SupplierData = {
+  monthsAvailable: MonthId[]; // seřazené
+  suppliers: SupplierSummary[];
+  generatedAt: string;        // ISO
+};

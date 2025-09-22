@@ -82,6 +82,19 @@ export function slugify(name: string): string {
 export function parsePeriodFromFilename(filename: string): MonthId | null {
   const name = filename.toLowerCase().replace(/\.(xls|xlsx|csv)$/, '');
   
+  // Pattern pro formát MM_YYYY (01_2024)
+  const monthYearPattern = /^(\d{2})[\._-](\d{4})$/;
+  const monthYearMatch = name.match(monthYearPattern);
+  if (monthYearMatch) {
+    const month = monthYearMatch[1];
+    const year = monthYearMatch[2];
+    const monthNum = parseInt(month, 10);
+    if (monthNum >= 1 && monthNum <= 12) {
+      return `${year}-${month.padStart(2, '0')}` as MonthId;
+    }
+  }
+  
+  // Původní patterny pro zpětnou kompatibilitu
   for (const pattern of [/^dvur[\._-]?(\d{2})[\._-]?(\d{2})$/, /(\d{2})[\._-]?(\d{2})/, /(\d{4})[\._-]?(\d{2})/]) {
     const match = name.match(pattern);
     if (match) {

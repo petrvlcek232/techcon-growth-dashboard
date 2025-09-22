@@ -12,6 +12,7 @@ const STORAGE_KEYS = {
   MARGIN_CARD_MINIMIZED: 'abc-dily-margin-card-minimized',
   CUSTOMER_LIST_MINIMIZED: 'abc-dily-customer-list-minimized',
   MONTHLY_DETAIL_MINIMIZED: 'abc-dily-monthly-detail-minimized',
+  SUPPLIER_TABLE_MINIMIZED: 'abc-dily-supplier-table-minimized',
 } as const;
 
 // Načtení uloženého období z localStorage

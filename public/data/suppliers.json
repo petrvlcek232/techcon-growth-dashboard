@@ -1,0 +1,5134 @@
+{
+  "monthsAvailable": [
+    "2024-01",
+    "2024-02",
+    "2024-03",
+    "2024-04",
+    "2024-05",
+    "2024-06",
+    "2024-07",
+    "2024-08",
+    "2024-09",
+    "2024-10",
+    "2024-11",
+    "2024-12",
+    "2025-01",
+    "2025-02",
+    "2025-03",
+    "2025-04",
+    "2025-05",
+    "2025-06",
+    "2025-07",
+    "2025-08"
+  ],
+  "suppliers": [
+    {
+      "slug": "motorol-automotive-spka-z-ograniczon-odpowiedzialn",
+      "name": "MOTOROL AUTOMOTIVE SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
+      "abbreviation": "MA",
+      "firstMonth": "2024-01",
+      "lastMonth": "2025-08",
+      "months": [
+        {
+          "period": "2024-01",
+          "turnover": 1520298.89,
+          "items": 3409
+        },
+        {
+          "period": "2024-02",
+          "turnover": 1312801.66,
+          "items": 3094
+        },
+        {
+          "period": "2024-03",
+          "turnover": 1154228.28,
+          "items": 2669
+        },
+        {
+          "period": "2024-04",
+          "turnover": 1404693.55,
+          "items": 3075
+        },
+        {
+          "period": "2024-05",
+          "turnover": 1747455.12,
+          "items": 3502
+        },
+        {
+          "period": "2024-06",
+          "turnover": 1773207.18,
+          "items": 3285
+        },
+        {
+          "period": "2024-07",
+          "turnover": 1402416.48,
+          "items": 2766
+        },
+        {
+          "period": "2024-08",
+          "turnover": 1480426.84,
+          "items": 2846
+        },
+        {
+          "period": "2024-09",
+          "turnover": 1301910.15,
+          "items": 3193
+        },
+        {
+          "period": "2024-10",
+          "turnover": 1281881.72,
+          "items": 2861
+        },
+        {
+          "period": "2024-11",
+          "turnover": 1342392.61,
+          "items": 2995
+        },
+        {
+          "period": "2024-12",
+          "turnover": 1098687.21,
+          "items": 2061
+        },
+        {
+          "period": "2025-01",
+          "turnover": 1165925.79,
+          "items": 2659
+        },
+        {
+          "period": "2025-02",
+          "turnover": 1137241.4,
+          "items": 2812
+        },
+        {
+          "period": "2025-03",
+          "turnover": 1318988,
+          "items": 2906
+        },
+        {
+          "period": "2025-04",
+          "turnover": 1404602.1,
+          "items": 3012
+        },
+        {
+          "period": "2025-05",
+          "turnover": 1106251.16,
+          "items": 2468
+        },
+        {
+          "period": "2025-06",
+          "turnover": 904467.87,
+          "items": 2118
+        },
+        {
+          "period": "2025-07",
+          "turnover": 1019238.84,
+          "items": 2662
+        },
+        {
+          "period": "2025-08",
+          "turnover": 966940.92,
+          "items": 2151
+        }
+      ],
+      "totalTurnover": 25844055.770000003,
+      "totalItems": 56544,
+      "avgItemsPerMonth": 2827.2,
+      "turnoverDeltaAbs": -553357.9699999999,
+      "turnoverDeltaPct": -36.397972375024224,
+      "itemsDeltaAbs": -1258,
+      "itemsDeltaPct": -36.90231739513054,
+      "turnoverTrend": "DOWN",
+      "itemsTrend": "DOWN"
+    },
+    {
+      "slug": "motoprofil",
+      "name": "Motoprofil",
+      "abbreviation": "M",
+      "firstMonth": "2024-01",
+      "lastMonth": "2025-08",
+      "months": [
+        {
+          "period": "2024-01",
+          "turnover": 923005.17,
+          "items": 1814
+        },
+        {
+          "period": "2024-02",
+          "turnover": 774777.98,
+          "items": 1472
+        },
+        {
+          "period": "2024-03",
+          "turnover": 765872.2,
+          "items": 1688
+        },
+        {
+          "period": "2024-04",
+          "turnover": 913955.52,
+          "items": 1759
+        },
+        {
+          "period": "2024-05",
+          "turnover": 997149.66,
+          "items": 1846
+        },
+        {
+          "period": "2024-06",
+          "turnover": 983376.64,
+          "items": 1857
+        },
+        {
+          "period": "2024-07",
+          "turnover": 1041483.3,
+          "items": 1956
+        },
+        {
+          "period": "2024-08",
+          "turnover": 637791.9,
+          "items": 1080
+        },
+        {
+          "period": "2024-09",
+          "turnover": 962074.59,
+          "items": 1692
+        },
+        {
+          "period": "2024-10",
+          "turnover": 954066.78,
+          "items": 2000
+        },
+        {
+          "period": "2024-11",
+          "turnover": 832164.83,
+          "items": 1964
+        },
+        {
+          "period": "2024-12",
+          "turnover": 617809.3,
+          "items": 1257
+        },
+        {
+          "period": "2025-01",
+          "turnover": 697649.33,
+          "items": 1521
+        },
+        {
+          "period": "2025-02",
+          "turnover": 649843.02,
+          "items": 1503
+        },
+        {
+          "period": "2025-03",
+          "turnover": 748657.4,
+          "items": 1727
+        },
+        {
+          "period": "2025-04",
+          "turnover": 1198846.02,
+          "items": 2318
+        },
+        {
+          "period": "2025-05",
+          "turnover": 999452.07,
+          "items": 2256
+        },
+        {
+          "period": "2025-06",
+          "turnover": 1086051.9,
+          "items": 2131
+        },
+        {
+          "period": "2025-07",
+          "turnover": 1016573.24,
+          "items": 2056
+        },
+        {
+          "period": "2025-08",
+          "turnover": 1095990.49,
+          "items": 2127
+        }
+      ],
+      "totalTurnover": 17896591.339999996,
+      "totalItems": 36024,
+      "avgItemsPerMonth": 1801.2,
+      "turnoverDeltaAbs": 172985.31999999995,
+      "turnoverDeltaPct": 18.741533159559655,
+      "itemsDeltaAbs": 313,
+      "itemsDeltaPct": 17.25468577728776,
+      "turnoverTrend": "UP",
+      "itemsTrend": "UP"
+    },
+    {
+      "slug": "autopartner-gdask-spolka-z-organiczona-dpowiedzial",
+      "name": "AUTO-PARTNER Gdańsk Spolka z organiczona dpowiedzialnościa",
+      "abbreviation": "AG",
+      "firstMonth": "2024-01",
+      "lastMonth": "2025-08",
+      "months": [
+        {
+          "period": "2024-01",
+          "turnover": 735835.96,
+          "items": 1925
+        },
+        {
+          "period": "2024-02",
+          "turnover": 973278.89,
+          "items": 2341
+        },
+        {
+          "period": "2024-03",
+          "turnover": 832753.64,
+          "items": 2626
+        },
+        {
+          "period": "2024-04",
+          "turnover": 915940.94,
+          "items": 2434
+        },
+        {
+          "period": "2024-05",
+          "turnover": 674329.53,
+          "items": 2046
+        },
+        {
+          "period": "2024-06",
+          "turnover": 580602.27,
+          "items": 1428
+        },
+        {
+          "period": "2024-07",
+          "turnover": 811060.01,
+          "items": 1906
+        },
+        {
+          "period": "2024-08",
+          "turnover": 1063413.46,
+          "items": 2272
+        },
+        {
+          "period": "2024-09",
+          "turnover": 878623.27,
+          "items": 2293
+        },
+        {
+          "period": "2024-10",
+          "turnover": 938521.52,
+          "items": 2484
+        },
+        {
+          "period": "2024-11",
+          "turnover": 934196.45,
+          "items": 2237
+        },
+        {
+          "period": "2024-12",
+          "turnover": 541599.46,
+          "items": 1419
+        },
+        {
+          "period": "2025-01",
+          "turnover": 579355.26,
+          "items": 1719
+        },
+        {
+          "period": "2025-02",
+          "turnover": 678549.79,
+          "items": 1887
+        },
+        {
+          "period": "2025-03",
+          "turnover": 718410.49,
+          "items": 1993
+        },
+        {
+          "period": "2025-04",
+          "turnover": 688524.94,
+          "items": 2024
+        },
+        {
+          "period": "2025-05",
+          "turnover": 701555.94,
+          "items": 1878
+        },
+        {
+          "period": "2025-06",
+          "turnover": 412486.09,
+          "items": 1393
+        },
+        {
+          "period": "2025-07",
+          "turnover": 436357.05,
+          "items": 1347
+        },
+        {
+          "period": "2025-08",
+          "turnover": 288700.56,
+          "items": 978
+        }
+      ],
+      "totalTurnover": 14384095.52,
+      "totalItems": 38630,
+      "avgItemsPerMonth": 1931.5,
+      "turnoverDeltaAbs": -447135.39999999997,
+      "turnoverDeltaPct": -60.765635862645254,
+      "itemsDeltaAbs": -947,
+      "itemsDeltaPct": -49.1948051948052,
+      "turnoverTrend": "DOWN",
+      "itemsTrend": "DOWN"
+    },
+    {
+      "slug": "inter-team-spka-z-ograniczon-odpowiedzialnoci",
+      "name": "'INTER - TEAM' SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
+      "abbreviation": "'-",
+      "firstMonth": "2024-01",
+      "lastMonth": "2025-08",
+      "months": [
+        {
+          "period": "2024-01",
+          "turnover": 589560.91,
+          "items": 1454
+        },
+        {
+          "period": "2024-02",
+          "turnover": 434420.97,
+          "items": 1275
+        },
+        {
+          "period": "2024-03",
+          "turnover": 494125.16,
+          "items": 1366
+        },
+        {
+          "period": "2024-04",
+          "turnover": 641738.71,
+          "items": 1529
+        },
+        {
+          "period": "2024-05",
+          "turnover": 798058.69,
+          "items": 1957
+        },
+        {
+          "period": "2024-06",
+          "turnover": 820885.76,
+          "items": 1954
+        },
+        {
+          "period": "2024-07",
+          "turnover": 989696.95,
+          "items": 2388
+        },
+        {
+          "period": "2024-08",
+          "turnover": 856083.87,
+          "items": 1986
+        },
+        {
+          "period": "2024-09",
+          "turnover": 362291.31,
+          "items": 927
+        },
+        {
+          "period": "2024-10",
+          "turnover": 384888.77,
+          "items": 963
+        },
+        {
+          "period": "2024-11",
+          "turnover": 406191.45,
+          "items": 1106
+        },
+        {
+          "period": "2024-12",
+          "turnover": 411564.28,
+          "items": 785
+        },
+        {
+          "period": "2025-01",
+          "turnover": 715571.13,
+          "items": 1245
+        },
+        {
+          "period": "2025-02",
+          "turnover": 691206.36,
+          "items": 1347
+        },
+        {
+          "period": "2025-03",
+          "turnover": 694860.25,
+          "items": 1398
+        },
+        {
+          "period": "2025-04",
+          "turnover": 259683.78,
+          "items": 707
+        },
+        {
+          "period": "2025-05",
+          "turnover": 453852.45,
+          "items": 783
+        },
+        {
+          "period": "2025-06",
+          "turnover": 413589.31,
+          "items": 905
+        },
+        {
+          "period": "2025-07",
+          "turnover": 594155.03,
+          "items": 1123
+        },
+        {
+          "period": "2025-08",
+          "turnover": 438924.38,
+          "items": 935
+        }
+      ],
+      "totalTurnover": 11451349.52,
+      "totalItems": 26133,
+      "avgItemsPerMonth": 1306.65,
+      "turnoverDeltaAbs": -150636.53000000003,
+      "turnoverDeltaPct": -25.5506305531688,
+      "itemsDeltaAbs": -519,
+      "itemsDeltaPct": -35.694635488308116,
+      "turnoverTrend": "DOWN",
+      "itemsTrend": "DOWN"
+    },
+    {
+      "slug": "j-m-autodly-sro",
+      "name": "J + M autodíly, s.r.o.",
+      "abbreviation": "J+",
+      "firstMonth": "2024-01",
+      "lastMonth": "2025-08",
+      "months": [
+        {
+          "period": "2024-01",
+          "turnover": 590367.25,
+          "items": 1625
+        },
+        {
+          "period": "2024-02",
+          "turnover": 630736.5,
+          "items": 1499
+        },
+        {
+          "period": "2024-03",
+          "turnover": 651912.46,
+          "items": 1586
+        },
+        {
+          "period": "2024-04",
+          "turnover": 506311.22,
+          "items": 1553
+        },
+        {
+          "period": "2024-05",
+          "turnover": 668560.88,
+          "items": 1976
+        },
+        {
+          "period": "2024-06",
+          "turnover": 714002.99,
+          "items": 1916
+        },
+        {
+          "period": "2024-07",
+          "turnover": 607997.24,
+          "items": 1854
+        },
+        {
+          "period": "2024-08",
+          "turnover": 550198.6,
+          "items": 1762
+        },
+        {
+          "period": "2024-09",
+          "turnover": 492887.18,
+          "items": 1693
+        },
+        {
+          "period": "2024-10",
+          "turnover": 465883.33,
+          "items": 1738
+        },
+        {
+          "period": "2024-11",
+          "turnover": 474084.76,
+          "items": 1656
+        },
+        {
+          "period": "2024-12",
+          "turnover": 418438.58,
+          "items": 1287
+        },
+        {
+          "period": "2025-01",
+          "turnover": 640050.05,
+          "items": 1866
+        },
+        {
+          "period": "2025-02",
+          "turnover": 371841.57,
+          "items": 1294
+        },
+        {
+          "period": "2025-03",
+          "turnover": 515671.78,
+          "items": 1804
+        },
+        {
+          "period": "2025-04",
+          "turnover": 575554.11,
+          "items": 1772
+        },
+        {
+          "period": "2025-05",
+          "turnover": 545136.87,
+          "items": 1632
+        },
+        {
+          "period": "2025-06",
+          "turnover": 515067.5,
+          "items": 1518
+        },
+        {
+          "period": "2025-07",
+          "turnover": 628812.74,
+          "items": 1727
+        },
+        {
+          "period": "2025-08",
+          "turnover": 642447.07,
+          "items": 2224
+        }
+      ],
+      "totalTurnover": 11205962.68,
+      "totalItems": 33982,
+      "avgItemsPerMonth": 1699.1,
+      "turnoverDeltaAbs": 52079.81999999995,
+      "turnoverDeltaPct": 8.8215970652166,
+      "itemsDeltaAbs": 599,
+      "itemsDeltaPct": 36.861538461538466,
+      "turnoverTrend": "UP",
+      "itemsTrend": "UP"
+    },
+    {
+      "slug": "autopartner",
+      "name": "Autopartner",
+      "abbreviation": "A",
+      "firstMonth": "2024-01",
+      "lastMonth": "2025-08",
+      "months": [
+        {
+          "period": "2024-01",
+          "turnover": 199282.13,
+          "items": 750
+        },
+        {
+          "period": "2024-02",
+          "turnover": 245366.03,
+          "items": 621
+        },
+        {
+          "period": "2024-03",
+          "turnover": 588539.68,
+          "items": 1099
+        },
+        {
+          "period": "2024-04",
+          "turnover": 812270.54,
+          "items": 1728
+        },
+        {
+          "period": "2024-05",
+          "turnover": 731012.49,
+          "items": 1187
+        },
+        {
+          "period": "2024-06",
+          "turnover": 776793.65,
+          "items": 1339
+        },
+        {
+          "period": "2024-07",
+          "turnover": 793732.95,
+          "items": 1384
+        },
+        {
+          "period": "2024-08",
+          "turnover": 855212.74,
+          "items": 1285
+        },
+        {
+          "period": "2024-09",
+          "turnover": 392331.44,
+          "items": 1027
+        },
+        {
+          "period": "2024-10",
+          "turnover": 394562.72,
+          "items": 847
+        },
+        {
+          "period": "2024-11",
+          "turnover": 346968.12,
+          "items": 871
+        },
+        {
+          "period": "2024-12",
+          "turnover": 291766.82,
+          "items": 610
+        },
+        {
+          "period": "2025-01",
+          "turnover": 360754.09,
+          "items": 769
+        },
+        {
+          "period": "2025-02",
+          "turnover": 323692.2,
+          "items": 752
+        },
+        {
+          "period": "2025-03",
+          "turnover": 392381.5,
+          "items": 902
+        },
+        {
+          "period": "2025-04",
+          "turnover": 523372.46,
+          "items": 1074
+        },
+        {
+          "period": "2025-05",
+          "turnover": 620499.29,
+          "items": 1313
+        },
+        {
+          "period": "2025-06",
+          "turnover": 578848.16,
+          "items": 1336
+        },
+        {
+          "period": "2025-07",
+          "turnover": 525411.21,
+          "items": 1189
+        },
+        {
+          "period": "2025-08",
+          "turnover": 435410.74,
+          "items": 1043
+        }
+      ],
+      "totalTurnover": 10188208.960000003,
+      "totalItems": 21126,
+      "avgItemsPerMonth": 1056.3,
+      "turnoverDeltaAbs": 236128.61,
+      "turnoverDeltaPct": 118.4896056660976,
+      "itemsDeltaAbs": 293,
+      "itemsDeltaPct": 39.06666666666666,
+      "turnoverTrend": "UP",
+      "itemsTrend": "UP"
+    },
+    {
+      "slug": "lkq-cz-sro",
+      "name": "LKQ CZ s.r.o.",
+      "abbreviation": "LC",
+      "firstMonth": "2024-01",
+      "lastMonth": "2025-08",
+      "months": [
+        {
+          "period": "2024-01",
+          "turnover": 11139.92,
+          "items": 8
+        },
+        {
+          "period": "2024-02",
+          "turnover": 3687,
+          "items": 16
+        },
+        {
+          "period": "2024-03",
+          "turnover": 3952.31,
+          "items": 4
+        },
+        {
+          "period": "2024-04",
+          "turnover": 4202.48,
+          "items": 3
+        },
+        {
+          "period": "2024-05",
+          "turnover": 568.45,
+          "items": 2
+        },
+        {
+          "period": "2024-06",
+          "turnover": 1307.97,
+          "items": 5
+        },
+        {
+          "period": "2024-07",
+          "turnover": 9101.41,
+          "items": 13
+        },
+        {
+          "period": "2024-08",
+          "turnover": 4744.26,
+          "items": 4
+        },
+        {
+          "period": "2024-09",
+          "turnover": 3441.88,
+          "items": 14
+        },
+        {
+          "period": "2024-10",
+          "turnover": 160672.95,
+          "items": 228
+        },
+        {
+          "period": "2024-11",
+          "turnover": 308949.65,
+          "items": 386
+        },
+        {
+          "period": "2024-12",
+          "turnover": 191362.73,
+          "items": 359
+        },
+        {
+          "period": "2025-01",
+          "turnover": 349416.65,
+          "items": 572
+        },
+        {
+          "period": "2025-02",
+          "turnover": 610278.42,
+          "items": 906
+        },
+        {
+          "period": "2025-03",
+          "turnover": 568404.36,
+          "items": 828
+        },
+        {
+          "period": "2025-04",
+          "turnover": 556377.03,
+          "items": 919
+        },
+        {
+          "period": "2025-05",
+          "turnover": 543436.41,
+          "items": 990
+        },
+        {
+          "period": "2025-06",
+          "turnover": 431236.48,
+          "items": 807
+        },
+        {
+          "period": "2025-07",
+          "turnover": 369937.62,
+          "items": 670
+        },
+        {
+          "period": "2025-08",
+          "turnover": 281031.48,
+          "items": 668
+        }
+      ],
+      "totalTurnover": 4413249.46,
+      "totalItems": 7402,
+      "avgItemsPerMonth": 370.1,
+      "turnoverDeltaAbs": 269891.56,
+      "turnoverDeltaPct": 2422.7423536255196,
+      "itemsDeltaAbs": 660,
+      "itemsDeltaPct": 8250,
+      "turnoverTrend": "UP",
+      "itemsTrend": "UP"
+    },
+    {
+      "slug": "karfy-automotive-sro",
+      "name": "KARFY Automotive s.r.o.",
+      "abbreviation": "KA",
+      "firstMonth": "2024-02",
+      "lastMonth": "2025-08",
+      "months": [
+        {
+          "period": "2024-02",
+          "turnover": 64843.59,
+          "items": 19
+        },
+        {
+          "period": "2024-03",
+          "turnover": 131615.75,
+          "items": 31
+        },
+        {
+          "period": "2024-04",
+          "turnover": 456210.98,
+          "items": 106
+        },
+        {
+          "period": "2024-05",
+          "turnover": 102419.53,
+          "items": 50
+        },
+        {
+          "period": "2024-06",
+          "turnover": 118749.25,
+          "items": 47
+        },
+        {
+          "period": "2024-07",
+          "turnover": 137027.02,
+          "items": 50
+        },
+        {
+          "period": "2024-08",
+          "turnover": 128038.36,
+          "items": 51
+        },
+        {
+          "period": "2024-09",
+          "turnover": 125940.47,
+          "items": 42
+        },
+        {
+          "period": "2024-10",
+          "turnover": 317800.86,
+          "items": 64
+        },
+        {
+          "period": "2024-11",
+          "turnover": 102116.1,
+          "items": 40
+        },
+        {
+          "period": "2024-12",
+          "turnover": 40848.28,
+          "items": 21
+        },
+        {
+          "period": "2025-01",
+          "turnover": 41937.5,
+          "items": 28
+        },
+        {
+          "period": "2025-02",
+          "turnover": 76622.71,
+          "items": 66
+        },
+        {
+          "period": "2025-03",
+          "turnover": 61186.78,
+          "items": 39
+        },
+        {
+          "period": "2025-04",
+          "turnover": 78792.94,
+          "items": 35
+        },
+        {
+          "period": "2025-05",
+          "turnover": 63103.56,
+          "items": 35
+        },
+        {
+          "period": "2025-06",
+          "turnover": 98618.63,
+          "items": 53
+        },
+        {
+          "period": "2025-07",
+          "turnover": 61753.8,
+          "items": 45
+        },
+        {
+          "period": "2025-08",
+          "turnover": 50275.12,
+          "items": 31
+        }
+      ],
+      "totalTurnover": 2257901.23,
+      "totalItems": 853,
+      "avgItemsPerMonth": 44.89473684210526,
+      "turnoverDeltaAbs": -14568.469999999994,
+      "turnoverDeltaPct": -22.46709350916566,
+      "itemsDeltaAbs": 12,
+      "itemsDeltaPct": 63.1578947368421,
+      "turnoverTrend": "DOWN",
+      "itemsTrend": "UP"
+    },
+    {
+      "slug": "autoparts-sro",
+      "name": "AUTOPARTS s.r.o.",
+      "abbreviation": "AS",
+      "firstMonth": "2024-01",
+      "lastMonth": "2025-08",
+      "months": [
+        {
+          "period": "2024-01",
+          "turnover": 119391.64,
+          "items": 287
+        },
+        {
+          "period": "2024-02",
+          "turnover": 100407.1,
+          "items": 267
+        },
+        {
+          "period": "2024-03",
+          "turnover": 90871.8,
+          "items": 258
+        },
+        {
+          "period": "2024-04",
+          "turnover": 95182.8,
+          "items": 297
+        },
+        {
+          "period": "2024-05",
+          "turnover": 105018.3,
+          "items": 273
+        },
+        {
+          "period": "2024-06",
+          "turnover": 90093.5,
+          "items": 258
+        },
+        {
+          "period": "2024-07",
+          "turnover": 102487.4,
+          "items": 258
+        },
+        {
+          "period": "2024-08",
+          "turnover": 108956.6,
+          "items": 320
+        },
+        {
+          "period": "2024-09",
+          "turnover": 76797.83,
+          "items": 262
+        },
+        {
+          "period": "2024-10",
+          "turnover": 114725.23,
+          "items": 303
+        },
+        {
+          "period": "2024-11",
+          "turnover": 118432.47,
+          "items": 326
+        },
+        {
+          "period": "2024-12",
+          "turnover": 74272.28,
+          "items": 223
+        },
+        {
+          "period": "2025-01",
+          "turnover": 123242.3,
+          "items": 299
+        },
+        {
+          "period": "2025-02",
+          "turnover": 146797.9,
+          "items": 329
+        },
+        {
+          "period": "2025-03",
+          "turnover": 67621.95,
+          "items": 289
+        },
+        {
+          "period": "2025-04",
+          "turnover": 123384.33,
+          "items": 280
+        },
+        {
+          "period": "2025-05",
+          "turnover": 147717.32,
+          "items": 311
+        },
+        {
+          "period": "2025-06",
+          "turnover": 184478.61,
+          "items": 284
+        },
+        {
+          "period": "2025-07",
+          "turnover": 135238.2,
+          "items": 281
+        },
+        {
+          "period": "2025-08",
+          "turnover": 119327.48,
+          "items": 250
+        }
+      ],
+      "totalTurnover": 2244445.04,
+      "totalItems": 5655,
+      "avgItemsPerMonth": 282.75,
+      "turnoverDeltaAbs": -64.16000000000349,
+      "turnoverDeltaPct": -0.053739106021161526,
+      "itemsDeltaAbs": -37,
+      "itemsDeltaPct": -12.89198606271777,
+      "turnoverTrend": "FLAT",
+      "itemsTrend": "DOWN"
+    },
+    {
+      "slug": "hurtownia-motoryzacyjna-gordon-sp-z-oo",
+      "name": "Hurtownia Motoryzacyjna \"Gordon\" sp. z o.o.",
+      "abbreviation": "HM",
+      "firstMonth": "2024-01",
+      "lastMonth": "2025-02",
+      "months": [
+        {
+          "period": "2024-01",
+          "turnover": 390697.65,
+          "items": 1178
+        },
+        {
+          "period": "2024-02",
+          "turnover": 405998.44,
+          "items": 1192
+        },
+        {
+          "period": "2024-03",
+          "turnover": 230625.89,
+          "items": 964
+        },
+        {
+          "period": "2024-04",
+          "turnover": 310139.38,
+          "items": 996
+        },
+        {
+          "period": "2024-05",
+          "turnover": 253788.44,
+          "items": 792
+        },
+        {
+          "period": "2024-06",
+          "turnover": 154755.14,
+          "items": 592
+        },
+        {
+          "period": "2024-07",
+          "turnover": 4141.16,
+          "items": 42
+        },
+        {
+          "period": "2024-10",
+          "turnover": 150.52,
+          "items": 2
+        },
+        {
+          "period": "2025-02",
+          "turnover": 1584.23,
+          "items": 4
+        }
+      ],
+      "totalTurnover": 1751880.8499999999,
+      "totalItems": 5762,
+      "avgItemsPerMonth": 640.2222222222222,
+      "turnoverDeltaAbs": -389113.42000000004,
+      "turnoverDeltaPct": -99.59451253418085,
+      "itemsDeltaAbs": -1174,
+      "itemsDeltaPct": -99.66044142614601,
+      "turnoverTrend": "DOWN",
+      "itemsTrend": "DOWN"
+    },
+    {
+      "slug": "interteam-sp-z-oo-organizan-sloka",
+      "name": "INTER-TEAM Sp. z o.o., organizační složka",
+      "abbreviation": "IS",
+      "firstMonth": "2024-01",
+      "lastMonth": "2024-12",
+      "months": [
+        {
+          "period": "2024-01",
+          "turnover": 126613.87,
+          "items": 183
+        },
+        {
+          "period": "2024-02",
+          "turnover": 98453.09,
+          "items": 189
+        },
+        {
+          "period": "2024-03",
+          "turnover": 54672.14,
+          "items": 151
+        },
+        {
+          "period": "2024-04",
+          "turnover": 103114.04,
+          "items": 172
+        },
+        {
+          "period": "2024-05",
+          "turnover": 224628.15,
+          "items": 265
+        },
+        {
+          "period": "2024-06",
+          "turnover": 225419.95,
+          "items": 463
+        },
+        {
+          "period": "2024-07",
+          "turnover": 185982.11,
+          "items": 232
+        },
+        {
+          "period": "2024-08",
+          "turnover": 94368.7,
+          "items": 172
+        },
+        {
+          "period": "2024-09",
+          "turnover": 139437.91,
+          "items": 192
+        },
+        {
+          "period": "2024-10",
+          "turnover": 164632.31,
+          "items": 270
+        },
+        {
+          "period": "2024-11",
+          "turnover": 123861.43,
+          "items": 182
+        },
+        {
+          "period": "2024-12",
+          "turnover": 150825.59,
+          "items": 242
+        }
+      ],
+      "totalTurnover": 1692009.29,
+      "totalItems": 2713,
+      "avgItemsPerMonth": 226.08333333333334,
+      "turnoverDeltaAbs": 24211.72,
+      "turnoverDeltaPct": 19.122486343715742,
+      "itemsDeltaAbs": 59,
+      "itemsDeltaPct": 32.240437158469945,
+      "turnoverTrend": "UP",
+      "itemsTrend": "UP"
+    },
+    {
+      "slug": "stahlgruber-cz-sro",
+      "name": "STAHLGRUBER CZ s.r.o.",
+      "abbreviation": "SC",
+      "firstMonth": "2024-01",
+      "lastMonth": "2025-08",
+      "months": [
+        {
+          "period": "2024-01",
+          "turnover": 105980.28,
+          "items": 212
+        },
+        {
+          "period": "2024-02",
+          "turnover": 78065.3,
+          "items": 181
+        },
+        {
+          "period": "2024-03",
+          "turnover": 47659.98,
+          "items": 116
+        },
+        {
+          "period": "2024-04",
+          "turnover": 105186.56,
+          "items": 158
+        },
+        {
+          "period": "2024-05",
+          "turnover": 40727.63,
+          "items": 127
+        },
+        {
+          "period": "2024-06",
+          "turnover": 37693.07,
+          "items": 110
+        },
+        {
+          "period": "2024-07",
+          "turnover": 53726.32,
+          "items": 99
+        },
+        {
+          "period": "2024-08",
+          "turnover": 56914.85,
+          "items": 110
+        },
+        {
+          "period": "2024-09",
+          "turnover": 60067.81,
+          "items": 102
+        },
+        {
+          "period": "2024-10",
+          "turnover": 96911.43,
+          "items": 192
+        },
+        {
+          "period": "2024-11",
+          "turnover": 103518.9,
+          "items": 240
+        },
+        {
+          "period": "2024-12",
+          "turnover": 100116.13,
+          "items": 139
+        },
+        {
+          "period": "2025-01",
+          "turnover": 71472.6,
+          "items": 143
+        },
+        {
+          "period": "2025-02",
+          "turnover": 71786.26,
+          "items": 126
+        },
+        {
+          "period": "2025-03",
+          "turnover": 55328.7,
+          "items": 128
+        },
+        {
+          "period": "2025-04",
+          "turnover": 90585.72,
+          "items": 196
+        },
+        {
+          "period": "2025-05",
+          "turnover": 90332.85,
+          "items": 205
+        },
+        {
+          "period": "2025-06",
+          "turnover": 72646.14,
+          "items": 193
+        },
+        {
+          "period": "2025-07",
+          "turnover": 123653.84,
+          "items": 232
+        },
+        {
+          "period": "2025-08",
+          "turnover": 75599.83,
+          "items": 173
+        }
+      ],
+      "totalTurnover": 1537974.2000000002,
+      "totalItems": 3182,
+      "avgItemsPerMonth": 159.1,
+      "turnoverDeltaAbs": -30380.449999999997,
+      "turnoverDeltaPct": -28.666134869619135,
+      "itemsDeltaAbs": -39,
+      "itemsDeltaPct": -18.39622641509434,
+      "turnoverTrend": "DOWN",
+      "itemsTrend": "DOWN"
+    },
+    {
+      "slug": "lubtrans-sro",
+      "name": "LUBTRANS s.r.o.",
+      "abbreviation": "LS",
+      "firstMonth": "2024-01",
+      "lastMonth": "2025-08",
+      "months": [
+        {
+          "period": "2024-01",
+          "turnover": 153836.83,
+          "items": 41
+        },
+        {
+          "period": "2024-02",
+          "turnover": 36712,
+          "items": 4
+        },
+        {
+          "period": "2024-03",
+          "turnover": 31434.37,
+          "items": 8
+        },
+        {
+          "period": "2024-04",
+          "turnover": 45895.72,
+          "items": 16
+        },
+        {
+          "period": "2024-05",
+          "turnover": 88456.16,
+          "items": 17
+        },
+        {
+          "period": "2024-06",
+          "turnover": 35036.01,
+          "items": 6
+        },
+        {
+          "period": "2024-07",
+          "turnover": 33016.67,
+          "items": 12
+        },
+        {
+          "period": "2024-08",
+          "turnover": 22219.6,
+          "items": 5
+        },
+        {
+          "period": "2024-09",
+          "turnover": 34364.39,
+          "items": 13
+        },
+        {
+          "period": "2024-10",
+          "turnover": 49222.25,
+          "items": 14
+        },
+        {
+          "period": "2024-11",
+          "turnover": 48099.84,
+          "items": 16
+        },
+        {
+          "period": "2024-12",
+          "turnover": 14141.09,
+          "items": 4
+        },
+        {
+          "period": "2025-01",
+          "turnover": 161002.9,
+          "items": 32
+        },
+        {
+          "period": "2025-02",
+          "turnover": 135025.95,
+          "items": 38
+        },
+        {
+          "period": "2025-03",
+          "turnover": 109643.05,
+          "items": 28
+        },
+        {
+          "period": "2025-04",
+          "turnover": 63300.43,
+          "items": 20
+        },
+        {
+          "period": "2025-05",
+          "turnover": 69209.62,
+          "items": 16
+        },
+        {
+          "period": "2025-06",
+          "turnover": 97352.79,
+          "items": 27
+        },
+        {
+          "period": "2025-07",
+          "turnover": 78986.01,
+          "items": 18
+        },
+        {
+          "period": "2025-08",
+          "turnover": 70660.73,
+          "items": 18
+        }
+      ],
+      "totalTurnover": 1377616.41,
+      "totalItems": 353,
+      "avgItemsPerMonth": 17.65,
+      "turnoverDeltaAbs": -83176.09999999999,
+      "turnoverDeltaPct": -54.067741775490305,
+      "itemsDeltaAbs": -23,
+      "itemsDeltaPct": -56.09756097560976,
+      "turnoverTrend": "DOWN",
+      "itemsTrend": "DOWN"
+    },
+    {
+      "slug": "ap-auto-partner-cz-sro",
+      "name": "AP Auto Partner CZ s.r.o.",
+      "abbreviation": "AA",
+      "firstMonth": "2024-06",
+      "lastMonth": "2025-08",
+      "months": [
+        {
+          "period": "2024-06",
+          "turnover": 465.7,
+          "items": 3
+        },
+        {
+          "period": "2024-07",
+          "turnover": 82120.79,
+          "items": 158
+        },
+        {
+          "period": "2024-08",
+          "turnover": 121150.54,
+          "items": 392
+        },
+        {
+          "period": "2024-09",
+          "turnover": 115648.66,
+          "items": 472
+        },
+        {
+          "period": "2024-10",
+          "turnover": 149880.36,
+          "items": 480
+        },
+        {
+          "period": "2024-11",
+          "turnover": 163095.38,
+          "items": 447
+        },
+        {
+          "period": "2024-12",
+          "turnover": 18128.12,
+          "items": 235
+        },
+        {
+          "period": "2025-01",
+          "turnover": 109664.42,
+          "items": 255
+        },
+        {
+          "period": "2025-02",
+          "turnover": 147336.86,
+          "items": 322
+        },
+        {
+          "period": "2025-03",
+          "turnover": 130993.98,
+          "items": 363
+        },
+        {
+          "period": "2025-04",
+          "turnover": 143552.56,
+          "items": 440
+        },
+        {
+          "period": "2025-05",
+          "turnover": 121448.33,
+          "items": 489
+        },
+        {
+          "period": "2025-08",
+          "turnover": 558.81,
+          "items": 2
+        }
+      ],
+      "totalTurnover": 1304044.51,
+      "totalItems": 4058,
+      "avgItemsPerMonth": 312.15384615384613,
+      "turnoverDeltaAbs": 93.10999999999996,
+      "turnoverDeltaPct": 19.993558084603812,
+      "itemsDeltaAbs": -1,
+      "itemsDeltaPct": -33.33333333333333,
+      "turnoverTrend": "UP",
+      "itemsTrend": "DOWN"
+    },
+    {
+      "slug": "batcar-ks",
+      "name": "BATCAR k.s.",
+      "abbreviation": "BK",
+      "firstMonth": "2024-01",
+      "lastMonth": "2025-08",
+      "months": [
+        {
+          "period": "2024-01",
+          "turnover": 148238.71,
+          "items": 49
+        },
+        {
+          "period": "2024-02",
+          "turnover": 34687.03,
+          "items": 11
+        },
+        {
+          "period": "2024-03",
+          "turnover": 77887.44,
+          "items": 30
+        },
+        {
+          "period": "2024-04",
+          "turnover": 61396.04,
+          "items": 27
+        },
+        {
+          "period": "2024-05",
+          "turnover": 46772.9,
+          "items": 22
+        },
+        {
+          "period": "2024-06",
+          "turnover": 47263.39,
+          "items": 15
+        },
+        {
+          "period": "2024-07",
+          "turnover": 74795.04,
+          "items": 28
+        },
+        {
+          "period": "2024-08",
+          "turnover": 49110.74,
+          "items": 16
+        },
+        {
+          "period": "2024-09",
+          "turnover": 86802.52,
+          "items": 28
+        },
+        {
+          "period": "2024-10",
+          "turnover": 66972.75,
+          "items": 20
+        },
+        {
+          "period": "2024-11",
+          "turnover": 18660.33,
+          "items": 8
+        },
+        {
+          "period": "2024-12",
+          "turnover": 27666.95,
+          "items": 8
+        },
+        {
+          "period": "2025-01",
+          "turnover": 28208.85,
+          "items": 10
+        },
+        {
+          "period": "2025-02",
+          "turnover": 11519.01,
+          "items": 6
+        },
+        {
+          "period": "2025-03",
+          "turnover": 22071.08,
+          "items": 7
+        },
+        {
+          "period": "2025-04",
+          "turnover": 49139.66,
+          "items": 15
+        },
+        {
+          "period": "2025-05",
+          "turnover": 40884.29,
+          "items": 16
+        },
+        {
+          "period": "2025-06",
+          "turnover": 30232.24,
+          "items": 12
+        },
+        {
+          "period": "2025-08",
+          "turnover": 40761.99,
+          "items": 16
+        }
+      ],
+      "totalTurnover": 963070.96,
+      "totalItems": 344,
+      "avgItemsPerMonth": 18.105263157894736,
+      "turnoverDeltaAbs": -107476.72,
+      "turnoverDeltaPct": -72.50246578643326,
+      "itemsDeltaAbs": -33,
+      "itemsDeltaPct": -67.3469387755102,
+      "turnoverTrend": "DOWN",
+      "itemsTrend": "DOWN"
+    },
+    {
+      "slug": "auto-land-polska-spka-akcyjna",
+      "name": "AUTO LAND POLSKA SPÓŁKA AKCYJNA",
+      "abbreviation": "AL",
+      "firstMonth": "2025-05",
+      "lastMonth": "2025-08",
+      "months": [
+        {
+          "period": "2025-05",
+          "turnover": 175886.66,
+          "items": 264
+        },
+        {
+          "period": "2025-06",
+          "turnover": 186883.2,
+          "items": 659
+        },
+        {
+          "period": "2025-07",
+          "turnover": 289961.95,
+          "items": 789
+        },
+        {
+          "period": "2025-08",
+          "turnover": 255744.22,
+          "items": 674
+        }
+      ],
+      "totalTurnover": 908476.03,
+      "totalItems": 2386,
+      "avgItemsPerMonth": 596.5,
+      "turnoverDeltaAbs": 79857.56,
+      "turnoverDeltaPct": 45.40285204119516,
+      "itemsDeltaAbs": 410,
+      "itemsDeltaPct": 155.3030303030303,
+      "turnoverTrend": "UP",
+      "itemsTrend": "UP"
+    },
+    {
+      "slug": "olfin-car-sro-vw",
+      "name": "OLFIN Car s.r.o. VW",
+      "abbreviation": "OC",
+      "firstMonth": "2024-01",
+      "lastMonth": "2025-08",
+      "months": [
+        {
+          "period": "2024-01",
+          "turnover": 64373.47,
+          "items": 48
+        },
+        {
+          "period": "2024-02",
+          "turnover": 25721.2,
+          "items": 39
+        },
+        {
+          "period": "2024-03",
+          "turnover": 37563.26,
+          "items": 33
+        },
+        {
+          "period": "2024-04",
+          "turnover": 94303.48,
+          "items": 44
+        },
+        {
+          "period": "2024-05",
+          "turnover": 20781.96,
+          "items": 37
+        },
+        {
+          "period": "2024-06",
+          "turnover": 17235.7,
+          "items": 10
+        },
+        {
+          "period": "2024-07",
+          "turnover": 25457.6,
+          "items": 19
+        },
+        {
+          "period": "2024-08",
+          "turnover": 32719.4,
+          "items": 24
+        },
+        {
+          "period": "2024-09",
+          "turnover": 22930.8,
+          "items": 28
+        },
+        {
+          "period": "2024-10",
+          "turnover": 51209.4,
+          "items": 40
+        },
+        {
+          "period": "2024-11",
+          "turnover": 25826,
+          "items": 25
+        },
+        {
+          "period": "2024-12",
+          "turnover": 11051,
+          "items": 11
+        },
+        {
+          "period": "2025-01",
+          "turnover": 81240.2,
+          "items": 47
+        },
+        {
+          "period": "2025-02",
+          "turnover": 47652.7,
+          "items": 32
+        },
+        {
+          "period": "2025-03",
+          "turnover": 54486.7,
+          "items": 22
+        },
+        {
+          "period": "2025-04",
+          "turnover": 42401.2,
+          "items": 54
+        },
+        {
+          "period": "2025-05",
+          "turnover": 17457.8,
+          "items": 20
+        },
+        {
+          "period": "2025-06",
+          "turnover": 17242.7,
+          "items": 13
+        },
+        {
+          "period": "2025-07",
+          "turnover": 40362.8,
+          "items": 28
+        },
+        {
+          "period": "2025-08",
+          "turnover": 38733.8,
+          "items": 25
+        }
+      ],
+      "totalTurnover": 768751.17,
+      "totalItems": 599,
+      "avgItemsPerMonth": 29.95,
+      "turnoverDeltaAbs": -25639.67,
+      "turnoverDeltaPct": -39.82956022100409,
+      "itemsDeltaAbs": -23,
+      "itemsDeltaPct": -47.91666666666667,
+      "turnoverTrend": "DOWN",
+      "itemsTrend": "DOWN"
+    },
+    {
+      "slug": "auto-group-servis-sro",
+      "name": "Auto Group Servis  s.r.o.",
+      "abbreviation": "AG",
+      "firstMonth": "2024-01",
+      "lastMonth": "2025-08",
+      "months": [
+        {
+          "period": "2024-01",
+          "turnover": 4878.56,
+          "items": 15
+        },
+        {
+          "period": "2024-02",
+          "turnover": 102236.74,
+          "items": 23
+        },
+        {
+          "period": "2024-03",
+          "turnover": 54481.95,
+          "items": 25
+        },
+        {
+          "period": "2024-04",
+          "turnover": 31963.79,
+          "items": 17
+        },
+        {
+          "period": "2024-05",
+          "turnover": 32737.07,
+          "items": 12
+        },
+        {
+          "period": "2024-06",
+          "turnover": 43457.33,
+          "items": 12
+        },
+        {
+          "period": "2024-07",
+          "turnover": 29332.72,
+          "items": 19
+        },
+        {
+          "period": "2024-08",
+          "turnover": 29764.29,
+          "items": 19
+        },
+        {
+          "period": "2024-09",
+          "turnover": 44273,
+          "items": 9
+        },
+        {
+          "period": "2024-10",
+          "turnover": 13241.91,
+          "items": 7
+        },
+        {
+          "period": "2024-11",
+          "turnover": 48604.65,
+          "items": 16
+        },
+        {
+          "period": "2024-12",
+          "turnover": 5288.34,
+          "items": 7
+        },
+        {
+          "period": "2025-01",
+          "turnover": 26612.63,
+          "items": 11
+        },
+        {
+          "period": "2025-02",
+          "turnover": 92928.66,
+          "items": 41
+        },
+        {
+          "period": "2025-03",
+          "turnover": 41027.95,
+          "items": 12
+        },
+        {
+          "period": "2025-04",
+          "turnover": 34248.36,
+          "items": 12
+        },
+        {
+          "period": "2025-05",
+          "turnover": 19019.01,
+          "items": 7
+        },
+        {
+          "period": "2025-06",
+          "turnover": 6232.49,
+          "items": 4
+        },
+        {
+          "period": "2025-07",
+          "turnover": 20474.35,
+          "items": 11
+        },
+        {
+          "period": "2025-08",
+          "turnover": 17580.88,
+          "items": 9
+        }
+      ],
+      "totalTurnover": 698384.6799999999,
+      "totalItems": 288,
+      "avgItemsPerMonth": 14.4,
+      "turnoverDeltaAbs": 12702.32,
+      "turnoverDeltaPct": 260.3702731953691,
+      "itemsDeltaAbs": -6,
+      "itemsDeltaPct": -40,
+      "turnoverTrend": "UP",
+      "itemsTrend": "DOWN"
+    },
+    {
+      "slug": "inter-cars-esk-republika-sro",
+      "name": "Inter Cars Česká republika s.r.o.",
+      "abbreviation": "IC",
+      "firstMonth": "2024-01",
+      "lastMonth": "2025-08",
+      "months": [
+        {
+          "period": "2024-01",
+          "turnover": 31869.15,
+          "items": 31
+        },
+        {
+          "period": "2024-02",
+          "turnover": 44659.47,
+          "items": 52
+        },
+        {
+          "period": "2024-03",
+          "turnover": 22812.73,
+          "items": 31
+        },
+        {
+          "period": "2024-04",
+          "turnover": 40671.34,
+          "items": 31
+        },
+        {
+          "period": "2024-05",
+          "turnover": 17058.29,
+          "items": 23
+        },
+        {
+          "period": "2024-06",
+          "turnover": 35706.96,
+          "items": 43
+        },
+        {
+          "period": "2024-07",
+          "turnover": 19569.31,
+          "items": 25
+        },
+        {
+          "period": "2024-08",
+          "turnover": 53698,
+          "items": 42
+        },
+        {
+          "period": "2024-09",
+          "turnover": 48084.54,
+          "items": 29
+        },
+        {
+          "period": "2024-10",
+          "turnover": 73700.02,
+          "items": 44
+        },
+        {
+          "period": "2024-11",
+          "turnover": 27978.34,
+          "items": 24
+        },
+        {
+          "period": "2024-12",
+          "turnover": 11680.7,
+          "items": 24
+        },
+        {
+          "period": "2025-01",
+          "turnover": 42258,
+          "items": 31
+        },
+        {
+          "period": "2025-02",
+          "turnover": 42207.37,
+          "items": 44
+        },
+        {
+          "period": "2025-03",
+          "turnover": 22746.62,
+          "items": 21
+        },
+        {
+          "period": "2025-04",
+          "turnover": 18687.28,
+          "items": 34
+        },
+        {
+          "period": "2025-05",
+          "turnover": 31037.34,
+          "items": 35
+        },
+        {
+          "period": "2025-06",
+          "turnover": 13559.36,
+          "items": 17
+        },
+        {
+          "period": "2025-07",
+          "turnover": 35568.19,
+          "items": 35
+        },
+        {
+          "period": "2025-08",
+          "turnover": 7360.16,
+          "items": 18
+        }
+      ],
+      "totalTurnover": 640913.17,
+      "totalItems": 634,
+      "avgItemsPerMonth": 31.7,
+      "turnoverDeltaAbs": -24508.99,
+      "turnoverDeltaPct": -76.90506336064816,
+      "itemsDeltaAbs": -13,
+      "itemsDeltaPct": -41.935483870967744,
+      "turnoverTrend": "DOWN",
+      "itemsTrend": "DOWN"
+    },
+    {
+      "slug": "rodon-spka-z-ograniczon-odpowiedzialnoci-spka-koma",
+      "name": "RODON SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ SPÓŁKA KOMANDYTOWA",
+      "abbreviation": "RS",
+      "firstMonth": "2024-09",
+      "lastMonth": "2025-08",
+      "months": [
+        {
+          "period": "2024-09",
+          "turnover": 5486.32,
+          "items": 10
+        },
+        {
+          "period": "2024-10",
+          "turnover": 23376,
+          "items": 72
+        },
+        {
+          "period": "2024-11",
+          "turnover": 25002.68,
+          "items": 37
+        },
+        {
+          "period": "2024-12",
+          "turnover": 10200.75,
+          "items": 19
+        },
+        {
+          "period": "2025-01",
+          "turnover": 41255.62,
+          "items": 57
+        },
+        {
+          "period": "2025-02",
+          "turnover": 62368.87,
+          "items": 127
+        },
+        {
+          "period": "2025-03",
+          "turnover": 31326.99,
+          "items": 71
+        },
+        {
+          "period": "2025-04",
+          "turnover": 62793.95,
+          "items": 115
+        },
+        {
+          "period": "2025-05",
+          "turnover": 55932.87,
+          "items": 82
+        },
+        {
+          "period": "2025-06",
+          "turnover": 83888.63,
+          "items": 146
+        },
+        {
+          "period": "2025-07",
+          "turnover": 83135.35,
+          "items": 136
+        },
+        {
+          "period": "2025-08",
+          "turnover": 70300.65,
+          "items": 104
+        }
+      ],
+      "totalTurnover": 555068.68,
+      "totalItems": 976,
+      "avgItemsPerMonth": 81.33333333333333,
+      "turnoverDeltaAbs": 64814.329999999994,
+      "turnoverDeltaPct": 1181.3807798305604,
+      "itemsDeltaAbs": 94,
+      "itemsDeltaPct": 940,
+      "turnoverTrend": "UP",
+      "itemsTrend": "UP"
+    },
+    {
+      "slug": "adima-brzdil-sro",
+      "name": "ADIMA BRÁZDIL s.r.o.",
+      "abbreviation": "AB",
+      "firstMonth": "2024-10",
+      "lastMonth": "2025-08",
+      "months": [
+        {
+          "period": "2024-10",
+          "turnover": 7565.66,
+          "items": 4
+        },
+        {
+          "period": "2024-11",
+          "turnover": 126956.19,
+          "items": 57
+        },
+        {
+          "period": "2024-12",
+          "turnover": 20950.8,
+          "items": 9
+        },
+        {
+          "period": "2025-01",
+          "turnover": 116183.11,
+          "items": 45
+        },
+        {
+          "period": "2025-02",
+          "turnover": 71313.8,
+          "items": 22
+        },
+        {
+          "period": "2025-03",
+          "turnover": 12958.94,
+          "items": 5
+        },
+        {
+          "period": "2025-04",
+          "turnover": 21896.41,
+          "items": 9
+        },
+        {
+          "period": "2025-05",
+          "turnover": 11506.75,
+          "items": 6
+        },
+        {
+          "period": "2025-06",
+          "turnover": 14002.72,
+          "items": 6
+        },
+        {
+          "period": "2025-07",
+          "turnover": 42182.92,
+          "items": 18
+        },
+        {
+          "period": "2025-08",
+          "turnover": 12594.36,
+          "items": 5
+        }
+      ],
+      "totalTurnover": 458111.6599999999,
+      "totalItems": 186,
+      "avgItemsPerMonth": 16.90909090909091,
+      "turnoverDeltaAbs": 5028.700000000001,
+      "turnoverDeltaPct": 66.46743311224667,
+      "itemsDeltaAbs": 1,
+      "itemsDeltaPct": 25,
+      "turnoverTrend": "UP",
+      "itemsTrend": "UP"
+    },
+    {
+      "slug": "auto-in-sro",
+      "name": "AUTO IN s.r.o.",
+      "abbreviation": "AI",
+      "firstMonth": "2024-01",
+      "lastMonth": "2025-07",
+      "months": [
+        {
+          "period": "2024-01",
+          "turnover": 28172.56,
+          "items": 8
+        },
+        {
+          "period": "2024-02",
+          "turnover": 2579.25,
+          "items": 3
+        },
+        {
+          "period": "2024-03",
+          "turnover": 53654.42,
+          "items": 30
+        },
+        {
+          "period": "2024-04",
+          "turnover": 2414.99,
+          "items": 4
+        },
+        {
+          "period": "2024-05",
+          "turnover": 29283.76,
+          "items": 8
+        },
+        {
+          "period": "2024-06",
+          "turnover": 12012.74,
+          "items": 5
+        },
+        {
+          "period": "2024-08",
+          "turnover": 619.2,
+          "items": 1
+        },
+        {
+          "period": "2024-09",
+          "turnover": 1744.08,
+          "items": 2
+        },
+        {
+          "period": "2024-10",
+          "turnover": 8170.88,
+          "items": 3
+        },
+        {
+          "period": "2024-11",
+          "turnover": 69795.84,
+          "items": 23
+        },
+        {
+          "period": "2024-12",
+          "turnover": 54251.41,
+          "items": 10
+        },
+        {
+          "period": "2025-01",
+          "turnover": 53736.66,
+          "items": 23
+        },
+        {
+          "period": "2025-02",
+          "turnover": 63940.62,
+          "items": 11
+        },
+        {
+          "period": "2025-04",
+          "turnover": 3561.21,
+          "items": 3
+        },
+        {
+          "period": "2025-05",
+          "turnover": 880.64,
+          "items": 1
+        },
+        {
+          "period": "2025-06",
+          "turnover": 2928.3,
+          "items": 4
+        },
+        {
+          "period": "2025-07",
+          "turnover": 11002.84,
+          "items": 11
+        }
+      ],
+      "totalTurnover": 398749.4000000001,
+      "totalItems": 150,
+      "avgItemsPerMonth": 8.823529411764707,
+      "turnoverDeltaAbs": -17169.72,
+      "turnoverDeltaPct": -60.944834264262816,
+      "itemsDeltaAbs": 3,
+      "itemsDeltaPct": 37.5,
+      "turnoverTrend": "DOWN",
+      "itemsTrend": "UP"
+    },
+    {
+      "slug": "abc-dly-sro",
+      "name": "ABC díly s.r.o.",
+      "abbreviation": "AD",
+      "firstMonth": "2024-01",
+      "lastMonth": "2025-05",
+      "months": [
+        {
+          "period": "2024-01",
+          "turnover": 2276.56,
+          "items": 7
+        },
+        {
+          "period": "2024-05",
+          "turnover": 4723,
+          "items": 1
+        },
+        {
+          "period": "2024-06",
+          "turnover": 20554.82,
+          "items": 8
+        },
+        {
+          "period": "2024-08",
+          "turnover": 330,
+          "items": 6
+        },
+        {
+          "period": "2024-10",
+          "turnover": 109239.53,
+          "items": 60
+        },
+        {
+          "period": "2024-12",
+          "turnover": 19295.19,
+          "items": 42
+        },
+        {
+          "period": "2025-01",
+          "turnover": 153700.1,
+          "items": 44
+        },
+        {
+          "period": "2025-02",
+          "turnover": 313.01,
+          "items": 1
+        },
+        {
+          "period": "2025-05",
+          "turnover": 24082.8,
+          "items": 62
+        }
+      ],
+      "totalTurnover": 334515.01,
+      "totalItems": 231,
+      "avgItemsPerMonth": 25.666666666666668,
+      "turnoverDeltaAbs": 21806.239999999998,
+      "turnoverDeltaPct": 957.8592262009346,
+      "itemsDeltaAbs": 55,
+      "itemsDeltaPct": 785.7142857142857,
+      "turnoverTrend": "UP",
+      "itemsTrend": "UP"
+    },
+    {
+      "slug": "df-partner-s-r-o",
+      "name": "DF Partner s. r. o.",
+      "abbreviation": "DP",
+      "firstMonth": "2024-01",
+      "lastMonth": "2025-08",
+      "months": [
+        {
+          "period": "2024-01",
+          "turnover": 17187.2,
+          "items": 16
+        },
+        {
+          "period": "2024-02",
+          "turnover": 22651.2,
+          "items": 10
+        },
+        {
+          "period": "2024-03",
+          "turnover": 8704.5,
+          "items": 5
+        },
+        {
+          "period": "2024-04",
+          "turnover": 26785.7,
+          "items": 15
+        },
+        {
+          "period": "2024-06",
+          "turnover": 7411.3,
+          "items": 3
+        },
+        {
+          "period": "2024-07",
+          "turnover": 25479.6,
+          "items": 27
+        },
+        {
+          "period": "2024-09",
+          "turnover": 11988.8,
+          "items": 6
+        },
+        {
+          "period": "2024-10",
+          "turnover": 45106.4,
+          "items": 23
+        },
+        {
+          "period": "2024-11",
+          "turnover": 57073,
+          "items": 27
+        },
+        {
+          "period": "2024-12",
+          "turnover": 16063.8,
+          "items": 8
+        },
+        {
+          "period": "2025-01",
+          "turnover": 28293.8,
+          "items": 15
+        },
+        {
+          "period": "2025-03",
+          "turnover": 16231.8,
+          "items": 8
+        },
+        {
+          "period": "2025-04",
+          "turnover": 16204.2,
+          "items": 8
+        },
+        {
+          "period": "2025-05",
+          "turnover": 5873.4,
+          "items": 3
+        },
+        {
+          "period": "2025-06",
+          "turnover": 25545.8,
+          "items": 14
+        },
+        {
+          "period": "2025-08",
+          "turnover": 3170,
+          "items": 2
+        }
+      ],
+      "totalTurnover": 333770.5,
+      "totalItems": 190,
+      "avgItemsPerMonth": 11.875,
+      "turnoverDeltaAbs": -14017.2,
+      "turnoverDeltaPct": -81.55604170545521,
+      "itemsDeltaAbs": -14,
+      "itemsDeltaPct": -87.5,
+      "turnoverTrend": "DOWN",
+      "itemsTrend": "DOWN"
+    },
+    {
+      "slug": "red-rider-sro",
+      "name": "Red Rider s.r.o.",
+      "abbreviation": "RR",
+      "firstMonth": "2024-02",
+      "lastMonth": "2025-08",
+      "months": [
+        {
+          "period": "2024-02",
+          "turnover": 16154.38,
+          "items": 11
+        },
+        {
+          "period": "2024-03",
+          "turnover": 8540,
+          "items": 5
+        },
+        {
+          "period": "2024-04",
+          "turnover": 5295,
+          "items": 4
+        },
+        {
+          "period": "2024-05",
+          "turnover": 12360.08,
+          "items": 7
+        },
+        {
+          "period": "2024-06",
+          "turnover": 6914.52,
+          "items": 3
+        },
+        {
+          "period": "2024-08",
+          "turnover": 15798,
+          "items": 9
+        },
+        {
+          "period": "2024-10",
+          "turnover": 7040.28,
+          "items": 11
+        },
+        {
+          "period": "2024-11",
+          "turnover": 12503,
+          "items": 7
+        },
+        {
+          "period": "2024-12",
+          "turnover": 7481,
+          "items": 7
+        },
+        {
+          "period": "2025-02",
+          "turnover": 12825,
+          "items": 7
+        },
+        {
+          "period": "2025-03",
+          "turnover": 2171,
+          "items": 2
+        },
+        {
+          "period": "2025-04",
+          "turnover": 20115,
+          "items": 9
+        },
+        {
+          "period": "2025-05",
+          "turnover": 13704,
+          "items": 10
+        },
+        {
+          "period": "2025-06",
+          "turnover": 18798.08,
+          "items": 15
+        },
+        {
+          "period": "2025-07",
+          "turnover": 9037,
+          "items": 9
+        },
+        {
+          "period": "2025-08",
+          "turnover": 11488.98,
+          "items": 11
+        }
+      ],
+      "totalTurnover": 180225.32000000004,
+      "totalItems": 127,
+      "avgItemsPerMonth": 7.9375,
+      "turnoverDeltaAbs": -4665.4,
+      "turnoverDeltaPct": -28.880093200729462,
+      "itemsDeltaAbs": 0,
+      "itemsDeltaPct": 0,
+      "turnoverTrend": "DOWN",
+      "itemsTrend": "FLAT"
+    },
+    {
+      "slug": "auto-kelly-as",
+      "name": "Auto Kelly a.s.",
+      "abbreviation": "AK",
+      "firstMonth": "2024-01",
+      "lastMonth": "2025-01",
+      "months": [
+        {
+          "period": "2024-01",
+          "turnover": 15243.87,
+          "items": 11
+        },
+        {
+          "period": "2024-02",
+          "turnover": 12860.23,
+          "items": 20
+        },
+        {
+          "period": "2024-03",
+          "turnover": 10104.1,
+          "items": 17
+        },
+        {
+          "period": "2024-04",
+          "turnover": 12627.51,
+          "items": 23
+        },
+        {
+          "period": "2024-05",
+          "turnover": 3746.81,
+          "items": 9
+        },
+        {
+          "period": "2024-06",
+          "turnover": 10650.73,
+          "items": 17
+        },
+        {
+          "period": "2024-07",
+          "turnover": 12674.41,
+          "items": 11
+        },
+        {
+          "period": "2024-08",
+          "turnover": 7942.32,
+          "items": 7
+        },
+        {
+          "period": "2024-09",
+          "turnover": 3560.26,
+          "items": 13
+        },
+        {
+          "period": "2024-10",
+          "turnover": 15970.73,
+          "items": 7
+        },
+        {
+          "period": "2024-11",
+          "turnover": 13450.5,
+          "items": 13
+        },
+        {
+          "period": "2024-12",
+          "turnover": 11866.81,
+          "items": 9
+        },
+        {
+          "period": "2025-01",
+          "turnover": 29263.13,
+          "items": 33
+        }
+      ],
+      "totalTurnover": 159961.41,
+      "totalItems": 190,
+      "avgItemsPerMonth": 14.615384615384615,
+      "turnoverDeltaAbs": 14019.26,
+      "turnoverDeltaPct": 91.9665413047999,
+      "itemsDeltaAbs": 22,
+      "itemsDeltaPct": 200,
+      "turnoverTrend": "UP",
+      "itemsTrend": "UP"
+    },
+    {
+      "slug": "aciauto-components-international-sro",
+      "name": "ACI-AUTO COMPONENTS INTERNATIONAL, s.r.o.",
+      "abbreviation": "AC",
+      "firstMonth": "2024-01",
+      "lastMonth": "2025-08",
+      "months": [
+        {
+          "period": "2024-01",
+          "turnover": 15565.83,
+          "items": 25
+        },
+        {
+          "period": "2024-02",
+          "turnover": 7209.98,
+          "items": 8
+        },
+        {
+          "period": "2024-03",
+          "turnover": 22271.4,
+          "items": 21
+        },
+        {
+          "period": "2024-04",
+          "turnover": 5024.59,
+          "items": 19
+        },
+        {
+          "period": "2024-05",
+          "turnover": 4550.27,
+          "items": 11
+        },
+        {
+          "period": "2024-06",
+          "turnover": 16074.41,
+          "items": 25
+        },
+        {
+          "period": "2024-07",
+          "turnover": 7551.38,
+          "items": 16
+        },
+        {
+          "period": "2024-08",
+          "turnover": 3935.6,
+          "items": 13
+        },
+        {
+          "period": "2024-09",
+          "turnover": 6704.02,
+          "items": 8
+        },
+        {
+          "period": "2024-10",
+          "turnover": 8394.63,
+          "items": 14
+        },
+        {
+          "period": "2024-11",
+          "turnover": 9235.91,
+          "items": 14
+        },
+        {
+          "period": "2024-12",
+          "turnover": 442.51,
+          "items": 11
+        },
+        {
+          "period": "2025-01",
+          "turnover": 4665.76,
+          "items": 17
+        },
+        {
+          "period": "2025-02",
+          "turnover": 5857.99,
+          "items": 8
+        },
+        {
+          "period": "2025-03",
+          "turnover": 4064.57,
+          "items": 10
+        },
+        {
+          "period": "2025-04",
+          "turnover": 1559.11,
+          "items": 9
+        },
+        {
+          "period": "2025-05",
+          "turnover": 8094.81,
+          "items": 20
+        },
+        {
+          "period": "2025-06",
+          "turnover": 9161.87,
+          "items": 10
+        },
+        {
+          "period": "2025-07",
+          "turnover": 12464.92,
+          "items": 20
+        },
+        {
+          "period": "2025-08",
+          "turnover": 1895.29,
+          "items": 6
+        }
+      ],
+      "totalTurnover": 154724.85000000006,
+      "totalItems": 285,
+      "avgItemsPerMonth": 14.25,
+      "turnoverDeltaAbs": -13670.54,
+      "turnoverDeltaPct": -87.82403508197122,
+      "itemsDeltaAbs": -19,
+      "itemsDeltaPct": -76,
+      "turnoverTrend": "DOWN",
+      "itemsTrend": "DOWN"
+    },
+    {
+      "slug": "elsa-group-sro",
+      "name": "ELSA GROUP s.r.o.",
+      "abbreviation": "EG",
+      "firstMonth": "2024-04",
+      "lastMonth": "2025-07",
+      "months": [
+        {
+          "period": "2024-04",
+          "turnover": 19774.6,
+          "items": 4
+        },
+        {
+          "period": "2024-05",
+          "turnover": 7852.07,
+          "items": 1
+        },
+        {
+          "period": "2024-08",
+          "turnover": 20938.87,
+          "items": 2
+        },
+        {
+          "period": "2024-12",
+          "turnover": 13834.5,
+          "items": 4
+        },
+        {
+          "period": "2025-01",
+          "turnover": 34120.9,
+          "items": 6
+        },
+        {
+          "period": "2025-02",
+          "turnover": 13157.2,
+          "items": 4
+        },
+        {
+          "period": "2025-03",
+          "turnover": 12399.3,
+          "items": 4
+        },
+        {
+          "period": "2025-04",
+          "turnover": 25337.04,
+          "items": 6
+        },
+        {
+          "period": "2025-05",
+          "turnover": 3793.9,
+          "items": 1
+        },
+        {
+          "period": "2025-07",
+          "turnover": 1800.4,
+          "items": 1
+        }
+      ],
+      "totalTurnover": 153008.78,
+      "totalItems": 33,
+      "avgItemsPerMonth": 3.3,
+      "turnoverDeltaAbs": -17974.199999999997,
+      "turnoverDeltaPct": -90.89539105721481,
+      "itemsDeltaAbs": -3,
+      "itemsDeltaPct": -75,
+      "turnoverTrend": "DOWN",
+      "itemsTrend": "DOWN"
+    },
+    {
+      "slug": "fa-rene-as",
+      "name": "Fa RENE a.s.",
+      "abbreviation": "FR",
+      "firstMonth": "2024-01",
+      "lastMonth": "2025-08",
+      "months": [
+        {
+          "period": "2024-01",
+          "turnover": 11693.38,
+          "items": 14
+        },
+        {
+          "period": "2024-03",
+          "turnover": 8274.02,
+          "items": 9
+        },
+        {
+          "period": "2024-05",
+          "turnover": 4028.09,
+          "items": 3
+        },
+        {
+          "period": "2024-06",
+          "turnover": 16205.69,
+          "items": 7
+        },
+        {
+          "period": "2024-07",
+          "turnover": 435.15,
+          "items": 1
+        },
+        {
+          "period": "2024-09",
+          "turnover": 6086.82,
+          "items": 3
+        },
+        {
+          "period": "2024-10",
+          "turnover": 16488.55,
+          "items": 8
+        },
+        {
+          "period": "2024-11",
+          "turnover": 136.62,
+          "items": 1
+        },
+        {
+          "period": "2024-12",
+          "turnover": 22321.5,
+          "items": 2
+        },
+        {
+          "period": "2025-01",
+          "turnover": 412.38,
+          "items": 2
+        },
+        {
+          "period": "2025-02",
+          "turnover": 6801.45,
+          "items": 3
+        },
+        {
+          "period": "2025-04",
+          "turnover": 18057.46,
+          "items": 2
+        },
+        {
+          "period": "2025-06",
+          "turnover": 11435.83,
+          "items": 5
+        },
+        {
+          "period": "2025-07",
+          "turnover": 4491.13,
+          "items": 3
+        },
+        {
+          "period": "2025-08",
+          "turnover": 1837.14,
+          "items": 1
+        }
+      ],
+      "totalTurnover": 128705.21000000002,
+      "totalItems": 64,
+      "avgItemsPerMonth": 4.266666666666667,
+      "turnoverDeltaAbs": -9856.24,
+      "turnoverDeltaPct": -84.28905927969501,
+      "itemsDeltaAbs": -13,
+      "itemsDeltaPct": -92.85714285714286,
+      "turnoverTrend": "DOWN",
+      "itemsTrend": "DOWN"
+    },
+    {
+      "slug": "profitrading-sro",
+      "name": "Profitrading s.r.o.",
+      "abbreviation": "PS",
+      "firstMonth": "2024-07",
+      "lastMonth": "2024-08",
+      "months": [
+        {
+          "period": "2024-07",
+          "turnover": 62721.49,
+          "items": 1
+        },
+        {
+          "period": "2024-08",
+          "turnover": 46431.38,
+          "items": 2
+        }
+      ],
+      "totalTurnover": 109152.87,
+      "totalItems": 3,
+      "avgItemsPerMonth": 1.5,
+      "turnoverDeltaAbs": -16290.11,
+      "turnoverDeltaPct": -25.972134909422596,
+      "itemsDeltaAbs": 1,
+      "itemsDeltaPct": 100,
+      "turnoverTrend": "DOWN",
+      "itemsTrend": "UP"
+    },
+    {
+      "slug": "olfin-car-palace-sro-opel",
+      "name": "Olfin Car Palace s.r.o. OPEL",
+      "abbreviation": "OC",
+      "firstMonth": "2024-01",
+      "lastMonth": "2025-08",
+      "months": [
+        {
+          "period": "2024-01",
+          "turnover": 7230.95,
+          "items": 6
+        },
+        {
+          "period": "2024-03",
+          "turnover": 343.4,
+          "items": 1
+        },
+        {
+          "period": "2024-05",
+          "turnover": 2153.9,
+          "items": 1
+        },
+        {
+          "period": "2024-06",
+          "turnover": 1421.2,
+          "items": 1
+        },
+        {
+          "period": "2024-07",
+          "turnover": 420.75,
+          "items": 1
+        },
+        {
+          "period": "2024-08",
+          "turnover": 3313.19,
+          "items": 3
+        },
+        {
+          "period": "2024-09",
+          "turnover": 1421.2,
+          "items": 1
+        },
+        {
+          "period": "2024-10",
+          "turnover": 3374,
+          "items": 1
+        },
+        {
+          "period": "2024-12",
+          "turnover": 72477.68,
+          "items": 1
+        },
+        {
+          "period": "2025-01",
+          "turnover": 867.68,
+          "items": 1
+        },
+        {
+          "period": "2025-04",
+          "turnover": 777.92,
+          "items": 1
+        },
+        {
+          "period": "2025-08",
+          "turnover": 10387.88,
+          "items": 3
+        }
+      ],
+      "totalTurnover": 104189.74999999999,
+      "totalItems": 21,
+      "avgItemsPerMonth": 1.75,
+      "turnoverDeltaAbs": 3156.9299999999994,
+      "turnoverDeltaPct": 43.658578748297245,
+      "itemsDeltaAbs": -3,
+      "itemsDeltaPct": -50,
+      "turnoverTrend": "UP",
+      "itemsTrend": "DOWN"
+    },
+    {
+      "slug": "japanrace-sro",
+      "name": "JapanRace s.r.o.",
+      "abbreviation": "JS",
+      "firstMonth": "2024-08",
+      "lastMonth": "2024-08",
+      "months": [
+        {
+          "period": "2024-08",
+          "turnover": 92000,
+          "items": 2
+        }
+      ],
+      "totalTurnover": 92000,
+      "totalItems": 2,
+      "avgItemsPerMonth": 2,
+      "turnoverDeltaAbs": 0,
+      "turnoverDeltaPct": 0,
+      "itemsDeltaAbs": 0,
+      "itemsDeltaPct": 0,
+      "turnoverTrend": "FLAT",
+      "itemsTrend": "FLAT"
+    },
+    {
+      "slug": "remante-group-sro",
+      "name": "REMANTE GROUP s.r.o.",
+      "abbreviation": "RG",
+      "firstMonth": "2024-02",
+      "lastMonth": "2025-08",
+      "months": [
+        {
+          "period": "2024-02",
+          "turnover": 18106,
+          "items": 6
+        },
+        {
+          "period": "2024-03",
+          "turnover": 2777,
+          "items": 5
+        },
+        {
+          "period": "2024-07",
+          "turnover": 6500,
+          "items": 2
+        },
+        {
+          "period": "2024-08",
+          "turnover": 6342,
+          "items": 4
+        },
+        {
+          "period": "2024-12",
+          "turnover": 12050,
+          "items": 2
+        },
+        {
+          "period": "2025-04",
+          "turnover": 15834,
+          "items": 4
+        },
+        {
+          "period": "2025-06",
+          "turnover": 11025,
+          "items": 4
+        },
+        {
+          "period": "2025-07",
+          "turnover": 11115.7,
+          "items": 2
+        },
+        {
+          "period": "2025-08",
+          "turnover": 5176.12,
+          "items": 5
+        }
+      ],
+      "totalTurnover": 88925.81999999999,
+      "totalItems": 34,
+      "avgItemsPerMonth": 3.7777777777777777,
+      "turnoverDeltaAbs": -12929.880000000001,
+      "turnoverDeltaPct": -71.4121285761626,
+      "itemsDeltaAbs": -1,
+      "itemsDeltaPct": -16.666666666666664,
+      "turnoverTrend": "DOWN",
+      "itemsTrend": "DOWN"
+    },
+    {
+      "slug": "svc-group-sro",
+      "name": "SVC Group s.r.o.",
+      "abbreviation": "SG",
+      "firstMonth": "2024-01",
+      "lastMonth": "2025-08",
+      "months": [
+        {
+          "period": "2024-01",
+          "turnover": 8536.48,
+          "items": 6
+        },
+        {
+          "period": "2024-02",
+          "turnover": 2010.32,
+          "items": 2
+        },
+        {
+          "period": "2024-04",
+          "turnover": 8115.8,
+          "items": 4
+        },
+        {
+          "period": "2024-05",
+          "turnover": 11951.7,
+          "items": 7
+        },
+        {
+          "period": "2024-06",
+          "turnover": 3937.08,
+          "items": 3
+        },
+        {
+          "period": "2024-08",
+          "turnover": 2981.02,
+          "items": 2
+        },
+        {
+          "period": "2024-09",
+          "turnover": 191.2,
+          "items": 1
+        },
+        {
+          "period": "2024-10",
+          "turnover": 7298.92,
+          "items": 3
+        },
+        {
+          "period": "2024-11",
+          "turnover": 7665.26,
+          "items": 4
+        },
+        {
+          "period": "2024-12",
+          "turnover": 3235.4,
+          "items": 2
+        },
+        {
+          "period": "2025-02",
+          "turnover": 3837.86,
+          "items": 2
+        },
+        {
+          "period": "2025-03",
+          "turnover": 2283.7,
+          "items": 2
+        },
+        {
+          "period": "2025-04",
+          "turnover": 11451.48,
+          "items": 5
+        },
+        {
+          "period": "2025-05",
+          "turnover": 3117.9,
+          "items": 2
+        },
+        {
+          "period": "2025-06",
+          "turnover": 1288,
+          "items": 2
+        },
+        {
+          "period": "2025-07",
+          "turnover": 1096.8,
+          "items": 1
+        },
+        {
+          "period": "2025-08",
+          "turnover": 3361.23,
+          "items": 2
+        }
+      ],
+      "totalTurnover": 82360.14999999998,
+      "totalItems": 50,
+      "avgItemsPerMonth": 2.9411764705882355,
+      "turnoverDeltaAbs": -5175.25,
+      "turnoverDeltaPct": -60.62510542987274,
+      "itemsDeltaAbs": -4,
+      "itemsDeltaPct": -66.66666666666666,
+      "turnoverTrend": "DOWN",
+      "itemsTrend": "DOWN"
+    },
+    {
+      "slug": "get-automotive-sro",
+      "name": "GET automotive s.r.o.",
+      "abbreviation": "GA",
+      "firstMonth": "2024-06",
+      "lastMonth": "2024-06",
+      "months": [
+        {
+          "period": "2024-06",
+          "turnover": 78795,
+          "items": 2
+        }
+      ],
+      "totalTurnover": 78795,
+      "totalItems": 2,
+      "avgItemsPerMonth": 2,
+      "turnoverDeltaAbs": 0,
+      "turnoverDeltaPct": 0,
+      "itemsDeltaAbs": 0,
+      "itemsDeltaPct": 0,
+      "turnoverTrend": "FLAT",
+      "itemsTrend": "FLAT"
+    },
+    {
+      "slug": "olfin-car-sro-toyota",
+      "name": "OLFIN Car s.r.o. Toyota",
+      "abbreviation": "OC",
+      "firstMonth": "2024-01",
+      "lastMonth": "2025-08",
+      "months": [
+        {
+          "period": "2024-01",
+          "turnover": 2529,
+          "items": 2
+        },
+        {
+          "period": "2024-03",
+          "turnover": 12609.95,
+          "items": 3
+        },
+        {
+          "period": "2024-04",
+          "turnover": 204.3,
+          "items": 1
+        },
+        {
+          "period": "2024-05",
+          "turnover": 3297.25,
+          "items": 4
+        },
+        {
+          "period": "2024-06",
+          "turnover": 2682,
+          "items": 1
+        },
+        {
+          "period": "2024-07",
+          "turnover": 19481.4,
+          "items": 1
+        },
+        {
+          "period": "2024-08",
+          "turnover": 5931,
+          "items": 1
+        },
+        {
+          "period": "2024-09",
+          "turnover": 3858.12,
+          "items": 1
+        },
+        {
+          "period": "2024-11",
+          "turnover": 464.4,
+          "items": 2
+        },
+        {
+          "period": "2025-01",
+          "turnover": 2769.3,
+          "items": 2
+        },
+        {
+          "period": "2025-03",
+          "turnover": 9475,
+          "items": 3
+        },
+        {
+          "period": "2025-08",
+          "turnover": 9163.76,
+          "items": 1
+        }
+      ],
+      "totalTurnover": 72465.48000000001,
+      "totalItems": 22,
+      "avgItemsPerMonth": 1.8333333333333333,
+      "turnoverDeltaAbs": 6634.76,
+      "turnoverDeltaPct": 262.3471727955714,
+      "itemsDeltaAbs": -1,
+      "itemsDeltaPct": -50,
+      "turnoverTrend": "UP",
+      "itemsTrend": "DOWN"
+    },
+    {
+      "slug": "stratos-auto-spol-s-ro",
+      "name": "STRATOS AUTO, spol. s r.o.",
+      "abbreviation": "SA",
+      "firstMonth": "2024-01",
+      "lastMonth": "2025-06",
+      "months": [
+        {
+          "period": "2024-01",
+          "turnover": 5876.8,
+          "items": 3
+        },
+        {
+          "period": "2024-03",
+          "turnover": 16560.65,
+          "items": 4
+        },
+        {
+          "period": "2024-04",
+          "turnover": 3793.3,
+          "items": 4
+        },
+        {
+          "period": "2024-06",
+          "turnover": 3124.13,
+          "items": 1
+        },
+        {
+          "period": "2024-09",
+          "turnover": 1017.52,
+          "items": 2
+        },
+        {
+          "period": "2024-10",
+          "turnover": 13060.26,
+          "items": 6
+        },
+        {
+          "period": "2024-11",
+          "turnover": 8387.28,
+          "items": 3
+        },
+        {
+          "period": "2025-02",
+          "turnover": 1586.47,
+          "items": 1
+        },
+        {
+          "period": "2025-03",
+          "turnover": 7624.99,
+          "items": 2
+        },
+        {
+          "period": "2025-06",
+          "turnover": 1589.99,
+          "items": 1
+        }
+      ],
+      "totalTurnover": 62621.39,
+      "totalItems": 27,
+      "avgItemsPerMonth": 2.7,
+      "turnoverDeltaAbs": -4286.81,
+      "turnoverDeltaPct": -72.94462973046556,
+      "itemsDeltaAbs": -2,
+      "itemsDeltaPct": -66.66666666666666,
+      "turnoverTrend": "DOWN",
+      "itemsTrend": "DOWN"
+    },
+    {
+      "slug": "autostyl-as",
+      "name": "AUTOSTYL a.s.",
+      "abbreviation": "AA",
+      "firstMonth": "2024-01",
+      "lastMonth": "2025-07",
+      "months": [
+        {
+          "period": "2024-01",
+          "turnover": 4200.65,
+          "items": 4
+        },
+        {
+          "period": "2024-06",
+          "turnover": 3797.7,
+          "items": 7
+        },
+        {
+          "period": "2024-07",
+          "turnover": 2700.55,
+          "items": 3
+        },
+        {
+          "period": "2024-09",
+          "turnover": 1116.05,
+          "items": 2
+        },
+        {
+          "period": "2024-10",
+          "turnover": 821.7,
+          "items": 1
+        },
+        {
+          "period": "2025-01",
+          "turnover": 23998.71,
+          "items": 8
+        },
+        {
+          "period": "2025-03",
+          "turnover": 3744.25,
+          "items": 1
+        },
+        {
+          "period": "2025-04",
+          "turnover": 14872.45,
+          "items": 2
+        },
+        {
+          "period": "2025-06",
+          "turnover": 160,
+          "items": 1
+        },
+        {
+          "period": "2025-07",
+          "turnover": 6929.82,
+          "items": 1
+        }
+      ],
+      "totalTurnover": 62341.88,
+      "totalItems": 30,
+      "avgItemsPerMonth": 3,
+      "turnoverDeltaAbs": 2729.17,
+      "turnoverDeltaPct": 64.97018318593551,
+      "itemsDeltaAbs": -3,
+      "itemsDeltaPct": -75,
+      "turnoverTrend": "UP",
+      "itemsTrend": "DOWN"
+    },
+    {
+      "slug": "swiss-automotive-group-cz-sro",
+      "name": "Swiss Automotive Group CZ s.r.o.",
+      "abbreviation": "SA",
+      "firstMonth": "2024-01",
+      "lastMonth": "2024-12",
+      "months": [
+        {
+          "period": "2024-01",
+          "turnover": 4751.12,
+          "items": 15
+        },
+        {
+          "period": "2024-02",
+          "turnover": 5834.4,
+          "items": 2
+        },
+        {
+          "period": "2024-03",
+          "turnover": 367.6,
+          "items": 1
+        },
+        {
+          "period": "2024-05",
+          "turnover": 33782.4,
+          "items": 5
+        },
+        {
+          "period": "2024-09",
+          "turnover": 207,
+          "items": 1
+        },
+        {
+          "period": "2024-11",
+          "turnover": 664.8,
+          "items": 1
+        },
+        {
+          "period": "2024-12",
+          "turnover": 604,
+          "items": 1
+        }
+      ],
+      "totalTurnover": 46211.32000000001,
+      "totalItems": 26,
+      "avgItemsPerMonth": 3.7142857142857144,
+      "turnoverDeltaAbs": -4147.12,
+      "turnoverDeltaPct": -87.2872080688343,
+      "itemsDeltaAbs": -14,
+      "itemsDeltaPct": -93.33333333333333,
+      "turnoverTrend": "DOWN",
+      "itemsTrend": "DOWN"
+    },
+    {
+      "slug": "accord-car-servis-sro",
+      "name": "ACCORD CAR servis s.r.o.",
+      "abbreviation": "AC",
+      "firstMonth": "2024-01",
+      "lastMonth": "2024-08",
+      "months": [
+        {
+          "period": "2024-01",
+          "turnover": 170.1,
+          "items": 1
+        },
+        {
+          "period": "2024-02",
+          "turnover": 38169.5,
+          "items": 18
+        },
+        {
+          "period": "2024-05",
+          "turnover": 4577,
+          "items": 4
+        },
+        {
+          "period": "2024-08",
+          "turnover": 2224.8,
+          "items": 2
+        }
+      ],
+      "totalTurnover": 45141.4,
+      "totalItems": 25,
+      "avgItemsPerMonth": 6.25,
+      "turnoverDeltaAbs": 2054.7000000000003,
+      "turnoverDeltaPct": 1207.9365079365082,
+      "itemsDeltaAbs": 1,
+      "itemsDeltaPct": 100,
+      "turnoverTrend": "UP",
+      "itemsTrend": "UP"
+    },
+    {
+      "slug": "go4lube-sro",
+      "name": "Go4Lube s.r.o.",
+      "abbreviation": "GS",
+      "firstMonth": "2024-04",
+      "lastMonth": "2025-04",
+      "months": [
+        {
+          "period": "2024-04",
+          "turnover": 15048.92,
+          "items": 1
+        },
+        {
+          "period": "2024-11",
+          "turnover": 14003.44,
+          "items": 1
+        },
+        {
+          "period": "2025-04",
+          "turnover": 13462.84,
+          "items": 1
+        }
+      ],
+      "totalTurnover": 42515.2,
+      "totalItems": 3,
+      "avgItemsPerMonth": 1,
+      "turnoverDeltaAbs": -1586.08,
+      "turnoverDeltaPct": -10.539493864011504,
+      "itemsDeltaAbs": 0,
+      "itemsDeltaPct": 0,
+      "turnoverTrend": "DOWN",
+      "itemsTrend": "FLAT"
+    },
+    {
+      "slug": "virmo",
+      "name": "VIRMO",
+      "abbreviation": "V",
+      "firstMonth": "2024-04",
+      "lastMonth": "2024-04",
+      "months": [
+        {
+          "period": "2024-04",
+          "turnover": 40001.89,
+          "items": 1
+        }
+      ],
+      "totalTurnover": 40001.89,
+      "totalItems": 1,
+      "avgItemsPerMonth": 1,
+      "turnoverDeltaAbs": 0,
+      "turnoverDeltaPct": 0,
+      "itemsDeltaAbs": 0,
+      "itemsDeltaPct": 0,
+      "turnoverTrend": "FLAT",
+      "itemsTrend": "FLAT"
+    },
+    {
+      "slug": "kodecar-hk-spol-s-ro",
+      "name": "KODECAR HK, spol. s r.o.",
+      "abbreviation": "KH",
+      "firstMonth": "2024-05",
+      "lastMonth": "2024-08",
+      "months": [
+        {
+          "period": "2024-05",
+          "turnover": 16650.48,
+          "items": 1
+        },
+        {
+          "period": "2024-08",
+          "turnover": 16597.58,
+          "items": 4
+        }
+      ],
+      "totalTurnover": 33248.06,
+      "totalItems": 5,
+      "avgItemsPerMonth": 2.5,
+      "turnoverDeltaAbs": -52.89999999999782,
+      "turnoverDeltaPct": -0.31770855855205266,
+      "itemsDeltaAbs": 3,
+      "itemsDeltaPct": 300,
+      "turnoverTrend": "FLAT",
+      "itemsTrend": "UP"
+    },
+    {
+      "slug": "eaa-oil-sro",
+      "name": "EAA - OIL, s.r.o.",
+      "abbreviation": "E-",
+      "firstMonth": "2024-01",
+      "lastMonth": "2025-08",
+      "months": [
+        {
+          "period": "2024-01",
+          "turnover": 145,
+          "items": 1
+        },
+        {
+          "period": "2024-06",
+          "turnover": 6396,
+          "items": 4
+        },
+        {
+          "period": "2024-10",
+          "turnover": 16340,
+          "items": 5
+        },
+        {
+          "period": "2025-02",
+          "turnover": 6380,
+          "items": 2
+        },
+        {
+          "period": "2025-08",
+          "turnover": 3592,
+          "items": 2
+        }
+      ],
+      "totalTurnover": 32853,
+      "totalItems": 14,
+      "avgItemsPerMonth": 2.8,
+      "turnoverDeltaAbs": 3447,
+      "turnoverDeltaPct": 2377.241379310345,
+      "itemsDeltaAbs": 1,
+      "itemsDeltaPct": 100,
+      "turnoverTrend": "UP",
+      "itemsTrend": "UP"
+    },
+    {
+      "slug": "auto-slavek-sro",
+      "name": "Auto Slavíček s.r.o.",
+      "abbreviation": "AS",
+      "firstMonth": "2024-01",
+      "lastMonth": "2025-02",
+      "months": [
+        {
+          "period": "2024-01",
+          "turnover": 578.55,
+          "items": 1
+        },
+        {
+          "period": "2024-02",
+          "turnover": 5529.27,
+          "items": 6
+        },
+        {
+          "period": "2024-03",
+          "turnover": 2511.5,
+          "items": 3
+        },
+        {
+          "period": "2024-04",
+          "turnover": 2134.17,
+          "items": 3
+        },
+        {
+          "period": "2024-05",
+          "turnover": 2339.96,
+          "items": 3
+        },
+        {
+          "period": "2024-06",
+          "turnover": 6109.12,
+          "items": 3
+        },
+        {
+          "period": "2024-07",
+          "turnover": 2292.67,
+          "items": 3
+        },
+        {
+          "period": "2024-08",
+          "turnover": 1462.7,
+          "items": 2
+        },
+        {
+          "period": "2024-09",
+          "turnover": 318.58,
+          "items": 1
+        },
+        {
+          "period": "2024-10",
+          "turnover": 2867.97,
+          "items": 3
+        },
+        {
+          "period": "2024-12",
+          "turnover": 1172.84,
+          "items": 2
+        },
+        {
+          "period": "2025-02",
+          "turnover": 2336.46,
+          "items": 3
+        }
+      ],
+      "totalTurnover": 29653.79,
+      "totalItems": 33,
+      "avgItemsPerMonth": 2.75,
+      "turnoverDeltaAbs": 1757.91,
+      "turnoverDeltaPct": 303.8475499092559,
+      "itemsDeltaAbs": 2,
+      "itemsDeltaPct": 200,
+      "turnoverTrend": "UP",
+      "itemsTrend": "UP"
+    },
+    {
+      "slug": "regina-as",
+      "name": "Regina, a.s.",
+      "abbreviation": "RA",
+      "firstMonth": "2024-01",
+      "lastMonth": "2025-02",
+      "months": [
+        {
+          "period": "2024-01",
+          "turnover": 3789.9,
+          "items": 2
+        },
+        {
+          "period": "2024-02",
+          "turnover": 4855.76,
+          "items": 4
+        },
+        {
+          "period": "2024-03",
+          "turnover": 4701.6,
+          "items": 1
+        },
+        {
+          "period": "2024-04",
+          "turnover": 199.26,
+          "items": 1
+        },
+        {
+          "period": "2024-07",
+          "turnover": 897.9,
+          "items": 2
+        },
+        {
+          "period": "2024-09",
+          "turnover": 4800.92,
+          "items": 2
+        },
+        {
+          "period": "2024-10",
+          "turnover": 4988.22,
+          "items": 2
+        },
+        {
+          "period": "2024-12",
+          "turnover": 557.8,
+          "items": 1
+        },
+        {
+          "period": "2025-02",
+          "turnover": 4784.81,
+          "items": 1
+        }
+      ],
+      "totalTurnover": 29576.170000000002,
+      "totalItems": 16,
+      "avgItemsPerMonth": 1.7777777777777777,
+      "turnoverDeltaAbs": 994.9100000000003,
+      "turnoverDeltaPct": 26.251616137628968,
+      "itemsDeltaAbs": -1,
+      "itemsDeltaPct": -50,
+      "turnoverTrend": "UP",
+      "itemsTrend": "DOWN"
+    },
+    {
+      "slug": "france-car-sro",
+      "name": "FRANCE CAR, s.r.o.",
+      "abbreviation": "FC",
+      "firstMonth": "2024-01",
+      "lastMonth": "2025-08",
+      "months": [
+        {
+          "period": "2024-01",
+          "turnover": 6934.46,
+          "items": 2
+        },
+        {
+          "period": "2024-04",
+          "turnover": 402.95,
+          "items": 1
+        },
+        {
+          "period": "2024-05",
+          "turnover": 1081.9,
+          "items": 2
+        },
+        {
+          "period": "2024-07",
+          "turnover": 2015.3,
+          "items": 2
+        },
+        {
+          "period": "2024-09",
+          "turnover": 5808.35,
+          "items": 1
+        },
+        {
+          "period": "2024-10",
+          "turnover": 1933.14,
+          "items": 1
+        },
+        {
+          "period": "2025-02",
+          "turnover": 289.34,
+          "items": 1
+        },
+        {
+          "period": "2025-04",
+          "turnover": 1674.12,
+          "items": 2
+        },
+        {
+          "period": "2025-05",
+          "turnover": 1211.65,
+          "items": 1
+        },
+        {
+          "period": "2025-06",
+          "turnover": 1612.49,
+          "items": 2
+        },
+        {
+          "period": "2025-08",
+          "turnover": 4865.09,
+          "items": 1
+        }
+      ],
+      "totalTurnover": 27828.79,
+      "totalItems": 16,
+      "avgItemsPerMonth": 1.4545454545454546,
+      "turnoverDeltaAbs": -2069.37,
+      "turnoverDeltaPct": -29.8418333943811,
+      "itemsDeltaAbs": -1,
+      "itemsDeltaPct": -50,
+      "turnoverTrend": "DOWN",
+      "itemsTrend": "DOWN"
+    },
+    {
+      "slug": "pneu-hndek-sro",
+      "name": "PNEU HNÍDEK s.r.o.",
+      "abbreviation": "PH",
+      "firstMonth": "2024-01",
+      "lastMonth": "2024-10",
+      "months": [
+        {
+          "period": "2024-01",
+          "turnover": 17520,
+          "items": 1
+        },
+        {
+          "period": "2024-04",
+          "turnover": 1459.5,
+          "items": 1
+        },
+        {
+          "period": "2024-10",
+          "turnover": 8349.72,
+          "items": 1
+        }
+      ],
+      "totalTurnover": 27329.22,
+      "totalItems": 3,
+      "avgItemsPerMonth": 1,
+      "turnoverDeltaAbs": -9170.28,
+      "turnoverDeltaPct": -52.341780821917816,
+      "itemsDeltaAbs": 0,
+      "itemsDeltaPct": 0,
+      "turnoverTrend": "DOWN",
+      "itemsTrend": "FLAT"
+    },
+    {
+      "slug": "allstar-trading-sro",
+      "name": "Allstar Trading s.r.o.",
+      "abbreviation": "AT",
+      "firstMonth": "2025-07",
+      "lastMonth": "2025-08",
+      "months": [
+        {
+          "period": "2025-07",
+          "turnover": 12215.02,
+          "items": 20
+        },
+        {
+          "period": "2025-08",
+          "turnover": 12055.91,
+          "items": 9
+        }
+      ],
+      "totalTurnover": 24270.93,
+      "totalItems": 29,
+      "avgItemsPerMonth": 14.5,
+      "turnoverDeltaAbs": -159.11000000000058,
+      "turnoverDeltaPct": -1.302576663812262,
+      "itemsDeltaAbs": -11,
+      "itemsDeltaPct": -55.00000000000001,
+      "turnoverTrend": "FLAT",
+      "itemsTrend": "DOWN"
+    },
+    {
+      "slug": "auto-hotrek-sro",
+      "name": "AUTO HOTÁREK s.r.o.",
+      "abbreviation": "AH",
+      "firstMonth": "2024-01",
+      "lastMonth": "2025-08",
+      "months": [
+        {
+          "period": "2024-01",
+          "turnover": 850,
+          "items": 2
+        },
+        {
+          "period": "2024-02",
+          "turnover": 910,
+          "items": 2
+        },
+        {
+          "period": "2024-04",
+          "turnover": 460,
+          "items": 1
+        },
+        {
+          "period": "2024-05",
+          "turnover": 630,
+          "items": 1
+        },
+        {
+          "period": "2024-06",
+          "turnover": 960,
+          "items": 2
+        },
+        {
+          "period": "2024-07",
+          "turnover": 560,
+          "items": 1
+        },
+        {
+          "period": "2024-08",
+          "turnover": 480,
+          "items": 1
+        },
+        {
+          "period": "2024-09",
+          "turnover": 1760,
+          "items": 2
+        },
+        {
+          "period": "2024-10",
+          "turnover": 1060,
+          "items": 2
+        },
+        {
+          "period": "2025-01",
+          "turnover": 3600,
+          "items": 5
+        },
+        {
+          "period": "2025-02",
+          "turnover": 2285,
+          "items": 3
+        },
+        {
+          "period": "2025-03",
+          "turnover": 1680,
+          "items": 3
+        },
+        {
+          "period": "2025-04",
+          "turnover": 348,
+          "items": 2
+        },
+        {
+          "period": "2025-05",
+          "turnover": 1819,
+          "items": 3
+        },
+        {
+          "period": "2025-06",
+          "turnover": 3045,
+          "items": 5
+        },
+        {
+          "period": "2025-08",
+          "turnover": 2160,
+          "items": 2
+        }
+      ],
+      "totalTurnover": 22607,
+      "totalItems": 37,
+      "avgItemsPerMonth": 2.3125,
+      "turnoverDeltaAbs": 1310,
+      "turnoverDeltaPct": 154.11764705882354,
+      "itemsDeltaAbs": 0,
+      "itemsDeltaPct": 0,
+      "turnoverTrend": "UP",
+      "itemsTrend": "FLAT"
+    },
+    {
+      "slug": "simix-spol-s-ro",
+      "name": "SIMIX, spol. s r.o.",
+      "abbreviation": "SS",
+      "firstMonth": "2025-04",
+      "lastMonth": "2025-06",
+      "months": [
+        {
+          "period": "2025-04",
+          "turnover": 3587.6,
+          "items": 1
+        },
+        {
+          "period": "2025-06",
+          "turnover": 18126,
+          "items": 2
+        }
+      ],
+      "totalTurnover": 21713.6,
+      "totalItems": 3,
+      "avgItemsPerMonth": 1.5,
+      "turnoverDeltaAbs": 14538.4,
+      "turnoverDeltaPct": 405.24027204816593,
+      "itemsDeltaAbs": 1,
+      "itemsDeltaPct": 100,
+      "turnoverTrend": "UP",
+      "itemsTrend": "UP"
+    },
+    {
+      "slug": "hyundai-hradec-sro",
+      "name": "Hyundai Hradec s.r.o.",
+      "abbreviation": "HH",
+      "firstMonth": "2024-02",
+      "lastMonth": "2025-08",
+      "months": [
+        {
+          "period": "2024-02",
+          "turnover": 579.6,
+          "items": 1
+        },
+        {
+          "period": "2024-03",
+          "turnover": 387,
+          "items": 2
+        },
+        {
+          "period": "2024-05",
+          "turnover": 3277.8,
+          "items": 1
+        },
+        {
+          "period": "2024-06",
+          "turnover": 7520.4,
+          "items": 4
+        },
+        {
+          "period": "2024-08",
+          "turnover": 579.6,
+          "items": 1
+        },
+        {
+          "period": "2024-11",
+          "turnover": 3093.3,
+          "items": 1
+        },
+        {
+          "period": "2025-02",
+          "turnover": 1734,
+          "items": 2
+        },
+        {
+          "period": "2025-04",
+          "turnover": 385.9,
+          "items": 1
+        },
+        {
+          "period": "2025-08",
+          "turnover": 3346.45,
+          "items": 1
+        }
+      ],
+      "totalTurnover": 20904.050000000003,
+      "totalItems": 14,
+      "avgItemsPerMonth": 1.5555555555555556,
+      "turnoverDeltaAbs": 2766.85,
+      "turnoverDeltaPct": 477.37232574189096,
+      "itemsDeltaAbs": 0,
+      "itemsDeltaPct": 0,
+      "turnoverTrend": "UP",
+      "itemsTrend": "FLAT"
+    },
+    {
+      "slug": "siems-a-klein-spol-s-ro",
+      "name": "Siems a Klein, spol. s r.o.",
+      "abbreviation": "SA",
+      "firstMonth": "2025-03",
+      "lastMonth": "2025-03",
+      "months": [
+        {
+          "period": "2025-03",
+          "turnover": 20079,
+          "items": 2
+        }
+      ],
+      "totalTurnover": 20079,
+      "totalItems": 2,
+      "avgItemsPerMonth": 2,
+      "turnoverDeltaAbs": 0,
+      "turnoverDeltaPct": 0,
+      "itemsDeltaAbs": 0,
+      "itemsDeltaPct": 0,
+      "turnoverTrend": "FLAT",
+      "itemsTrend": "FLAT"
+    },
+    {
+      "slug": "ezop-protec-sro",
+      "name": "EZOP - PROTEC s.r.o.",
+      "abbreviation": "E-",
+      "firstMonth": "2025-02",
+      "lastMonth": "2025-08",
+      "months": [
+        {
+          "period": "2025-02",
+          "turnover": 7465,
+          "items": 13
+        },
+        {
+          "period": "2025-04",
+          "turnover": 4910,
+          "items": 7
+        },
+        {
+          "period": "2025-05",
+          "turnover": 2360,
+          "items": 6
+        },
+        {
+          "period": "2025-08",
+          "turnover": 3200,
+          "items": 3
+        }
+      ],
+      "totalTurnover": 17935,
+      "totalItems": 29,
+      "avgItemsPerMonth": 7.25,
+      "turnoverDeltaAbs": -4265,
+      "turnoverDeltaPct": -57.13328868050904,
+      "itemsDeltaAbs": -10,
+      "itemsDeltaPct": -76.92307692307693,
+      "turnoverTrend": "DOWN",
+      "itemsTrend": "DOWN"
+    },
+    {
+      "slug": "autosklo-servis-cz-sro",
+      "name": "Autosklo - servis CZ s.r.o.",
+      "abbreviation": "A-",
+      "firstMonth": "2024-06",
+      "lastMonth": "2025-01",
+      "months": [
+        {
+          "period": "2024-06",
+          "turnover": 9000,
+          "items": 2
+        },
+        {
+          "period": "2024-07",
+          "turnover": 3900,
+          "items": 1
+        },
+        {
+          "period": "2025-01",
+          "turnover": 4100,
+          "items": 1
+        }
+      ],
+      "totalTurnover": 17000,
+      "totalItems": 4,
+      "avgItemsPerMonth": 1.3333333333333333,
+      "turnoverDeltaAbs": -4900,
+      "turnoverDeltaPct": -54.44444444444444,
+      "itemsDeltaAbs": -1,
+      "itemsDeltaPct": -50,
+      "turnoverTrend": "DOWN",
+      "itemsTrend": "DOWN"
+    },
+    {
+      "slug": "stualarm-import-sro",
+      "name": "STUALARM IMPORT, s.r.o.",
+      "abbreviation": "SI",
+      "firstMonth": "2024-01",
+      "lastMonth": "2025-06",
+      "months": [
+        {
+          "period": "2024-01",
+          "turnover": 409,
+          "items": 2
+        },
+        {
+          "period": "2024-02",
+          "turnover": 5540,
+          "items": 5
+        },
+        {
+          "period": "2024-05",
+          "turnover": 273,
+          "items": 1
+        },
+        {
+          "period": "2024-06",
+          "turnover": 1486,
+          "items": 4
+        },
+        {
+          "period": "2024-07",
+          "turnover": 1005,
+          "items": 2
+        },
+        {
+          "period": "2024-07",
+          "turnover": 315,
+          "items": 1
+        },
+        {
+          "period": "2024-11",
+          "turnover": 1245,
+          "items": 2
+        },
+        {
+          "period": "2025-01",
+          "turnover": 2210,
+          "items": 4
+        },
+        {
+          "period": "2025-03",
+          "turnover": 822,
+          "items": 2
+        },
+        {
+          "period": "2025-05",
+          "turnover": 807,
+          "items": 1
+        },
+        {
+          "period": "2025-06",
+          "turnover": 2040,
+          "items": 7
+        }
+      ],
+      "totalTurnover": 16152,
+      "totalItems": 31,
+      "avgItemsPerMonth": 2.8181818181818183,
+      "turnoverDeltaAbs": 1631,
+      "turnoverDeltaPct": 398.77750611246944,
+      "itemsDeltaAbs": 5,
+      "itemsDeltaPct": 250,
+      "turnoverTrend": "UP",
+      "itemsTrend": "UP"
+    },
+    {
+      "slug": "dekom-system-sro",
+      "name": "DEKOM SYSTEM, s.r.o.",
+      "abbreviation": "DS",
+      "firstMonth": "2024-04",
+      "lastMonth": "2025-04",
+      "months": [
+        {
+          "period": "2024-04",
+          "turnover": 3982.62,
+          "items": 2
+        },
+        {
+          "period": "2024-08",
+          "turnover": 6978.3,
+          "items": 2
+        },
+        {
+          "period": "2024-09",
+          "turnover": 1306.61,
+          "items": 1
+        },
+        {
+          "period": "2024-11",
+          "turnover": 1759.3,
+          "items": 2
+        },
+        {
+          "period": "2025-02",
+          "turnover": 644.37,
+          "items": 3
+        },
+        {
+          "period": "2025-04",
+          "turnover": 1188.92,
+          "items": 2
+        }
+      ],
+      "totalTurnover": 15860.12,
+      "totalItems": 12,
+      "avgItemsPerMonth": 2,
+      "turnoverDeltaAbs": -2793.7,
+      "turnoverDeltaPct": -70.14728997494112,
+      "itemsDeltaAbs": 0,
+      "itemsDeltaPct": 0,
+      "turnoverTrend": "DOWN",
+      "itemsTrend": "FLAT"
+    },
+    {
+      "slug": "auto-kratochvl-sro",
+      "name": "AUTO KRATOCHVÍL s.r.o.",
+      "abbreviation": "AK",
+      "firstMonth": "2024-01",
+      "lastMonth": "2024-07",
+      "months": [
+        {
+          "period": "2024-01",
+          "turnover": 4370.44,
+          "items": 2
+        },
+        {
+          "period": "2024-03",
+          "turnover": 1744.2,
+          "items": 2
+        },
+        {
+          "period": "2024-05",
+          "turnover": 1030.75,
+          "items": 1
+        },
+        {
+          "period": "2024-07",
+          "turnover": 8349.55,
+          "items": 3
+        }
+      ],
+      "totalTurnover": 15494.939999999999,
+      "totalItems": 8,
+      "avgItemsPerMonth": 2,
+      "turnoverDeltaAbs": 3979.1099999999997,
+      "turnoverDeltaPct": 91.04598164029251,
+      "itemsDeltaAbs": 1,
+      "itemsDeltaPct": 50,
+      "turnoverTrend": "UP",
+      "itemsTrend": "UP"
+    },
+    {
+      "slug": "viktor-teimer",
+      "name": "Viktor Teimer",
+      "abbreviation": "VT",
+      "firstMonth": "2024-01",
+      "lastMonth": "2025-08",
+      "months": [
+        {
+          "period": "2024-01",
+          "turnover": 2091.48,
+          "items": 2
+        },
+        {
+          "period": "2024-03",
+          "turnover": 213.03,
+          "items": 1
+        },
+        {
+          "period": "2024-04",
+          "turnover": 876.79,
+          "items": 3
+        },
+        {
+          "period": "2024-05",
+          "turnover": 251,
+          "items": 1
+        },
+        {
+          "period": "2024-07",
+          "turnover": 1081.74,
+          "items": 2
+        },
+        {
+          "period": "2024-08",
+          "turnover": 1658.19,
+          "items": 3
+        },
+        {
+          "period": "2024-09",
+          "turnover": 1224.3,
+          "items": 3
+        },
+        {
+          "period": "2024-11",
+          "turnover": 1106.98,
+          "items": 2
+        },
+        {
+          "period": "2024-12",
+          "turnover": 1209.88,
+          "items": 3
+        },
+        {
+          "period": "2025-03",
+          "turnover": 742.66,
+          "items": 2
+        },
+        {
+          "period": "2025-04",
+          "turnover": 783.08,
+          "items": 1
+        },
+        {
+          "period": "2025-08",
+          "turnover": 1620.46,
+          "items": 3
+        }
+      ],
+      "totalTurnover": 12859.59,
+      "totalItems": 26,
+      "avgItemsPerMonth": 2.1666666666666665,
+      "turnoverDeltaAbs": -471.02,
+      "turnoverDeltaPct": -22.52089429494903,
+      "itemsDeltaAbs": 1,
+      "itemsDeltaPct": 50,
+      "turnoverTrend": "DOWN",
+      "itemsTrend": "UP"
+    },
+    {
+      "slug": "regio-auto-spol-s-ro",
+      "name": "REGIO AUTO, spol. s r.o.",
+      "abbreviation": "RA",
+      "firstMonth": "2024-01",
+      "lastMonth": "2025-07",
+      "months": [
+        {
+          "period": "2024-01",
+          "turnover": 5140.65,
+          "items": 2
+        },
+        {
+          "period": "2024-02",
+          "turnover": 444.6,
+          "items": 1
+        },
+        {
+          "period": "2024-09",
+          "turnover": 822.6,
+          "items": 1
+        },
+        {
+          "period": "2025-01",
+          "turnover": 898.2,
+          "items": 1
+        },
+        {
+          "period": "2025-03",
+          "turnover": 788.4,
+          "items": 1
+        },
+        {
+          "period": "2025-07",
+          "turnover": 4726.25,
+          "items": 1
+        }
+      ],
+      "totalTurnover": 12820.7,
+      "totalItems": 7,
+      "avgItemsPerMonth": 1.1666666666666667,
+      "turnoverDeltaAbs": -414.39999999999964,
+      "turnoverDeltaPct": -8.061237392158572,
+      "itemsDeltaAbs": -1,
+      "itemsDeltaPct": -50,
+      "turnoverTrend": "DOWN",
+      "itemsTrend": "DOWN"
+    },
+    {
+      "slug": "piotr-fijak",
+      "name": "PIOTR FIJAK",
+      "abbreviation": "PF",
+      "firstMonth": "2024-05",
+      "lastMonth": "2024-05",
+      "months": [
+        {
+          "period": "2024-05",
+          "turnover": 11590,
+          "items": 1
+        }
+      ],
+      "totalTurnover": 11590,
+      "totalItems": 1,
+      "avgItemsPerMonth": 1,
+      "turnoverDeltaAbs": 0,
+      "turnoverDeltaPct": 0,
+      "itemsDeltaAbs": 0,
+      "itemsDeltaPct": 0,
+      "turnoverTrend": "FLAT",
+      "itemsTrend": "FLAT"
+    },
+    {
+      "slug": "jp-mats-group-sro",
+      "name": "JP MAT's group s.r.o.",
+      "abbreviation": "JM",
+      "firstMonth": "2025-05",
+      "lastMonth": "2025-05",
+      "months": [
+        {
+          "period": "2025-05",
+          "turnover": 11569.42,
+          "items": 1
+        }
+      ],
+      "totalTurnover": 11569.42,
+      "totalItems": 1,
+      "avgItemsPerMonth": 1,
+      "turnoverDeltaAbs": 0,
+      "turnoverDeltaPct": 0,
+      "itemsDeltaAbs": 0,
+      "itemsDeltaPct": 0,
+      "turnoverTrend": "FLAT",
+      "itemsTrend": "FLAT"
+    },
+    {
+      "slug": "ms-pneuservis",
+      "name": "MS PNEUSERVIS",
+      "abbreviation": "MP",
+      "firstMonth": "2024-01",
+      "lastMonth": "2024-01",
+      "months": [
+        {
+          "period": "2024-01",
+          "turnover": 11388,
+          "items": 1
+        }
+      ],
+      "totalTurnover": 11388,
+      "totalItems": 1,
+      "avgItemsPerMonth": 1,
+      "turnoverDeltaAbs": 0,
+      "turnoverDeltaPct": 0,
+      "itemsDeltaAbs": 0,
+      "itemsDeltaPct": 0,
+      "turnoverTrend": "FLAT",
+      "itemsTrend": "FLAT"
+    },
+    {
+      "slug": "olfin-car-sro-volvo",
+      "name": "OLFIN car s.r.o Volvo",
+      "abbreviation": "OC",
+      "firstMonth": "2024-09",
+      "lastMonth": "2025-02",
+      "months": [
+        {
+          "period": "2024-09",
+          "turnover": 342.9,
+          "items": 1
+        },
+        {
+          "period": "2024-10",
+          "turnover": 612,
+          "items": 1
+        },
+        {
+          "period": "2024-12",
+          "turnover": 8199.02,
+          "items": 1
+        },
+        {
+          "period": "2025-02",
+          "turnover": 2145.23,
+          "items": 1
+        }
+      ],
+      "totalTurnover": 11299.15,
+      "totalItems": 4,
+      "avgItemsPerMonth": 1,
+      "turnoverDeltaAbs": 1802.33,
+      "turnoverDeltaPct": 525.6138815981336,
+      "itemsDeltaAbs": 0,
+      "itemsDeltaPct": 0,
+      "turnoverTrend": "UP",
+      "itemsTrend": "FLAT"
+    },
+    {
+      "slug": "petr-novotn",
+      "name": "Petr Novotný",
+      "abbreviation": "PN",
+      "firstMonth": "2025-01",
+      "lastMonth": "2025-01",
+      "months": [
+        {
+          "period": "2025-01",
+          "turnover": 9916.53,
+          "items": 1
+        }
+      ],
+      "totalTurnover": 9916.53,
+      "totalItems": 1,
+      "avgItemsPerMonth": 1,
+      "turnoverDeltaAbs": 0,
+      "turnoverDeltaPct": 0,
+      "itemsDeltaAbs": 0,
+      "itemsDeltaPct": 0,
+      "turnoverTrend": "FLAT",
+      "itemsTrend": "FLAT"
+    },
+    {
+      "slug": "nc-auto-sro",
+      "name": "NC AUTO, s.r.o.",
+      "abbreviation": "NA",
+      "firstMonth": "2024-05",
+      "lastMonth": "2025-08",
+      "months": [
+        {
+          "period": "2024-05",
+          "turnover": 2178.01,
+          "items": 2
+        },
+        {
+          "period": "2024-06",
+          "turnover": 799.44,
+          "items": 3
+        },
+        {
+          "period": "2025-04",
+          "turnover": 834.14,
+          "items": 1
+        },
+        {
+          "period": "2025-07",
+          "turnover": 1052.83,
+          "items": 1
+        },
+        {
+          "period": "2025-08",
+          "turnover": 4089.85,
+          "items": 3
+        }
+      ],
+      "totalTurnover": 8954.27,
+      "totalItems": 10,
+      "avgItemsPerMonth": 2,
+      "turnoverDeltaAbs": 1911.8399999999997,
+      "turnoverDeltaPct": 87.77921129838704,
+      "itemsDeltaAbs": 1,
+      "itemsDeltaPct": 50,
+      "turnoverTrend": "UP",
+      "itemsTrend": "UP"
+    },
+    {
+      "slug": "radko-polk-subaru",
+      "name": "Radko Polák SUBARU",
+      "abbreviation": "RP",
+      "firstMonth": "2024-03",
+      "lastMonth": "2024-06",
+      "months": [
+        {
+          "period": "2024-03",
+          "turnover": 6175.78,
+          "items": 1
+        },
+        {
+          "period": "2024-05",
+          "turnover": 1593.99,
+          "items": 2
+        },
+        {
+          "period": "2024-06",
+          "turnover": 346.28,
+          "items": 1
+        }
+      ],
+      "totalTurnover": 8116.049999999999,
+      "totalItems": 4,
+      "avgItemsPerMonth": 1.3333333333333333,
+      "turnoverDeltaAbs": -5829.5,
+      "turnoverDeltaPct": -94.39293498149222,
+      "itemsDeltaAbs": 0,
+      "itemsDeltaPct": 0,
+      "turnoverTrend": "DOWN",
+      "itemsTrend": "FLAT"
+    },
+    {
+      "slug": "luk-wagner",
+      "name": "Lukáš Wagner",
+      "abbreviation": "LW",
+      "firstMonth": "2024-09",
+      "lastMonth": "2024-09",
+      "months": [
+        {
+          "period": "2024-09",
+          "turnover": 7438.02,
+          "items": 1
+        }
+      ],
+      "totalTurnover": 7438.02,
+      "totalItems": 1,
+      "avgItemsPerMonth": 1,
+      "turnoverDeltaAbs": 0,
+      "turnoverDeltaPct": 0,
+      "itemsDeltaAbs": 0,
+      "itemsDeltaPct": 0,
+      "turnoverTrend": "FLAT",
+      "itemsTrend": "FLAT"
+    },
+    {
+      "slug": "asn-hakr-brno-sro",
+      "name": "ASN HAKR Brno s.r.o.",
+      "abbreviation": "AH",
+      "firstMonth": "2025-03",
+      "lastMonth": "2025-04",
+      "months": [
+        {
+          "period": "2025-03",
+          "turnover": 4884.29,
+          "items": 2
+        },
+        {
+          "period": "2025-04",
+          "turnover": 1735.54,
+          "items": 1
+        }
+      ],
+      "totalTurnover": 6619.83,
+      "totalItems": 3,
+      "avgItemsPerMonth": 1.5,
+      "turnoverDeltaAbs": -3148.75,
+      "turnoverDeltaPct": -64.46689283396358,
+      "itemsDeltaAbs": -1,
+      "itemsDeltaPct": -50,
+      "turnoverTrend": "DOWN",
+      "itemsTrend": "DOWN"
+    },
+    {
+      "slug": "neumann-spol-s-ro",
+      "name": "NEUMANN, spol. s r.o.",
+      "abbreviation": "NS",
+      "firstMonth": "2024-01",
+      "lastMonth": "2024-01",
+      "months": [
+        {
+          "period": "2024-01",
+          "turnover": 5434.76,
+          "items": 1
+        }
+      ],
+      "totalTurnover": 5434.76,
+      "totalItems": 1,
+      "avgItemsPerMonth": 1,
+      "turnoverDeltaAbs": 0,
+      "turnoverDeltaPct": 0,
+      "itemsDeltaAbs": 0,
+      "itemsDeltaPct": 0,
+      "turnoverTrend": "FLAT",
+      "itemsTrend": "FLAT"
+    },
+    {
+      "slug": "z-trade-s-r-o",
+      "name": "Z - TRADE s. r. o.",
+      "abbreviation": "Z-",
+      "firstMonth": "2024-05",
+      "lastMonth": "2024-05",
+      "months": [
+        {
+          "period": "2024-05",
+          "turnover": 4722.2,
+          "items": 14
+        }
+      ],
+      "totalTurnover": 4722.2,
+      "totalItems": 14,
+      "avgItemsPerMonth": 14,
+      "turnoverDeltaAbs": 0,
+      "turnoverDeltaPct": 0,
+      "itemsDeltaAbs": 0,
+      "itemsDeltaPct": 0,
+      "turnoverTrend": "FLAT",
+      "itemsTrend": "FLAT"
+    },
+    {
+      "slug": "falbe-trade-sro",
+      "name": "FALBE trade s.r.o.",
+      "abbreviation": "FT",
+      "firstMonth": "2024-01",
+      "lastMonth": "2024-01",
+      "months": [
+        {
+          "period": "2024-01",
+          "turnover": 4163,
+          "items": 2
+        }
+      ],
+      "totalTurnover": 4163,
+      "totalItems": 2,
+      "avgItemsPerMonth": 2,
+      "turnoverDeltaAbs": 0,
+      "turnoverDeltaPct": 0,
+      "itemsDeltaAbs": 0,
+      "itemsDeltaPct": 0,
+      "turnoverTrend": "FLAT",
+      "itemsTrend": "FLAT"
+    },
+    {
+      "slug": "tomket-sro",
+      "name": "TOMKET, s.r.o.",
+      "abbreviation": "TS",
+      "firstMonth": "2025-04",
+      "lastMonth": "2025-04",
+      "months": [
+        {
+          "period": "2025-04",
+          "turnover": 4116,
+          "items": 1
+        }
+      ],
+      "totalTurnover": 4116,
+      "totalItems": 1,
+      "avgItemsPerMonth": 1,
+      "turnoverDeltaAbs": 0,
+      "turnoverDeltaPct": 0,
+      "itemsDeltaAbs": 0,
+      "itemsDeltaPct": 0,
+      "turnoverTrend": "FLAT",
+      "itemsTrend": "FLAT"
+    },
+    {
+      "slug": "olvan-nchod-sro",
+      "name": "OLVAN Náchod s.r.o.",
+      "abbreviation": "ON",
+      "firstMonth": "2025-03",
+      "lastMonth": "2025-04",
+      "months": [
+        {
+          "period": "2025-03",
+          "turnover": 1432.35,
+          "items": 1
+        },
+        {
+          "period": "2025-04",
+          "turnover": 2486.78,
+          "items": 1
+        }
+      ],
+      "totalTurnover": 3919.13,
+      "totalItems": 2,
+      "avgItemsPerMonth": 1,
+      "turnoverDeltaAbs": 1054.4300000000003,
+      "turnoverDeltaPct": 73.61538730058996,
+      "itemsDeltaAbs": 0,
+      "itemsDeltaPct": 0,
+      "turnoverTrend": "UP",
+      "itemsTrend": "FLAT"
+    },
+    {
+      "slug": "prooil-morava-sro",
+      "name": "PRO-OIL MORAVA s.r.o.",
+      "abbreviation": "PM",
+      "firstMonth": "2024-01",
+      "lastMonth": "2024-02",
+      "months": [
+        {
+          "period": "2024-01",
+          "turnover": 508,
+          "items": 2
+        },
+        {
+          "period": "2024-02",
+          "turnover": 3348,
+          "items": 4
+        }
+      ],
+      "totalTurnover": 3856,
+      "totalItems": 6,
+      "avgItemsPerMonth": 3,
+      "turnoverDeltaAbs": 2840,
+      "turnoverDeltaPct": 559.0551181102362,
+      "itemsDeltaAbs": 2,
+      "itemsDeltaPct": 100,
+      "turnoverTrend": "UP",
+      "itemsTrend": "UP"
+    },
+    {
+      "slug": "autotech-spol-s-ro",
+      "name": "AUTOTECH spol. s r.o.",
+      "abbreviation": "AS",
+      "firstMonth": "2025-05",
+      "lastMonth": "2025-07",
+      "months": [
+        {
+          "period": "2025-05",
+          "turnover": 2483.72,
+          "items": 1
+        },
+        {
+          "period": "2025-07",
+          "turnover": 1246.01,
+          "items": 1
+        }
+      ],
+      "totalTurnover": 3729.7299999999996,
+      "totalItems": 2,
+      "avgItemsPerMonth": 1,
+      "turnoverDeltaAbs": -1237.7099999999998,
+      "turnoverDeltaPct": -49.83291192243892,
+      "itemsDeltaAbs": 0,
+      "itemsDeltaPct": 0,
+      "turnoverTrend": "DOWN",
+      "itemsTrend": "FLAT"
+    },
+    {
+      "slug": "svtluka-sro",
+      "name": "Světluška s.r.o.",
+      "abbreviation": "SS",
+      "firstMonth": "2025-08",
+      "lastMonth": "2025-08",
+      "months": [
+        {
+          "period": "2025-08",
+          "turnover": 2725.6,
+          "items": 3
+        }
+      ],
+      "totalTurnover": 2725.6,
+      "totalItems": 3,
+      "avgItemsPerMonth": 3,
+      "turnoverDeltaAbs": 0,
+      "turnoverDeltaPct": 0,
+      "itemsDeltaAbs": 0,
+      "itemsDeltaPct": 0,
+      "turnoverTrend": "FLAT",
+      "itemsTrend": "FLAT"
+    },
+    {
+      "slug": "korecar-sro-1",
+      "name": "KoreCar, s.r.o.",
+      "abbreviation": "KS",
+      "firstMonth": "2024-09",
+      "lastMonth": "2024-09",
+      "months": [
+        {
+          "period": "2024-09",
+          "turnover": 2360.16,
+          "items": 1
+        }
+      ],
+      "totalTurnover": 2360.16,
+      "totalItems": 1,
+      "avgItemsPerMonth": 1,
+      "turnoverDeltaAbs": 0,
+      "turnoverDeltaPct": 0,
+      "itemsDeltaAbs": 0,
+      "itemsDeltaPct": 0,
+      "turnoverTrend": "FLAT",
+      "itemsTrend": "FLAT"
+    },
+    {
+      "slug": "resta-dakon-sro",
+      "name": "RESTA DAKON s.r.o.",
+      "abbreviation": "RD",
+      "firstMonth": "2025-06",
+      "lastMonth": "2025-06",
+      "months": [
+        {
+          "period": "2025-06",
+          "turnover": 2157,
+          "items": 4
+        }
+      ],
+      "totalTurnover": 2157,
+      "totalItems": 4,
+      "avgItemsPerMonth": 4,
+      "turnoverDeltaAbs": 0,
+      "turnoverDeltaPct": 0,
+      "itemsDeltaAbs": 0,
+      "itemsDeltaPct": 0,
+      "turnoverTrend": "FLAT",
+      "itemsTrend": "FLAT"
+    },
+    {
+      "slug": "luk-janda",
+      "name": "Lukáš Janda",
+      "abbreviation": "LJ",
+      "firstMonth": "2025-03",
+      "lastMonth": "2025-03",
+      "months": [
+        {
+          "period": "2025-03",
+          "turnover": 2118,
+          "items": 1
+        }
+      ],
+      "totalTurnover": 2118,
+      "totalItems": 1,
+      "avgItemsPerMonth": 1,
+      "turnoverDeltaAbs": 0,
+      "turnoverDeltaPct": 0,
+      "itemsDeltaAbs": 0,
+      "itemsDeltaPct": 0,
+      "turnoverTrend": "FLAT",
+      "itemsTrend": "FLAT"
+    },
+    {
+      "slug": "auto-moto-hakr-sro",
+      "name": "Auto Moto HAKR s.r.o.",
+      "abbreviation": "AM",
+      "firstMonth": "2024-01",
+      "lastMonth": "2024-01",
+      "months": [
+        {
+          "period": "2024-01",
+          "turnover": 2036.36,
+          "items": 2
+        }
+      ],
+      "totalTurnover": 2036.36,
+      "totalItems": 2,
+      "avgItemsPerMonth": 2,
+      "turnoverDeltaAbs": 0,
+      "turnoverDeltaPct": 0,
+      "itemsDeltaAbs": 0,
+      "itemsDeltaPct": 0,
+      "turnoverTrend": "FLAT",
+      "itemsTrend": "FLAT"
+    },
+    {
+      "slug": "korecar-sro",
+      "name": "KoreCar s.r.o.",
+      "abbreviation": "KS",
+      "firstMonth": "2025-05",
+      "lastMonth": "2025-05",
+      "months": [
+        {
+          "period": "2025-05",
+          "turnover": 1867.07,
+          "items": 1
+        }
+      ],
+      "totalTurnover": 1867.07,
+      "totalItems": 1,
+      "avgItemsPerMonth": 1,
+      "turnoverDeltaAbs": 0,
+      "turnoverDeltaPct": 0,
+      "itemsDeltaAbs": 0,
+      "itemsDeltaPct": 0,
+      "turnoverTrend": "FLAT",
+      "itemsTrend": "FLAT"
+    },
+    {
+      "slug": "tukas-as",
+      "name": "TUkas a.s.",
+      "abbreviation": "TA",
+      "firstMonth": "2025-02",
+      "lastMonth": "2025-02",
+      "months": [
+        {
+          "period": "2025-02",
+          "turnover": 1375,
+          "items": 1
+        }
+      ],
+      "totalTurnover": 1375,
+      "totalItems": 1,
+      "avgItemsPerMonth": 1,
+      "turnoverDeltaAbs": 0,
+      "turnoverDeltaPct": 0,
+      "itemsDeltaAbs": 0,
+      "itemsDeltaPct": 0,
+      "turnoverTrend": "FLAT",
+      "itemsTrend": "FLAT"
+    },
+    {
+      "slug": "autosalon-ddek-sro",
+      "name": "AUTOSALON DĚDEK, s.r.o.",
+      "abbreviation": "AD",
+      "firstMonth": "2024-02",
+      "lastMonth": "2024-02",
+      "months": [
+        {
+          "period": "2024-02",
+          "turnover": 177,
+          "items": 1
+        }
+      ],
+      "totalTurnover": 177,
+      "totalItems": 1,
+      "avgItemsPerMonth": 1,
+      "turnoverDeltaAbs": 0,
+      "turnoverDeltaPct": 0,
+      "itemsDeltaAbs": 0,
+      "itemsDeltaPct": 0,
+      "turnoverTrend": "FLAT",
+      "itemsTrend": "FLAT"
+    }
+  ],
+  "generatedAt": "2025-09-22T10:10:40.392Z"
+}

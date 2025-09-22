@@ -6,8 +6,17 @@ export const COLUMN_MAPPING = {
   marginPct: ['marže %', 'marze %', 'marže', 'marze', 'margin', 'margin %', 'margin%', 'marže/výdej', 'marze/vydej']
 } as const;
 
+// Mapování pro dodavatele
+export const SUPPLIER_COLUMN_MAPPING = {
+  supplier: ['dodavatel', 'supplier', 'firma', 'název', 'nazev', 'zkratka'],
+  turnover: ['obrat', 'turnover', 'tržby', 'trzby', 'částka', 'castka', 'suma'],
+  items: ['položky', 'polozky', 'items', 'ks', 'počet', 'pocet', 'množství', 'mnozstvi']
+} as const;
+
 export const DATA_DIR = 'data/dvur';
+export const SUPPLIER_DATA_DIR = 'data/dodavatele';
 export const PROCESSED_DATA_PATH = 'public/data/processed.json';
+export const PROCESSED_SUPPLIER_DATA_PATH = 'public/data/suppliers.json';
 
 // Regex pro parsování názvů souborů
 export const FILENAME_PATTERNS = [
