@@ -100,13 +100,13 @@ function SupplierTable({ suppliers, startMonth, endMonth }: {
     if (!sortField) return filteredSuppliers;
 
     return [...filteredSuppliers].sort((a, b) => {
-      let aValue: string | number = a[sortField as keyof typeof a];
-      let bValue: string | number = b[sortField as keyof typeof b];
+      let aValue: string | number = a[sortField as keyof typeof a] as string | number;
+      let bValue: string | number = b[sortField as keyof typeof b] as string | number;
 
       // Speciální logika pro řazení podle názvu
       if (sortField === 'name') {
-        aValue = aValue.toLowerCase();
-        bValue = bValue.toLowerCase();
+        aValue = String(aValue).toLowerCase();
+        bValue = String(bValue).toLowerCase();
       }
 
       if (aValue < bValue) {
