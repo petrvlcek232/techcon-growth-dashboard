@@ -16,8 +16,8 @@ import { CustomerSummary } from '@/lib/types';
 
 interface SidebarProps {
   customers: CustomerSummary[];
-  state: any;
-  onStateChange: (updates: any) => void;
+  state: Record<string, unknown>;
+  onStateChange: (updates: Record<string, unknown>) => void;
   isOpen: boolean;
   onToggle: () => void;
 }

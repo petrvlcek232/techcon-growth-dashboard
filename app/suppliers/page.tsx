@@ -100,8 +100,8 @@ function SupplierTable({ suppliers, startMonth, endMonth }: {
     if (!sortField) return filteredSuppliers;
 
     return [...filteredSuppliers].sort((a, b) => {
-      let aValue: any = a[sortField];
-      let bValue: any = b[sortField];
+      let aValue: string | number = a[sortField as keyof typeof a];
+      let bValue: string | number = b[sortField as keyof typeof b];
 
       // Speciální logika pro řazení podle názvu
       if (sortField === 'name') {
@@ -245,10 +245,10 @@ function SupplierChart({ suppliers, startMonth, endMonth }: {
   const [searchQuery, setSearchQuery] = useState('');
 
   // Barvy pro grafy
-  const colors = [
+  const colors = useMemo(() => [
     '#3B82F6', '#EF4444', '#10B981', '#F59E0B', '#8B5CF6',
     '#EC4899', '#06B6D4', '#84CC16', '#F97316', '#6366F1'
-  ];
+  ], []);
 
   // Filtrování dat podle období - použij stejnou logiku jako v tabulce
   const filteredData = useMemo(() => {
@@ -336,7 +336,7 @@ function SupplierChart({ suppliers, startMonth, endMonth }: {
     // Vytvoření dat pro graf
     return sortedMonths.map(month => {
       const [year, monthPart] = month.split('-'); // Split "2024-01" into ["2024", "01"]
-      const dataPoint: any = { month: `${monthPart}/${year.substring(2)}` }; // Format as "01/24"
+          const dataPoint: Record<string, string | number> = { month: `${monthPart}/${year.substring(2)}` }; // Format as "01/24"
       
       selectedSuppliersData.forEach(supplier => {
         const monthData = supplier.months.find(m => m.period === month);
@@ -425,7 +425,7 @@ function SupplierChart({ suppliers, startMonth, endMonth }: {
                 <div className="text-center text-gray-500 py-4">
                   <p className="text-sm">Žádní dodavatelé nenalezeni</p>
                   {searchQuery && (
-                    <p className="text-xs mt-1">Pro dotaz: "{searchQuery}"</p>
+                    <p className="text-xs mt-1">Pro dotaz: &quot;{searchQuery}&quot;</p>
                   )}
                 </div>
               )}

@@ -4,8 +4,8 @@ import { Button } from '@/components/ui/button';
 import { Menu } from 'lucide-react';
 
 interface TopBarProps {
-  state: any;
-  onStateChange: (updates: any) => void;
+  state: Record<string, unknown>;
+  onStateChange: (updates: Record<string, unknown>) => void;
   availableMonths: string[];
   onMenuToggle?: () => void;
 }
