@@ -113,13 +113,13 @@ export function Sidebar({ customers, state, onStateChange, isOpen, onToggle }: S
         {/* Footer */}
         {!isCollapsed && (
           <div className="p-4 border-t border-gray-200">
-            <div className="text-xs text-gray-500">
-              <div>Celkem zákazníků: {customers.length}</div>
-              <div className="mt-1">
-                {customers.filter(c => c.trend > 0).length} rostoucích, {' '}
-                {customers.filter(c => c.trend < 0).length} klesajících
-              </div>
-            </div>
+                <div className="text-xs text-gray-500">
+                  <div>Celkem zákazníků: {customers.length}</div>
+                  <div className="mt-1">
+                    {customers.filter(c => c.revenueTrend === 'UP').length} rostoucích, {' '}
+                    {customers.filter(c => c.revenueTrend === 'DOWN').length} klesajících
+                  </div>
+                </div>
           </div>
         )}
       </div>
