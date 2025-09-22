@@ -1,7 +1,7 @@
 #!/usr/bin/env node
 
 import { ingestDirectory } from '../lib/ingest.js';
-import { writeProcessed } from '../lib/storage.js';
+import { writeFile } from 'fs/promises';
 import { fileURLToPath } from 'url';
 import { dirname, join } from 'path';
 
@@ -19,7 +19,8 @@ async function runIngest() {
     const aggregatedData = await ingestDirectory(dataDir);
     
     // Uloží data
-    await writeProcessed(aggregatedData);
+    const outputPath = join(__dirname, '..', 'public', 'data', 'processed.json');
+    await writeFile(outputPath, JSON.stringify(aggregatedData, null, 2));
     
     console.log('Build-time ingest dokončen:');
     console.log(`- Měsíců: ${aggregatedData.monthsAvailable.length}`);
